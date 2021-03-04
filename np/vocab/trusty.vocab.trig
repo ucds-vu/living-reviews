@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/livingreviews/np/vocab/LivingLiteratureVocab/RAZ0qV54EeMo-P1QvcYRSf6OSzu6rVEuRbprs3xM7gpKE> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/LivingLiteratureVocab/RAZ0qV54EeMo-P1QvcYRSf6OSzu6rVEuRbprs3xM7gpKE#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/LivingLiteratureVocab/RATV593ZTb7owAFGIZSaziOICTLfUrOGnjN3VOwX2VYoE> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/LivingLiteratureVocab/RATV593ZTb7owAFGIZSaziOICTLfUrOGnjN3VOwX2VYoE#> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/LivingLiteratureVocab/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix pav: <http://purl.org/pav#> .
@@ -9,7 +9,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix vann: <http://purl.org/vocab/vann/> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -41,8 +41,8 @@ sub:pubinfo {
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/EmpiricalArticle/RApVFe9whuJp4U8ZBGW7MlmGxXumyPNx-S1Xpat1rrwiI> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/EmpiricalArticle/RApVFe9whuJp4U8ZBGW7MlmGxXumyPNx-S1Xpat1rrwiI#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/EmpiricalArticle/RAoq1xRyMSALUketPo70LKzWAO1wJXLjY6lIECA7HEdhs> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/EmpiricalArticle/RAoq1xRyMSALUketPo70LKzWAO1wJXLjY6lIECA7HEdhs#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/EmpiricalArticle/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -52,7 +52,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -78,8 +78,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/ConceptPaper/RANPaYkBj85yyphoroDrtygS5XgIT1VBnwXI0c6g0M_EU> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/ConceptPaper/RANPaYkBj85yyphoroDrtygS5XgIT1VBnwXI0c6g0M_EU#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/ConceptPaper/RAUW0w4QUkda7zrP1rhO-_uXiIlxO6Zo2znqnBwUu4Brg> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/ConceptPaper/RAUW0w4QUkda7zrP1rhO-_uXiIlxO6Zo2znqnBwUu4Brg#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/ConceptPaper/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -89,7 +89,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -115,8 +115,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/LiteratureReview/RAgrLSXcIap-YK8OMdTAWpSZnohD508BmDxDfjBVKjvMs> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/LiteratureReview/RAgrLSXcIap-YK8OMdTAWpSZnohD508BmDxDfjBVKjvMs#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/LiteratureReview/RABgpkRG4ZVa3etPqSJ9AzYQNlsevrb2GxV8t1WvuZKa8> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/LiteratureReview/RABgpkRG4ZVa3etPqSJ9AzYQNlsevrb2GxV8t1WvuZKa8#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/LiteratureReview/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -126,7 +126,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -152,8 +152,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/QuantatitiveAnalysis/RAGpM3_6b7Bx-XdargatFgS72NEAAU1LWxYuk-F_bhB4g> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/QuantatitiveAnalysis/RAGpM3_6b7Bx-XdargatFgS72NEAAU1LWxYuk-F_bhB4g#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/QuantatitiveAnalysis/RAvAcgiRAOcgqvpFeI6iQz0BL3NvU8XnW8kaoFrnBTD2s> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/QuantatitiveAnalysis/RAvAcgiRAOcgqvpFeI6iQz0BL3NvU8XnW8kaoFrnBTD2s#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/QuantatitiveAnalysis/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -163,7 +163,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -189,8 +189,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/Mixed-Method-Design/RATlMS4SYWoEVCfL_c6B8hx2wCdiEyBbP_OJJfrrAAvFc> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/Mixed-Method-Design/RATlMS4SYWoEVCfL_c6B8hx2wCdiEyBbP_OJJfrrAAvFc#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Mixed-Method-Design/RAZ5XCUpl4L9hRT0WrvCv-qg5N1x5rUDE7nARNFCNheQc> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Mixed-Method-Design/RAZ5XCUpl4L9hRT0WrvCv-qg5N1x5rUDE7nARNFCNheQc#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Mixed-Method-Design/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -200,7 +200,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -226,8 +226,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/Survey/RAW4AzXLO_JqAIHXB74-SB-vw9emY5_qZGYqUB845H4hI> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/Survey/RAW4AzXLO_JqAIHXB74-SB-vw9emY5_qZGYqUB845H4hI#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Survey/RAoM1Js6On9SdX8qIBO64x5zIPuCRyBt7KfAfOON3pCw8> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Survey/RAoM1Js6On9SdX8qIBO64x5zIPuCRyBt7KfAfOON3pCw8#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Survey/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -237,7 +237,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -263,8 +263,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/Experiment/RAofY9W3DMmfH9ZrR0FQXjLpvY9p7f6j3h1Xn4foyMWqc> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/Experiment/RAofY9W3DMmfH9ZrR0FQXjLpvY9p7f6j3h1Xn4foyMWqc#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Experiment/RAtarLcR6r-x3_0e2sxoiDGzBkay3OU84-b6FdYPWTQCQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Experiment/RAtarLcR6r-x3_0e2sxoiDGzBkay3OU84-b6FdYPWTQCQ#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Experiment/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -274,7 +274,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -300,8 +300,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/ContentAnalysis/RAr_syyRjT-m2gIikaftjMT359bqZYzNwrg5qMX_4oIRk> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/ContentAnalysis/RAr_syyRjT-m2gIikaftjMT359bqZYzNwrg5qMX_4oIRk#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/ContentAnalysis/RAr7Ywu69AtXbi-RRR_wtySDRGDIxLDqmy8UgfyA2Q6jo> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/ContentAnalysis/RAr7Ywu69AtXbi-RRR_wtySDRGDIxLDqmy8UgfyA2Q6jo#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/ContentAnalysis/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -311,7 +311,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -337,8 +337,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/Observation/RA2wF9aXK7__iVASkS3zkl0BhvO5SbAqwySS_lof2CwfY> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/Observation/RA2wF9aXK7__iVASkS3zkl0BhvO5SbAqwySS_lof2CwfY#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Observation/RAy3JdxGfW0OdKBfO6_udvidQQTJzc1ufSQtfTs6we5ew> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Observation/RAy3JdxGfW0OdKBfO6_udvidQQTJzc1ufSQtfTs6we5ew#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Observation/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -348,7 +348,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -374,8 +374,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/providesEvidenceFor/RAHchM56lzBUP4TNmoilnFOkww_fqwYbQbXtjKtbisC2Q> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/providesEvidenceFor/RAHchM56lzBUP4TNmoilnFOkww_fqwYbQbXtjKtbisC2Q#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/providesEvidenceFor/RAo580d7toU1O4Jfz_IJpPhY3HzPXF6AFBTXSYeKE-VCU> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/providesEvidenceFor/RAo580d7toU1O4Jfz_IJpPhY3HzPXF6AFBTXSYeKE-VCU#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/providesEvidenceFor/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -386,7 +386,7 @@ sub:pubinfo {
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix hycl: <http://purl.org/petapico/o/hycl#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -413,8 +413,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/providesCounterEvidenceFor/RAr6odCvoXemRYXloInpsOAlNGU2WvtMnmjMNjxOTmEGM> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/providesCounterEvidenceFor/RAr6odCvoXemRYXloInpsOAlNGU2WvtMnmjMNjxOTmEGM#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/providesCounterEvidenceFor/RA9aftmJIcIeFw5EuupL9vxfyDyyfWqzKqJcrkoqwZk40> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/providesCounterEvidenceFor/RA9aftmJIcIeFw5EuupL9vxfyDyyfWqzKqJcrkoqwZk40#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/providesCounterEvidenceFor/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -425,7 +425,7 @@ sub:pubinfo {
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix hycl: <http://purl.org/petapico/o/hycl#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -452,8 +452,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/landOfFocus/RAuwKmZrKQo5Eyl1Ng_QQBDOlJDFJeRjWa4bNc2LpUkPM> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/landOfFocus/RAuwKmZrKQo5Eyl1Ng_QQBDOlJDFJeRjWa4bNc2LpUkPM#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/landOfFocus/RALnZNYeadcWuKnZaDdcNVb7hGqaRgBF6JixSx9Fj99PQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/landOfFocus/RALnZNYeadcWuKnZaDdcNVb7hGqaRgBF6JixSx9Fj99PQ#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/landOfFocus/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -463,7 +463,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 @prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
 
 sub:Head {
@@ -491,8 +491,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/socialMediaPlatform/RAvBxA3L1yVULzfGuqAJQPkpw0qqs-fKSiJKuGh4g6X8Y> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/socialMediaPlatform/RAvBxA3L1yVULzfGuqAJQPkpw0qqs-fKSiJKuGh4g6X8Y#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/socialMediaPlatform/RADqJHbP-39f4l8H4Pe4-71dTFTK9KlNhefj1iuzc_mYY> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/socialMediaPlatform/RADqJHbP-39f4l8H4Pe4-71dTFTK9KlNhefj1iuzc_mYY#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/socialMediaPlatform/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -502,7 +502,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 @prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
 
 sub:Head {
@@ -530,8 +530,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/theoreticalApproach/RARF4ONG0BW7G2OsaIptytnhjP_LSN6213SCoONcgcapc> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/theoreticalApproach/RARF4ONG0BW7G2OsaIptytnhjP_LSN6213SCoONcgcapc#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/theoreticalApproach/RAMRvuPbLI0xe94wCIYY1Rm24rj37fq67wsDMPEs4gR3g> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/theoreticalApproach/RAMRvuPbLI0xe94wCIYY1Rm24rj37fq67wsDMPEs4gR3g#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/theoreticalApproach/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -541,7 +541,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 @prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
 
 sub:Head {
@@ -569,8 +569,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/primaryObject/RARqaQFaX_ME24YfMPi4yQ_PgCJRXhE6oZnAumIz1hHDs> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/primaryObject/RARqaQFaX_ME24YfMPi4yQ_PgCJRXhE6oZnAumIz1hHDs#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/primaryObject/RAvs2tLVepn3cy80plesdaiJ5yMFXc420FAuhTeoTri7Y> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/primaryObject/RAvs2tLVepn3cy80plesdaiJ5yMFXc420FAuhTeoTri7Y#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/primaryObject/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -580,7 +580,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 @prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
 
 sub:Head {
@@ -608,8 +608,8 @@ sub:pubinfo {
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
       orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
 }
-@prefix this: <https://w3id.org/livingreviews/np/vocab/firstAuthorOrigin/RA72Jm8VDYgT2CZ2snyrxKJ82T4flD1In8mZdqH_ooxnQ> .
-@prefix sub: <https://w3id.org/livingreviews/np/vocab/firstAuthorOrigin/RA72Jm8VDYgT2CZ2snyrxKJ82T4flD1In8mZdqH_ooxnQ#> .
+@prefix this: <https://w3id.org/livingreviews/np/vocab/firstAuthorOrigin/RAniSZNPcHGQegLbSGSfG25PUVz4ohOv-MMGpLj7ZHZJ0> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/firstAuthorOrigin/RAniSZNPcHGQegLbSGSfG25PUVz4ohOv-MMGpLj7ZHZJ0#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/firstAuthorOrigin/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -619,7 +619,7 @@ sub:pubinfo {
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
 @prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
 
 sub:Head {
