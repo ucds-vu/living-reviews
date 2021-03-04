@@ -1,0 +1,649 @@
+@prefix this: <https://w3id.org/livingreviews/np/vocab/LivingLiteratureVocab/RAZ0qV54EeMo-P1QvcYRSf6OSzu6rVEuRbprs3xM7gpKE> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/LivingLiteratureVocab/RAZ0qV54EeMo-P1QvcYRSf6OSzu6rVEuRbprs3xM7gpKE#> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/LivingLiteratureVocab/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:LivingLiteratureVocab dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815;
+    dct:description "This is the vocabulairy describing the general implementation choices of the living literature nanopublications.";
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    dct:title "Definitions for living literature nanopublications";
+    vann:preferredNamespacePrefix "llr";
+    vann:preferredNamespaceUri "https://w3id.org/livingreviews/np/";
+    a owl:ontology;
+    rdfs:isDefinedBy latest: .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-31T11:58:51.605+02:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/EmpiricalArticle/RApVFe9whuJp4U8ZBGW7MlmGxXumyPNx-S1Xpat1rrwiI> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/EmpiricalArticle/RApVFe9whuJp4U8ZBGW7MlmGxXumyPNx-S1Xpat1rrwiI#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/EmpiricalArticle/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:EmpiricalArticle a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Empirical article"@en;
+    skos:definition "This study is (part of) an empirical article."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/ConceptPaper/RANPaYkBj85yyphoroDrtygS5XgIT1VBnwXI0c6g0M_EU> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/ConceptPaper/RANPaYkBj85yyphoroDrtygS5XgIT1VBnwXI0c6g0M_EU#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/ConceptPaper/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:ConceptPaper a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "ConceptPaper"@en;
+    skos:definition "This study is (part of) a concept paper."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/LiteratureReview/RAgrLSXcIap-YK8OMdTAWpSZnohD508BmDxDfjBVKjvMs> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/LiteratureReview/RAgrLSXcIap-YK8OMdTAWpSZnohD508BmDxDfjBVKjvMs#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/LiteratureReview/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:LiteratureReview a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Literature review"@en;
+    skos:definition "This study is (part of) a literature review."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/QuantatitiveAnalysis/RAGpM3_6b7Bx-XdargatFgS72NEAAU1LWxYuk-F_bhB4g> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/QuantatitiveAnalysis/RAGpM3_6b7Bx-XdargatFgS72NEAAU1LWxYuk-F_bhB4g#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/QuantatitiveAnalysis/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:QuantatitiveAnalysis a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Quantatitive analysis"@en;
+    skos:definition "The analysis type of this study is the quantatitive analysis."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Mixed-Method-Design/RATlMS4SYWoEVCfL_c6B8hx2wCdiEyBbP_OJJfrrAAvFc> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Mixed-Method-Design/RATlMS4SYWoEVCfL_c6B8hx2wCdiEyBbP_OJJfrrAAvFc#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Mixed-Method-Design/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:Mixed-Method-Design a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Mixed-method design"@en;
+    skos:definition "The analysis type of this study is the mixed-method design."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Survey/RAW4AzXLO_JqAIHXB74-SB-vw9emY5_qZGYqUB845H4hI> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Survey/RAW4AzXLO_JqAIHXB74-SB-vw9emY5_qZGYqUB845H4hI#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Survey/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:Survey a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Survey"@en;
+    skos:definition "The method of study of this study is a survey."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Experiment/RAofY9W3DMmfH9ZrR0FQXjLpvY9p7f6j3h1Xn4foyMWqc> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Experiment/RAofY9W3DMmfH9ZrR0FQXjLpvY9p7f6j3h1Xn4foyMWqc#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Experiment/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:Experiment a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Experiment"@en;
+    skos:definition "The method of study  of this study is the experiment"@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/ContentAnalysis/RAr_syyRjT-m2gIikaftjMT359bqZYzNwrg5qMX_4oIRk> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/ContentAnalysis/RAr_syyRjT-m2gIikaftjMT359bqZYzNwrg5qMX_4oIRk#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/ContentAnalysis/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:ContentAnalysis a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Content analysis"@en;
+    skos:definition "The method of study of this study is a content analysis."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/Observation/RA2wF9aXK7__iVASkS3zkl0BhvO5SbAqwySS_lof2CwfY> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/Observation/RA2wF9aXK7__iVASkS3zkl0BhvO5SbAqwySS_lof2CwfY#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Observation/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:Observation a owl:Class;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "Observation"@en;
+    skos:definition "The method of study of this study is a observation."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/providesEvidenceFor/RAHchM56lzBUP4TNmoilnFOkww_fqwYbQbXtjKtbisC2Q> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/providesEvidenceFor/RAHchM56lzBUP4TNmoilnFOkww_fqwYbQbXtjKtbisC2Q#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/providesEvidenceFor/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:providesEvidenceFor a owl:DatatypeProperty;
+    rdfs:domain hycl:Statement;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "provides evidence for"@en;
+    skos:definition "Indicates that a study provides evidence for a specific statement."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/providesCounterEvidenceFor/RAr6odCvoXemRYXloInpsOAlNGU2WvtMnmjMNjxOTmEGM> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/providesCounterEvidenceFor/RAr6odCvoXemRYXloInpsOAlNGU2WvtMnmjMNjxOTmEGM#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/providesCounterEvidenceFor/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:providesCounterEvidenceFor a owl:DatatypeProperty;
+    rdfs:domain hycl:Statement;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "provides counter evidence for"@en;
+    skos:definition "Indicates that a study or statement provides counter evidence for a specific statement."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/landOfFocus/RAuwKmZrKQo5Eyl1Ng_QQBDOlJDFJeRjWa4bNc2LpUkPM> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/landOfFocus/RAuwKmZrKQo5Eyl1Ng_QQBDOlJDFJeRjWa4bNc2LpUkPM#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/landOfFocus/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:landOfFocus a owl:DatatypeProperty;
+    rdfs:domain cdoc:Study;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "land of focus"@en;
+    skos:definition "The land where the study is focussing on."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/socialMediaPlatform/RAvBxA3L1yVULzfGuqAJQPkpw0qqs-fKSiJKuGh4g6X8Y> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/socialMediaPlatform/RAvBxA3L1yVULzfGuqAJQPkpw0qqs-fKSiJKuGh4g6X8Y#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/socialMediaPlatform/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:socialMediaPlatform a owl:DatatypeProperty;
+    rdfs:domain cdoc:Study;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "social media platform"@en;
+    skos:definition "The social media platform on which the study is focussing or collects it's data."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/theoreticalApproach/RARF4ONG0BW7G2OsaIptytnhjP_LSN6213SCoONcgcapc> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/theoreticalApproach/RARF4ONG0BW7G2OsaIptytnhjP_LSN6213SCoONcgcapc#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/theoreticalApproach/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:theoreticalApproach a owl:DatatypeProperty;
+    rdfs:domain cdoc:Study;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "theoretical approach"@en;
+    skos:definition "Tells which theoretical approach is used for the study."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/primaryObject/RARqaQFaX_ME24YfMPi4yQ_PgCJRXhE6oZnAumIz1hHDs> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/primaryObject/RARqaQFaX_ME24YfMPi4yQ_PgCJRXhE6oZnAumIz1hHDs#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/primaryObject/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:primaryObject a owl:DatatypeProperty;
+    rdfs:domain cdoc:Study;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "primaryObject"@en;
+    skos:definition "The primary object that the study is focussing on."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+@prefix this: <https://w3id.org/livingreviews/np/vocab/firstAuthorOrigin/RA72Jm8VDYgT2CZ2snyrxKJ82T4flD1In8mZdqH_ooxnQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/vocab/firstAuthorOrigin/RA72Jm8VDYgT2CZ2snyrxKJ82T4flD1In8mZdqH_ooxnQ#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/firstAuthorOrigin/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix llr: <https://github.com/timolek/living_reviews/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  llr:firstAuthorOrigin a owl:DatatypeProperty;
+    rdfs:domain cdoc:Study;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "first author origin"@en;
+    skos:definition "The land where the first author is coming from."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880,
+      orcid:0000-0002-3429-2879, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-2363-5880, orcid:0000-0002-3429-2879,
+      orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815 .
+}

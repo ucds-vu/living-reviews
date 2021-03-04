@@ -1,0 +1,512 @@
+@prefix this: <https://w3id.org/livingreviews/np/relation/1/RAMm8u157ZRo4bsnlQurci_Y9O4eSrHKdAdvg67pzFnVw> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/1/RAMm8u157ZRo4bsnlQurci_Y9O4eSrHKdAdvg67pzFnVw#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/2/RALTT5rd6yWMOmdP4ZVMVjqANnwtQMJbhHCW0u06FJXjI> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/2/RALTT5rd6yWMOmdP4ZVMVjqANnwtQMJbhHCW0u06FJXjI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.>
+    hycl:hasMoreSpecificMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/3/RA5Ba6FWSJyrz1kCzpLS2sRz1RED8scseBizI6nqe1v-4> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/3/RA5Ba6FWSJyrz1kCzpLS2sRz1RED8scseBizI6nqe1v-4#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.>
+    hycl:hasMoreSpecificMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/4/RA52fJvhggXYQyqkxqvibihbBojC9uVSH9V79Sw10Nj4Y> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/4/RA52fJvhggXYQyqkxqvibihbBojC9uVSH9V79Sw10Nj4Y#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.>
+    hycl:hasMoreSpecificMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/5/RAqjNeEzwUI-Mc67ctd6QaGI1EVspI_W99n2ut1Lo-HMk> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/5/RAqjNeEzwUI-Mc67ctd6QaGI1EVspI_W99n2ut1Lo-HMk#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.>
+    hycl:hasMoreSpecificMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/6/RAEbvFb1RYc10o-03dGz8-OxEYFbl6wgaPyzb4V_cVtI0> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/6/RAEbvFb1RYc10o-03dGz8-OxEYFbl6wgaPyzb4V_cVtI0#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/7/RAIJyRch3hXZsMfw9S5hpPtwsSWxlodF_3P3oUf9J6TgE> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/7/RAIJyRch3hXZsMfw9S5hpPtwsSWxlodF_3P3oUf9J6TgE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+often+share+news+seem+to+actively+include+news+from+media+organizations+with+ideologies+that+differ+from+their+own.>
+    llr:providesCounterevidenceFor <https://purl.org/aida/People+predominantly+share+like-minded+news+articles+while+avoiding+the+sharing+of+conflicting+ones> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/8/RAe_PJW45GkEGuQSFRYe8W5XFfSvjCPfzbPjyl_2Z5ZWs> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/8/RAe_PJW45GkEGuQSFRYe8W5XFfSvjCPfzbPjyl_2Z5ZWs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/9/RAb39E_TwlSpe5nmV2sRDT61mSL71z0i-tJMTYI3Itu44> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/9/RAb39E_TwlSpe5nmV2sRDT61mSL71z0i-tJMTYI3Itu44#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/10/RAxfG2kHhz3JiYcZ-vy3vS1nGHUdR47-IDZzVW1nmSMZM> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/10/RAxfG2kHhz3JiYcZ-vy3vS1nGHUdR47-IDZzVW1nmSMZM#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/11/RAa5TfCJO24mdrVz7_qArKkLy_Ps_GE7cmrxkkKPaWr-A> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/11/RAa5TfCJO24mdrVz7_qArKkLy_Ps_GE7cmrxkkKPaWr-A#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/12/RAMdnl1WKQgKiYvbD1AJ2ohfMl3Lxxan9M_ayOQr71418> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/12/RAMdnl1WKQgKiYvbD1AJ2ohfMl3Lxxan9M_ayOQr71418#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/13/RADlhZpbbnzPBwWjqxunYhrsqPZ1v44wp6dpZBAtFrfo0> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/13/RADlhZpbbnzPBwWjqxunYhrsqPZ1v44wp6dpZBAtFrfo0#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/14/RADVccKOkSeyfAljlRkNSGGfmUE7lgBkQ9pJJ7mkPRJD4> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/14/RADVccKOkSeyfAljlRkNSGGfmUE7lgBkQ9pJJ7mkPRJD4#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/More+arousing+content+regardless+if+positive+or+negative+is+shared+more+often>
+    hycl:hasRelatedMeaning <https://purl.org/aida/Emotional+arousal+increases+the+likelihood+of+sharing+news.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/15/RAaAShiHEXIu9NuGnBjIQsar_KteWm_EmkvUBpnN6XWZQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/15/RAaAShiHEXIu9NuGnBjIQsar_KteWm_EmkvUBpnN6XWZQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/More+arousing+content+regardless+if+positive+or+negative+is+shared+more+often>
+    hycl:hasRelatedMeaning <https://purl.org/aida/Emotional+arousal+increases+the+likelihood+of+sharing+news.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/relation/16/RAxTHPHNbG4v2peKMcotLTyDPR3WI4vl9G6g2nZxLhKCk> .
+@prefix sub: <https://w3id.org/livingreviews/np/relation/16/RAxTHPHNbG4v2peKMcotLTyDPR3WI4vl9G6g2nZxLhKCk#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://purl.org/aida/Articles+that+are+placed+more+prominently+on+a+given+website+have+a+higher+chance+to+be+shared.>
+    hycl:hasRelatedMeaning <https://purl.org/aida/The+ranking+or+placing+of+an+article+on+a+given+website+affects+its+sharing+probability.> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
