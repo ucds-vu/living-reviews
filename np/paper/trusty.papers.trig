@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/livingreviews/np/paper/1931243114546448/RAC4GBoHxY3axxSZQqHZ3itWom4TMraPJRzFB6mIGEuRE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1931243114546448/RAC4GBoHxY3axxSZQqHZ3itWom4TMraPJRzFB6mIGEuRE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1931243114546448/RACcUw9QxKeocRP3dbXxxruPZtPFKtCVdEAC_AaYKA1-E> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1931243114546448/RACcUw9QxKeocRP3dbXxxruPZtPFKtCVdEAC_AaYKA1-E#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -18,7 +18,7 @@ sub:Head {
 sub:assertion {
   <https://doi.org/10.1177/1931243114546448> hycl:claims <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1931243114546448/Primary/RAMun-b_UaAJiKFjb0ofzju9bQXSAVGUJKDgJnfcqaUT8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1931243114546448/Primary/RAOkPkvBg9bDGOmOMJTXd8PlQQ_yH0Qb-MIoXz2LyG2wM#study> .
 }
 
 sub:provenance {
@@ -26,14 +26,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1077699013482906/RAQB5Yg0xiTM1-BKxVxDoP-XdZXMtLau7ba_xj5lf00uo> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1077699013482906/RAQB5Yg0xiTM1-BKxVxDoP-XdZXMtLau7ba_xj5lf00uo#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1077699013482906/RAKSpx2QM-fKhKyRVmuA3EwBFU7hWxIe9nXv58TE74nR8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1077699013482906/RAKSpx2QM-fKhKyRVmuA3EwBFU7hWxIe9nXv58TE74nR8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -52,7 +52,7 @@ sub:Head {
 sub:assertion {
   <https://doi.org/10.1177/1077699013482906> hycl:claims <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1077699013482906/Primary/RAK7MSsmfcAcOXHUYz30IC1r4nEspzKUCkEiPwKp-Dz5c#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1077699013482906/Primary/RAxuzZLhU74dc9kMnyOIvbu7KDNE20ycCDktr2MeuiHv8#study> .
 }
 
 sub:provenance {
@@ -60,14 +60,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2684103.2684171/RAD6s7yX6V2r8MvZageK3QqHAwQtjRfMzTV1_Tu3GsRmc> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2684103.2684171/RAD6s7yX6V2r8MvZageK3QqHAwQtjRfMzTV1_Tu3GsRmc#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2684103.2684171/RAmsUEAydAGPsLDmqJ7qcG3qOl4yS4vVBl-WvRsJtESi8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2684103.2684171/RAmsUEAydAGPsLDmqJ7qcG3qOl4yS4vVBl-WvRsJtESi8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -87,7 +87,7 @@ sub:assertion {
   <http://doi.org/10.1145/2684103.2684171> hycl:claims <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.+>,
       <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2684103.2684171/Primary/RAjmp2YZfoFfNN24zV2naEBZdnQkSSI6ql426FRSucH3o#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2684103.2684171/Primary/RAWxkUGTuu-v83pAlP2vvpQ3KvFr03dQXDwayrvHXbf-I#study> .
 }
 
 sub:provenance {
@@ -95,14 +95,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/0956797611413294/RAoHNgeJ3rgc5Rc0DBEa-oTep-g7osmxIfzowgpVEz0gE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/0956797611413294/RAoHNgeJ3rgc5Rc0DBEa-oTep-g7osmxIfzowgpVEz0gE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/0956797611413294/RAOySjn84NliDhtDT571X31QY0KFzQPArTiq9kEokRICc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/0956797611413294/RAOySjn84NliDhtDT571X31QY0KFzQPArTiq9kEokRICc#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -121,7 +121,7 @@ sub:Head {
 sub:assertion {
   <http://doi.org/10.1177/0956797611413294> hycl:claims <https://purl.org/aida/Emotional+arousal+increases+the+likelihood+of+sharing+news.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/0956797611413294/Primary/RAyVMgXrs8wFIYwJFIWWimp6yKwuSzhHCb_IJOPLPwkGo#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/0956797611413294/Primary/RAqnXvL0uEwNQU9q4bJ79YVJTBru0EMAYMwoRgRNMlL-A#study> .
 }
 
 sub:provenance {
@@ -129,14 +129,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2487807/RAyZSL9rVf6IeeuhI-PT4UhPJsbWfdMTH-jjaINXamhWo> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2487807/RAyZSL9rVf6IeeuhI-PT4UhPJsbWfdMTH-jjaINXamhWo#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2487807/RABPCZpT4ZGc9oQ4WpKxYj5jGdL8uzYrTvPPE3moS6vNk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2487807/RABPCZpT4ZGc9oQ4WpKxYj5jGdL8uzYrTvPPE3moS6vNk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -155,7 +155,7 @@ sub:Head {
 sub:assertion {
   <https://doi.org/10.1145/2487788.2487807> hycl:claims <https://purl.org/aida/People+predominantly+share+like-minded+news+articles+while+avoiding+the+sharing+of+conflicting+ones.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2487807/Primary/RAKxDFZDdlVo4QlCWNu7kb3eAMe26J_4X0m19OdcuZazA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2487807/Primary/RAR6D5osFzQgJ0CQtbXzPqIkVgNkteTot3pb6LKpLQpiM#study> .
 }
 
 sub:provenance {
@@ -163,14 +163,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2441776.2441877/RAns2JTHZ_scWVGo6r6vGiy1SoQstiYZgVH3pmcGhupO0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2441776.2441877/RAns2JTHZ_scWVGo6r6vGiy1SoQstiYZgVH3pmcGhupO0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2441776.2441877/RAHGyw9Xkem7JWkNXcmTtgU6Wf0rX_2RE5y9Gq1jBO5Lc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2441776.2441877/RAHGyw9Xkem7JWkNXcmTtgU6Wf0rX_2RE5y9Gq1jBO5Lc#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -189,7 +189,7 @@ sub:Head {
 sub:assertion {
   <https://doi.org/10.1145/2441776.2441877> hycl:claims <https://purl.org/aida/People+who+often+share+news+seem+to+actively+include+news+from+media+organizations+with+ideologies+that+differ+from+their+own.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2441776.2441877/Primary/RAyC-MM3QYHswn0K3OQ_IOZiR5nlS5ECgtN6JZw75a6OE#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2441776.2441877/Primary/RAEwRwVadA9lD7JJKM9hhaHq3Hfgqsn4CDjQu1mIiaqqQ#study> .
 }
 
 sub:provenance {
@@ -197,14 +197,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2011.10.002/RAXdCEqItZk8EyEMdZ956Y5fS6GO2DMKbmHNRgsmlIZro> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2011.10.002/RAXdCEqItZk8EyEMdZ956Y5fS6GO2DMKbmHNRgsmlIZro#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2011.10.002/RAqd7WwrCTfeT8rYUO6wyiJVIo5uAP8uyRiG8yRO_e4zM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2011.10.002/RAqd7WwrCTfeT8rYUO6wyiJVIo5uAP8uyRiG8yRO_e4zM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -225,7 +225,7 @@ sub:assertion {
       <https://purl.org/aida/People+share+news+to+gain+reputation,+to+draw+people’s+attention,+and+to+attain+status+among+peers+or+other+users.>,
       <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2011.10.002/Primary/RAIihilunaLyeiuUSS6p_ad36TJNI2NXrxCu2kZNsJP9I#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2011.10.002/Primary/RARl4dDOaGvzuf04be5HyBmeeknQZFn3LWrJA1w-2LXHQ#study> .
 }
 
 sub:provenance {
@@ -233,14 +233,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1998076.1998103/RApVewD95BM3vVprrgUmGVsG2rVDe2-iwz43Ut8W8XBOk> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1998076.1998103/RApVewD95BM3vVprrgUmGVsG2rVDe2-iwz43Ut8W8XBOk#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1998076.1998103/RAEnzGeCzO8oSP4NwHD8bUCcN0qe1ATTdB5kH8bLVaeQY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1998076.1998103/RAEnzGeCzO8oSP4NwHD8bUCcN0qe1ATTdB5kH8bLVaeQY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -260,7 +260,7 @@ sub:assertion {
   <http://doi.org/10.1145/1998076.1998103> hycl:claims <https://purl.org/aida/People+share+news+to+gain+reputation,+to+draw+people’s+attention,+and+to+attain+status+among+peers+or+other+users.>,
       <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1998076.1998103/Primary/RAZMrcAEBymyxBBUZWoQGn2iIwckXlXXB6pQQXVR-IPPQ#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1998076.1998103/Primary/RAMlPf4f1YghKvasXKbfohYR_Q67NFJQ1Q5BG9910ViHA#study> .
 }
 
 sub:provenance {
@@ -268,14 +268,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/HICSS.2010.412/RAVOJAwhg-WQPS-BPLW5WOIQkOha8KNllIkt7I_lNdlU0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/HICSS.2010.412/RAVOJAwhg-WQPS-BPLW5WOIQkOha8KNllIkt7I_lNdlU0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/HICSS.2010.412/RAzObL2bWE9o0JbZcoas5sNwyaKyrdWpqXPD1fJhSrFrw> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/HICSS.2010.412/RAzObL2bWE9o0JbZcoas5sNwyaKyrdWpqXPD1fJhSrFrw#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -295,8 +295,8 @@ sub:assertion {
   <http://doi.org/10.1109/HICSS.2010.412> hycl:claims <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing.>,
       <https://purl.org/aida/People+share+news+to+gain+reputation,+to+draw+people’s+attention,+and+to+attain+status+among+peers+or+other+users.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/HICSS.2010.412/Primary/RAicgwu_LDhCqpPsNUKQZ39wvYzYWOmmuc0DBrWaUUm_M#study>,
-      <https://w3id.org/livingreviews/np/study/HICSS.2010.412/Secondary/RAQp5ZuxysGVl7NOtdLGhvDP5lzYCkHeJNd49ISz9jrBM#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/HICSS.2010.412/Primary/RA1Y20XDr3XRQeVxl7WrjSR-nCwtAZffpqj2LzhjR713Q#study>,
+      <https://w3id.org/livingreviews/np/study/HICSS.2010.412/Secondary/RA9gdhtzjWgpHF7Zz8BSAiINlzpahHvn-V9E19gcYL0mE#study> .
 }
 
 sub:provenance {
@@ -304,14 +304,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/08824096.2013.843165/RAyXDwo6Zusl46Ruoy0K48R3cXPot5yMMhFvRX8z_Frjc> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/08824096.2013.843165/RAyXDwo6Zusl46Ruoy0K48R3cXPot5yMMhFvRX8z_Frjc#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/08824096.2013.843165/RAFxUVubfif9u6bpwBszq2BkOHKyY6U0EuEbJfer5oOFs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/08824096.2013.843165/RAFxUVubfif9u6bpwBszq2BkOHKyY6U0EuEbJfer5oOFs#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -331,7 +331,7 @@ sub:assertion {
   <http://doi.org/10.1080/08824096.2013.843165> hycl:claims <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing.>,
       <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/08824096.2013.843165/Primary/RALnY3W8u4H7s7ecMCmVzaC0HuThOSclzLXXbts_Nq5_w#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/08824096.2013.843165/Primary/RAZygmS4I-CgV9OiSS0GB4jw9W0VLUV7okvqla-_5ZdjU#study> .
 }
 
 sub:provenance {
@@ -339,14 +339,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2011.554572/RALDEbRjkWQ75aubcqGcOTr3V9HJjAOjKOMeLNztF9oX8> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2011.554572/RALDEbRjkWQ75aubcqGcOTr3V9HJjAOjKOMeLNztF9oX8#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2011.554572/RAMzOpKW52jcl4yzxBBYjrCRhJGaLYUfW5KnbmAbk1d5k> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2011.554572/RAMzOpKW52jcl4yzxBBYjrCRhJGaLYUfW5KnbmAbk1d5k#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -365,7 +365,7 @@ sub:Head {
 sub:assertion {
   <http://doi.org/10.1080/1369118X.2011.554572> hycl:claims <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2011.554572/Primary/RAivEtvjsqHXaAE_tUBK5aO0aD4qjnSzl-wQHpqQBeFf4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2011.554572/Primary/RAlgcn_vzuuIMzx-iT9oFW-lMvP54uuR_uPkK1viLYcoQ#study> .
 }
 
 sub:provenance {
@@ -373,14 +373,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/3336451.0011.305/RA4YNWZzRcqK5196hFBRUoBprNkkmV9IHo6sQZd6RnqVI> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/3336451.0011.305/RA4YNWZzRcqK5196hFBRUoBprNkkmV9IHo6sQZd6RnqVI#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/3336451.0011.305/RAoWTnwPdx_AnD9yB-qXTQW6rU36EBLdf0ZXVKs_sMEc0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/3336451.0011.305/RAoWTnwPdx_AnD9yB-qXTQW6rU36EBLdf0ZXVKs_sMEc0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -399,7 +399,7 @@ sub:Head {
 sub:assertion {
   <http://doi.org/10.3998/3336451.0011.305> hycl:claims <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/3336451.0011.305/Primary/RAXl0357qWOk_knAeVOyH00RRdiZ-zB45Hw0-jgQY5Huk#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/3336451.0011.305/Primary/RA2_zx8qhGPtBtYnUAhAI60rjPJFvjraOI0RrZ1OQpHV0#study> .
 }
 
 sub:provenance {
@@ -407,14 +407,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -434,8 +434,8 @@ sub:assertion {
   <http://doi.org/10.1145/1935826.1935845> hycl:claims <https://purl.org/aida/Content+that+is+deemed+interesting+shares+a+positive+relation+with+sharing+news+content.>,
       <https://purl.org/aida/Content+with+a+positive+valence+is+shared+more+often.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1935826.1935845/Primary/RAaDy8N-5gNfc4SZhDE-beZFfhDl9bvsLDsDd2tycBFbg#RAPg6Xo81t_IofYOKBYT5eILRX4pHziXR60miVejB-HuY%23study>,
-      <https://w3id.org/livingreviews/np/study/1935826.1935845/Secondary/RAsxfdGneuJHSwY2FtqddEcBWag-5HYpuxtyqHRTE15ms#RAM5zliIN4E3iCQ5ACpwJs5_Y2rQNYkw5thxGV7DOy_lg%23study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1935826.1935845/Primary/RAjGzMYKHBBn81UQcc1YHThCSC6wQAaKzo5vrOfJm11G4#RAsJlw2wj5ZaDP8r3L7wvquc98fWx0LpgAz52TKxTaQyU%23study>,
+      <https://w3id.org/livingreviews/np/study/1935826.1935845/Secondary/RAsdkWq70gPJc7IwWtBh4otRNNhDdpXMCa6CYG0eAz7Ek#RAQuwzp13xhPQ6oih51lHTRovAjcmAibYvEoxSPIDZpLE%23study> .
 }
 
 sub:provenance {
@@ -443,14 +443,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000001/RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000001/RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000001/RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000001/RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -467,7 +467,7 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000001/Primary/RAVt1CbraFNbI2FnIEHXPmomJ6W6aY-dci98b90Ui43gs#RA_CYwp3Sqf43KWu_43DBb3sOo5QVumHqiO-X7K-t7cSs%23study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000001/Primary/RA2Ax2bzR5CsRsAxgyZM4QNtKGcF21nw8VbzE4hvdE1uM#RAt6UaVkXWD86TaXTtkeV8QnrTQltmmJO1kCtlyMTnqzY%23study> .
 }
 
 sub:provenance {
@@ -475,14 +475,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/jmr.10.0353/RAplNTVgruiS4QqLH0kUfl9pdnJ-SiUnNZefvtmMxajoY> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/jmr.10.0353/RAplNTVgruiS4QqLH0kUfl9pdnJ-SiUnNZefvtmMxajoY#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/jmr.10.0353/RAzffbzfJZSM5pCdy2PWmR9DhPC8tGlKRMmGQljr4FWg4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/jmr.10.0353/RAzffbzfJZSM5pCdy2PWmR9DhPC8tGlKRMmGQljr4FWg4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -503,8 +503,8 @@ sub:assertion {
       <https://purl.org/aida/Content+with+a+positive+valence+is+shared+more+often.>, <https://purl.org/aida/More+arousing+content+regardless+if+positive+or+negative+is+shared+more+often.>,
       <https://purl.org/aida/The+ranking+or+placing+of+an+article+on+a+given+website+affects+its+sharing+probability.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/jmr.10.0353/Primary/RAe_S5zpPVSqoXfoA8MbPslsfYHxT3lVWyUWg5m7WVgQE#study>,
-      <https://w3id.org/livingreviews/np/study/jmr.10.0353/Secondary/RA_iojP4W_3sJxz3ttRW5c4xeQ5pSVNrhBKonbvK04xXE#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/jmr.10.0353/Primary/RA9YP7I5md82J7SvxBGt6ZdKYjaRle9YzA-CBdvl8utVA#study>,
+      <https://w3id.org/livingreviews/np/study/jmr.10.0353/Secondary/RA-FlJ0NmEql_9JEbM07TzNAtQeuSjfWu_7GABCHbQOAM#study> .
 }
 
 sub:provenance {
@@ -512,14 +512,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAmXixZmB-e1o3BuAfv8eECc2Ve-q9pFZgovSEq8bu-7o#> .
-@prefix : <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAEEKQO3tplNT0jl4y_cOMAfdzuqIQFVnM32Z6VIWKyqo#> .
+@prefix : <https://w3id.org/livingreviews/np/paper/1935826.1935845/RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -528,35 +528,35 @@ sub:pubinfo {
 @prefix fabio: <http://purl.org/spar/fabio/> .
 @prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
 
-sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23Head {
-  : np:hasAssertion sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23assertion;
-    np:hasProvenance sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23provenance;
-    np:hasPublicationInfo sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23pubinfo;
+sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23Head {
+  : np:hasAssertion sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23assertion;
+    np:hasProvenance sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23provenance;
+    np:hasPublicationInfo sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23pubinfo;
     a np:Nanopublication .
 }
 
-sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23assertion {
+sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23assertion {
   <http://doi.org/10.1145/1935826.1935845> hycl:claims <https://purl.org/aida/Content+that+is+deemed+interesting+shares+a+positive+relation+with+sharing+news+content.>,
       <https://purl.org/aida/Content+with+a+positive+valence+is+shared+more+often.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1935826.1935845/Primary/RAaDy8N-5gNfc4SZhDE-beZFfhDl9bvsLDsDd2tycBFbg#RAPg6Xo81t_IofYOKBYT5eILRX4pHziXR60miVejB-HuY%23study>,
-      <https://w3id.org/livingreviews/np/study/1935826.1935845/Secondary/RAsxfdGneuJHSwY2FtqddEcBWag-5HYpuxtyqHRTE15ms#RAM5zliIN4E3iCQ5ACpwJs5_Y2rQNYkw5thxGV7DOy_lg%23study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1935826.1935845/Primary/RAjGzMYKHBBn81UQcc1YHThCSC6wQAaKzo5vrOfJm11G4#RAsJlw2wj5ZaDP8r3L7wvquc98fWx0LpgAz52TKxTaQyU%23study>,
+      <https://w3id.org/livingreviews/np/study/1935826.1935845/Secondary/RAsdkWq70gPJc7IwWtBh4otRNNhDdpXMCa6CYG0eAz7Ek#RAQuwzp13xhPQ6oih51lHTRovAjcmAibYvEoxSPIDZpLE%23study> .
 }
 
-sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23provenance {
-  sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23assertion prov:wasDerivedFrom
+sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23provenance {
+  sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23assertion prov:wasDerivedFrom
       <http://doi.org/10.1145/1935826.1935845> .
 }
 
-sub:RAZVWR-g4SBidpHjhezfnQzqYU6lVOjtyNTD4nw3BKL3I%23pubinfo {
-  : dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+sub:RAPPd4FfedZ8kl1O75tHPbntW19eijwbPROxG8D8d-ETk%23pubinfo {
+  : dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000002/RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000002/RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000002/RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000002/RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -573,7 +573,7 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000002/Primary/RAOVgyt46d7XwdMD1PPWD_yXckGC0f__qe1IBJ38EH7es#RAX5NRvrMm99YT_w1aKsJ9-SgO752MhCEEILtaNpTgD8k%23study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000002/Primary/RA1SWFdYytEVtpzK4e90Fi0fAk8UQWYCJPRryEhXhzZtY#RAs24eFY-ObO5-oYXW-ZB0yDQMVFJmeMx9dNdj0XTA_q8%23study> .
 }
 
 sub:provenance {
@@ -581,14 +581,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2014.03.006/RAuaekQtOM2QbASaafPbXRUFBP35e1OUmV5qiGP9B3mCI> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2014.03.006/RAuaekQtOM2QbASaafPbXRUFBP35e1OUmV5qiGP9B3mCI#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2014.03.006/RAhky9AMcug6Rw0588u8zu7ijgjEP4faHihYS-RvkGC8s> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2014.03.006/RAhky9AMcug6Rw0588u8zu7ijgjEP4faHihYS-RvkGC8s#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -607,7 +607,7 @@ sub:Head {
 sub:assertion {
   <http://doi.org/10.1016/j.chb.2014.03.006> hycl:claims <https://purl.org/aida/Content+that+contains+high+informational+value+news+factors+like+controversy,+relevance,+or+unexpectedness+shares+a+positive+relation+with+sharing+news+content.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2014.03.006/Primary/RANF_FMU4l13pMqTcNPhZX2uP6fUJZIl-1Y3L1C11gWKw#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2014.03.006/Primary/RAMwZ5WTjULeG3n27GuaVRqbkNn7Q21v3rAQNlba9nynI#study> .
 }
 
 sub:provenance {
@@ -615,14 +615,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.1468-2958.2011.01418.x/RA6EfeLGf_w5OcsSkyC3ymYUi8olmUBnvy656PqQz_iLo> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1468-2958.2011.01418.x/RA6EfeLGf_w5OcsSkyC3ymYUi8olmUBnvy656PqQz_iLo#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.1468-2958.2011.01418.x/RAfh8Y2068M0y2ma3OkpLiBEe1ZQ6QbsR5VV8LnxaD4w4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1468-2958.2011.01418.x/RAfh8Y2068M0y2ma3OkpLiBEe1ZQ6QbsR5VV8LnxaD4w4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -641,7 +641,7 @@ sub:Head {
 sub:assertion {
   <http://doi.org/10.1111/j.1468-2958.2011.01418.x> hycl:claims <https://purl.org/aida/During+periods+of+heightened+political+activity,+public+affairs+content+(featuring+politics,+government,+or+economics)+is+shared+more+often+than+nonpublic+affairs+content+(featuring+entertainment,+sports,+or+crime).>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.1468-2958.2011.01418.x/Primary/RA_wBTBX4mFz-ZBiymXLmUTHn1e2K_VyCMuxUitTBAR40#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.1468-2958.2011.01418.x/Primary/RAFXcSdTEztl1V2yzA9MRSLBMa8-lT-53ud65xDivNwRA#study> .
 }
 
 sub:provenance {
@@ -649,14 +649,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2014.08.009/RADuu6Oc-TOzGLDroXFbpuTcu6ad_uYRfaU2A1J95rlyo> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2014.08.009/RADuu6Oc-TOzGLDroXFbpuTcu6ad_uYRfaU2A1J95rlyo#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2014.08.009/RAShjW8rOWHU9cmEX4DOkSWBWIaWFeM5E6AwVJFhSwp0I> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2014.08.009/RAShjW8rOWHU9cmEX4DOkSWBWIaWFeM5E6AwVJFhSwp0I#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -675,7 +675,7 @@ sub:Head {
 sub:assertion {
   <http://doi.org/10.1016/j.chb.2014.08.009> hycl:claims <https://purl.org/aida/Exposing+people+to+information+about+the+collective+likelihood+of+sharing+positively+influences+their+own+sharing+intention.>;
     a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2014.08.009/Primary/RAAkNY_d_nlKxPg02g_nb6hn7lIABC3zqFFdSxYXlgAmo#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2014.08.009/Primary/RAr88_A7Xf_qiAO6lf5lJR2uCVwYrx_yLS2zXaGCkdIfo#study> .
 }
 
 sub:provenance {
@@ -683,14 +683,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/cyber.2012.0265/RA1MhFdcXiKk7Ep95uJEfUiuLjV-0p8u5bTmoCW9s7Q3g> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/cyber.2012.0265/RA1MhFdcXiKk7Ep95uJEfUiuLjV-0p8u5bTmoCW9s7Q3g#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/cyber.2012.0265/RAlz4Mp8Ulo3WRfqc5f_KE65N4f8HkGhbMwBlW_FzIlcc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/cyber.2012.0265/RAlz4Mp8Ulo3WRfqc5f_KE65N4f8HkGhbMwBlW_FzIlcc#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -707,7 +707,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1089/cyber.2012.0265> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/cyber.2012.0265/Primary/RA26GbKBc-RnhR4Xf6yxZHIbEjfI1gYu9Tqiiw-Qyd-Os#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/cyber.2012.0265/Primary/RAWNL-dQtk542FHYeJhmo4SXuMZGFqK-Kw5BUiW8RISI0#study> .
 }
 
 sub:provenance {
@@ -715,14 +715,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1354856513493699/RA_Dd6Asextv-AaLpNfXd0D1wfK2EFnu6P_hKsieEyzx0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1354856513493699/RA_Dd6Asextv-AaLpNfXd0D1wfK2EFnu6P_hKsieEyzx0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1354856513493699/RArt99RIdZrQi77Ru2k0XrCLKoVQJNNSUcAN6VpdmtWaA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1354856513493699/RArt99RIdZrQi77Ru2k0XrCLKoVQJNNSUcAN6VpdmtWaA#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -739,8 +739,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F1354856513493699> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1354856513493699/Primary/RAZ-8EcCyYTI1_9qdAFwPr1xhKrPbNRVqBFVV8ZoKfSX0#study>,
-      <https://w3id.org/livingreviews/np/study/10.1177%2F1354856513493699/Secondary/RArpIFDfljfabCk6lqzvPBt4u1nvRJn49PUR-YxbO3XWk#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1354856513493699/Primary/RAk7-VOncP7mUsDvV84J0mApmExfCuJhuKLP1A6UAJ3V0#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F1354856513493699/Secondary/RAzsSrSoXOvNNpGBqjL6zcTHe0csqt6aewDr4DYy4a5mU#study> .
 }
 
 sub:provenance {
@@ -748,14 +748,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1566374.1566421/RAIXPSqq_7OhZUsGbshMmpXhRAZErbXoI6kQ-R5S-bZZE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1566374.1566421/RAIXPSqq_7OhZUsGbshMmpXhRAZErbXoI6kQ-R5S-bZZE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1566374.1566421/RA3nIBJv_J-ViLjvs-4ZShk1fMaKfkhsLMTzTS6yX8edo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1566374.1566421/RA3nIBJv_J-ViLjvs-4ZShk1fMaKfkhsLMTzTS6yX8edo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -772,8 +772,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1566374.1566421> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1566374.1566421/Primary/RAk5RwKUAV_FaQ0APC3QK70NdMZbK-smRL0SB-m9v-ljw#study>,
-      <https://w3id.org/livingreviews/np/study/1566374.1566421/Secondary/RAssYAYJ4rh2PjgntkmuA22guW8PbCPuDWfJv1Gz_afKM#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1566374.1566421/Primary/RAl6qHK_T2MDkLbO7NUFLEHxQbkefeFOm_0jNRyHbYeoA#study>,
+      <https://w3id.org/livingreviews/np/study/1566374.1566421/Secondary/RA8WDpxQxNCmfWT5X-uzsD2hrQmX07cl9SIpXhyqYBUK8#study> .
 }
 
 sub:provenance {
@@ -781,14 +781,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2187836.2187907/RAUakFsGDTvESbx1bGnGTx2eLto_yhORdu0XLxbisxvUU> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2187836.2187907/RAUakFsGDTvESbx1bGnGTx2eLto_yhORdu0XLxbisxvUU#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2187836.2187907/RAY7RNmnn7KYwkdqURWlhDbs-S6VVYSz66g7qMBtmJT_4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2187836.2187907/RAY7RNmnn7KYwkdqURWlhDbs-S6VVYSz66g7qMBtmJT_4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -805,7 +805,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2187836.2187907> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2187836.2187907/Primary/RAKM9aQuC_IpfkpeTzw-qdnpXwKaPHTQJdwf1F4qSQ65Q#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2187836.2187907/Primary/RABgIrlH8z_TvszVDncKAryx5d8r_dhiqE2DSVnmi1ApI#study> .
 }
 
 sub:provenance {
@@ -813,14 +813,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000003/RALWVfCHiwzbK2kFJxxSmVP58f2EETcsyQKDYvu4FG0T4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000003/RALWVfCHiwzbK2kFJxxSmVP58f2EETcsyQKDYvu4FG0T4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000003/RAym72T8EvtoGrH3kUUh1ffb9Zit2Jwcc7dBRU_6s4rkU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000003/RAym72T8EvtoGrH3kUUh1ffb9Zit2Jwcc7dBRU_6s4rkU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -837,7 +837,7 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000003/Primary/RAz2q71uYAeemX0CT0PaXp6Had9Xc-a5kjVVtxm_tUNUM#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000003/Primary/RAyl2knaZ9uc0JMXrEwkfHuggZVUQUAAtlbAVMqHiWsBk#study> .
 }
 
 sub:provenance {
@@ -845,14 +845,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000004/RAgVSSLRKNAsgHM-NM6ME3zx4JAphIMZxFkf0erPc8V5A> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000004/RAgVSSLRKNAsgHM-NM6ME3zx4JAphIMZxFkf0erPc8V5A#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000004/RAfMPY32RqMe414eplbE0gZOw3CiHxz-X4qd-c7lxHSeE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000004/RAfMPY32RqMe414eplbE0gZOw3CiHxz-X4qd-c7lxHSeE#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -869,7 +869,7 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000004/Primary/RAA7mlN1eQQTDi8fprSMwr58dbrSuQMZ3SSRtkXw4RkEg#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000004/Primary/RAmNEHpZHCM1fj8Wlii8k_ocDE16N5aY9LhxuAGLRwzEQ#study> .
 }
 
 sub:provenance {
@@ -877,14 +877,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664428/RAokzcS14OZ4L_I9puLMUG1ZiCDf145phGVcb3UxPnNV0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664428/RAokzcS14OZ4L_I9puLMUG1ZiCDf145phGVcb3UxPnNV0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664428/RA-5O9acFPev0o8g9xe7t9yiTe4pXCJENii2pQb_OXvc4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664428/RA-5O9acFPev0o8g9xe7t9yiTe4pXCJENii2pQb_OXvc4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -901,7 +901,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/1461670X.2012.664428> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2012.664428/Primary/RA8LmryzgYh_gKrI6ZM0KEBcH-0FKVWMe0gK9LzTZdIFU#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2012.664428/Primary/RABWrKpt8NWjN9CI7vhOBTMLXyn7lsKXy1CinMnX_tmd8#study> .
 }
 
 sub:provenance {
@@ -909,14 +909,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1814245.1814249/RAeB_SGIyeWmeHZ11I-H10yzcuRUQcQSvlwLUuPWqlTbQ> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1814245.1814249/RAeB_SGIyeWmeHZ11I-H10yzcuRUQcQSvlwLUuPWqlTbQ#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1814245.1814249/RAPYU5iZBYRpkKwcUM4OnLoQ2D4N4YabMsVDeh0azWwPo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1814245.1814249/RAPYU5iZBYRpkKwcUM4OnLoQ2D4N4YabMsVDeh0azWwPo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -933,8 +933,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1814245.1814249> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1814245.1814249/Primary/RAVZ1jVxpTXeKE0ZfURi5Alz0tP-_BLKRvko0h_imiCcU#study>,
-      <https://w3id.org/livingreviews/np/study/1814245.1814249/Secondary/RA2NpOZ3FRZgMejekks9hpcKwQXdgTVGuEzEw6behJvTE#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1814245.1814249/Primary/RAgMCKHgSrTooaAXl80aU5r-RBPJ2vycr9PKBjFZk0dfA#study>,
+      <https://w3id.org/livingreviews/np/study/1814245.1814249/Secondary/RAJvAV1xN7zCHLZk0YO-YmaTVPMORAHEjkDWJcrzjsa90#study> .
 }
 
 sub:provenance {
@@ -942,14 +942,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2542182.2542189/RAIz3DDEJDn2U3W6N4ZGRjxgI_ZLXFm-kpZ6dLIY7UTE8> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2542182.2542189/RAIz3DDEJDn2U3W6N4ZGRjxgI_ZLXFm-kpZ6dLIY7UTE8#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2542182.2542189/RA006e9ZLfaewLSZozWZsacbA1Lj08vn6PVmuFo2KQumk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2542182.2542189/RA006e9ZLfaewLSZozWZsacbA1Lj08vn6PVmuFo2KQumk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -966,9 +966,9 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2542182.2542189> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2542182.2542189/Primary/RAPElvnIk9Qa8JjwanJlqlGWBmXf4s365RDv8v2fU4QdA#study>,
-      <https://w3id.org/livingreviews/np/study/2542182.2542189/Secondary/RAplorGv7JTQ6k5efW3seVWRy_CKE-VcsqVWHulq8tB6U#study>,
-      <https://w3id.org/livingreviews/np/study/2542182.2542189/Tertiary/RAEgnNjBF4-_EyXvshd6CCjK04Uk8ZB_2XRVOttg0TMRw#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2542182.2542189/Primary/RAlaGn9xikPRKLm-FEU2n4EM9XJktWoszh9sZKzKUCau4#study>,
+      <https://w3id.org/livingreviews/np/study/2542182.2542189/Secondary/RAZf9ARLFB0nuietgnS22XJfsTFT7HXJw8EcsJUFIEdME#study>,
+      <https://w3id.org/livingreviews/np/study/2542182.2542189/Tertiary/RAGVu1FxsLOqiNuZ95CVtIjJ5hmEnHJtEeH2a2Oyt6B6g#study> .
 }
 
 sub:provenance {
@@ -976,14 +976,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000005/RA17c52J5Dbvs9HSMc81uRnmLjr8cF6gLf_HztMBX1Sag> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000005/RA17c52J5Dbvs9HSMc81uRnmLjr8cF6gLf_HztMBX1Sag#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000005/RA2tndgt0Co-OrkUigxLXH3IIUiggJCSPcDATfR4SLem0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000005/RA2tndgt0Co-OrkUigxLXH3IIUiggJCSPcDATfR4SLem0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1000,9 +1000,9 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000005/Primary/RAPq3oaJQVT5OqtRaOkcstTQknj_qCN44rxTYwcQl0yvM#study>,
-      <https://w3id.org/livingreviews/np/study/00000000005/Secondary/RAYl071UyYCtYLFzAzV4r3f9iNDlXzPtkr586QFIgz-MI#study>,
-      <https://w3id.org/livingreviews/np/study/00000000005/Tertiary/RAgAx7djNX3NsH98DEYtYLNe3pzm6OPkNAexw5hedN6tM#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000005/Primary/RA3-A37iVt_hDjMUasc3bAEiejP0UsCCOtSQRcsk4SY_Q#study>,
+      <https://w3id.org/livingreviews/np/study/00000000005/Secondary/RAYqNVaucCeCEuVTMyPQx69pPLQMfwIbHDzgd5P5JYl7o#study>,
+      <https://w3id.org/livingreviews/np/study/00000000005/Tertiary/RAFUqfmN0KLUGkHmHCbPQpl4RdheuufQHsumkVqlNd-4c#study> .
 }
 
 sub:provenance {
@@ -1010,14 +1010,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/02560054.2013.767425/RAaY6PB1GJdXu9rxj2y93SLlm6oPJhaMxr8KWBi4TAHis> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/02560054.2013.767425/RAaY6PB1GJdXu9rxj2y93SLlm6oPJhaMxr8KWBi4TAHis#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/02560054.2013.767425/RADiLhLw-v_GVx8zl_L6BEYT7kLmcd2jUcC1rbezkaqgg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/02560054.2013.767425/RADiLhLw-v_GVx8zl_L6BEYT7kLmcd2jUcC1rbezkaqgg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1034,7 +1034,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/02560054.2013.767425> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/02560054.2013.767425/Primary/RACbLScUcwysn7DkIizNFzONL9hVAHyOUaq8Vpq43Y7cE#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/02560054.2013.767425/Primary/RAcQ08F3xTxbMtKIKkfdArRmMY06rklpnfxDsTwmF8UW4#study> .
 }
 
 sub:provenance {
@@ -1042,14 +1042,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2488069/RAnHlOoOmT3NmncjzhW2I9C9v1lpdZTzFOntdh71nzeLs> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2488069/RAnHlOoOmT3NmncjzhW2I9C9v1lpdZTzFOntdh71nzeLs#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2488069/RA6rr8mub7suvPDFRou_R_KaVHAdiWXVsCVNACQB7RFVI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2488069/RA6rr8mub7suvPDFRou_R_KaVHAdiWXVsCVNACQB7RFVI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1066,7 +1066,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2487788.2488069> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2488069/Primary/RAY8atZwrFij41hsNT3iUKn0KN6pz5yqN6CNegkSJEURg#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2488069/Primary/RAH83ztNXiv0k7ilF7se8yLOYxAVljSu8UAPZqvphADU0#study> .
 }
 
 sub:provenance {
@@ -1074,14 +1074,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2487575.2487596/RA3bsO7BC2VWULMT_jki3J_dnHu3ijUC15Q3BwJDTb5G0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2487575.2487596/RA3bsO7BC2VWULMT_jki3J_dnHu3ijUC15Q3BwJDTb5G0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487575.2487596/RA9aEoEl9tj0OgvcOBEGYLAC6ZzXTEo6tfAFoCZSM7zP0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487575.2487596/RA9aEoEl9tj0OgvcOBEGYLAC6ZzXTEo6tfAFoCZSM7zP0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1098,7 +1098,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2487575.2487596> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2487575.2487596/Primary/RAyPWObheNEQfb41oC40syGFbuvnEc7n2py6uopFBYce0#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2487575.2487596/Primary/RAB4pDXiQ3kkG-WNgNEOK-cAwaq6hRDZn9pwIuF_5maQo#study> .
 }
 
 sub:provenance {
@@ -1106,14 +1106,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1130,7 +1130,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F2056305115610141> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F2056305115610141/Primary/RAqoy2Q-l6_fr2Xk0_lrK_uih3NT6jBcZoZ9HJE4C_3kE#RAHhlYoUDWN5EpfzUoxMsW-__HnCwv0vkqH-VeUUmzfGs%23study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F2056305115610141/Primary/RAkT7defFJIjpYmk0swr65p1M3Rbi01z6YyvPc1tj2is0#RAyuDHHbz1xGwqHsoIWqyLF91W4wj7bybQ5jQN6feyruw%23study> .
 }
 
 sub:provenance {
@@ -1138,14 +1138,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2556288.2557285/RAfsGVZGZ8E9H8X4mCXTFqWfE7T0dwJNYINF9ef7o2KVE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2556288.2557285/RAfsGVZGZ8E9H8X4mCXTFqWfE7T0dwJNYINF9ef7o2KVE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2556288.2557285/RAQ71kBz96PY0iq1LylSZHne2OyB06AEZGOUI3Oyx4QUc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2556288.2557285/RAQ71kBz96PY0iq1LylSZHne2OyB06AEZGOUI3Oyx4QUc#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1162,8 +1162,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2556288.2557285> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2556288.2557285/Primary/RA1mZtkmQ61GOnecXmPFOhxqrF4nTl1EMVVTuiP0X6HOQ#study>,
-      <https://w3id.org/livingreviews/np/study/2556288.2557285/Secondary/RAQgUTRfXBN19knLF_g7deA-C7nTa-6PMEDDUl11p7i1s#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2556288.2557285/Primary/RAyzle9i5IzNrWqSspiHsK3OVX59QqapzlPHFqc1AOsjA#study>,
+      <https://w3id.org/livingreviews/np/study/2556288.2557285/Secondary/RACjVtQ40lqtH6AgafNADM0pi4Vc1ZNGprWU4SjqPpLlg#study> .
 }
 
 sub:provenance {
@@ -1171,14 +1171,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000006/RAqD6iR-p4UD4i_ZNqY6DBSJYGXNYsBPxhi3ovEnJlQ88> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000006/RAqD6iR-p4UD4i_ZNqY6DBSJYGXNYsBPxhi3ovEnJlQ88#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000006/RAAD8RzaeF8CBmg8c3kpe-b3p8PEJL5OO6ZJSoT6zXlho> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000006/RAAD8RzaeF8CBmg8c3kpe-b3p8PEJL5OO6ZJSoT6zXlho#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1195,7 +1195,7 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000006/Primary/RAlPmpbWrtgm9NFE21bqmFfEYHu19QP8w0Sn27Yhkzz3Y#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000006/Primary/RAQriuuVUCBz5Do1Cr-zq4NxLX1Oq1oMGh81PKqNwRmjQ#study> .
 }
 
 sub:provenance {
@@ -1203,14 +1203,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.1083-6101.2012.01574.x/RADn66Ig3_kZKfdF6vphTC-4xKFM2Sh46bcEFCEouixAQ> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1083-6101.2012.01574.x/RADn66Ig3_kZKfdF6vphTC-4xKFM2Sh46bcEFCEouixAQ#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.1083-6101.2012.01574.x/RAZijnLlDVjYoy1G-GfSMOrFTL1ZBQT9ZMUr4CGWAeNEg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1083-6101.2012.01574.x/RAZijnLlDVjYoy1G-GfSMOrFTL1ZBQT9ZMUr4CGWAeNEg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1227,7 +1227,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1111/j.1083-6101.2012.01574.x> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.1083-6101.2012.01574.x/Primary/RALuerUc4uvpU3CQB_f8WC9u13ZfWdMO9QGK_fhiyGnaM#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.1083-6101.2012.01574.x/Primary/RA2JApGT8hKVrZXg6PLSDvjb6hLPd__UbwuSHnx05eT6g#study> .
 }
 
 sub:provenance {
@@ -1235,14 +1235,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2011.08.017/RAmBR8O0cSEjUzNcXU0zlkAVU80HG-8_nsPLmMV1RFw4Y> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2011.08.017/RAmBR8O0cSEjUzNcXU0zlkAVU80HG-8_nsPLmMV1RFw4Y#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2011.08.017/RAtON3VN3OeKVBVe_YWtuG0swfCR0LzR9VzZjlyeZW7lg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2011.08.017/RAtON3VN3OeKVBVe_YWtuG0swfCR0LzR9VzZjlyeZW7lg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1259,7 +1259,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1016/j.chb.2011.08.017> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2011.08.017/Primary/RADq5r8G_UdWcPCZx4VmbpBrmg-eNl9UuAJxckXAhpwdw#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2011.08.017/Primary/RAEVrApKPxwQOx5ZdcEhwL5_4V4Zdi09n6KKzHmZ8g484#study> .
 }
 
 sub:provenance {
@@ -1267,14 +1267,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2433396.2433402/RAQUAgD4LRlrsSH6T1wyoscUCpKMhiCifO7rXMk5ibxXk> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2433396.2433402/RAQUAgD4LRlrsSH6T1wyoscUCpKMhiCifO7rXMk5ibxXk#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2433396.2433402/RA4wLLeHSztoSqD4WUmEFl_n1gmuSo9HpY_VpX0V4XbZI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2433396.2433402/RA4wLLeHSztoSqD4WUmEFl_n1gmuSo9HpY_VpX0V4XbZI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1291,8 +1291,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2433396.2433402> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2433396.2433402/Primary/RA-fe9nR7BVrI4GBUsGMXnWD3U8q95c6fwf1bpofOF0f0#study>,
-      <https://w3id.org/livingreviews/np/study/2433396.2433402/Secondary/RAeLIlG5Bi3s2Yx79dzxmJFZKkjAIdi199qRSHHJG6sc4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2433396.2433402/Primary/RA9CTk7QE5MdNlFMXJeraaXdbdSxnkc6gL4imVrmZUgAU#study>,
+      <https://w3id.org/livingreviews/np/study/2433396.2433402/Secondary/RAv4epKz5yfBjGGNRXIci958FrrkTbfHbaAeXngLzDEn4#study> .
 }
 
 sub:provenance {
@@ -1300,14 +1300,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1718487.1718518/RAQYA6gDo63NYjduwKMo9PwevovE3SdmX3RjlO_iVwy3A> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1718487.1718518/RAQYA6gDo63NYjduwKMo9PwevovE3SdmX3RjlO_iVwy3A#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1718487.1718518/RAE2dTB61PbJuvXk9y8m-FndE3KWxrfJvmhewcQpNrPpM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1718487.1718518/RAE2dTB61PbJuvXk9y8m-FndE3KWxrfJvmhewcQpNrPpM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1324,8 +1324,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1718487.1718518> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1718487.1718518/Primary/RAplCbeFOGvi1RgeaiHmIyD48PIKvCw6jHijHYEuM-CqQ#study>,
-      <https://w3id.org/livingreviews/np/study/1718487.1718518/Secondary/RA6-UXk3CUmfdbWUSIi8r9qdO2K180jkVpmv0alKD8Dv8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1718487.1718518/Primary/RARkPZkh1ciUsZjwF3ogRMLXBtiYwnEZGN1cxaoxKvZJ4#study>,
+      <https://w3id.org/livingreviews/np/study/1718487.1718518/Secondary/RAtDM5kA8ODvZl8QaGWSeKkgeYr9gIcLa8K9wscXoDVzI#study> .
 }
 
 sub:provenance {
@@ -1333,14 +1333,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2503792.2503797/RARmSOO4INBZCLBFfP9ZakVIWwyJ_8Hr3iccBmmhVf6RU> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2503792.2503797/RARmSOO4INBZCLBFfP9ZakVIWwyJ_8Hr3iccBmmhVf6RU#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2503792.2503797/RAhHV7oWJqd_6tRqc6KG50Ltb4aNQceNwAS08JTsZM3C8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2503792.2503797/RAhHV7oWJqd_6tRqc6KG50Ltb4aNQceNwAS08JTsZM3C8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1357,7 +1357,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2503792.2503797> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2503792.2503797/Primary/RArkPoww4aY9xqAlXMYoCZRHoCVmv9cc4oUmJxOeAZY-k#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2503792.2503797/Primary/RA-E-jRidpxdBWHKmFdRO2qwNJDJrBl-APaaORZz2IbWg#study> .
 }
 
 sub:provenance {
@@ -1365,14 +1365,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000007/RAbDen_bfzcw-HHU8ru94pL2UeBoovtFiFqv-EJ0v3HBg> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000007/RAbDen_bfzcw-HHU8ru94pL2UeBoovtFiFqv-EJ0v3HBg#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000007/RA1x6nR3gT5xKaWuFaJwZf29cERw5fGtmJWvH8tldsB10> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000007/RA1x6nR3gT5xKaWuFaJwZf29cERw5fGtmJWvH8tldsB10#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1389,8 +1389,8 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000007/Primary/RAhuFz-W_ukMyqudZBB-uTS9nnXah4kBVC2O4Sm3mR5AI#study>,
-      <https://w3id.org/livingreviews/np/study/00000000007/Secondary/RAs0OwoVBe7BIq2sQcoh-aSTR95or_9aoFZT_ok2knAgc#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000007/Primary/RAblEiw0it5v5e_ah6mYi9g8YDj_W173dBaY51T9H63sA#study>,
+      <https://w3id.org/livingreviews/np/study/00000000007/Secondary/RARl638haZFXWJmLyVbZWcd8-l-q2Hk8XxM4NK4igkiog#study> .
 }
 
 sub:provenance {
@@ -1398,14 +1398,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/17512781003640703/RA4LCUcvTZnd2jvabv2iWDV8zTa5eS0xyhbzbHh19iI7k> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/17512781003640703/RA4LCUcvTZnd2jvabv2iWDV8zTa5eS0xyhbzbHh19iI7k#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/17512781003640703/RAda7fm2s-b08c5G8p31GMLo34TAhjMJQ6LZ-BWCikKFc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/17512781003640703/RAda7fm2s-b08c5G8p31GMLo34TAhjMJQ6LZ-BWCikKFc#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1422,7 +1422,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/17512781003640703> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/17512781003640703/Primary/RA05-YgPOCAY8IyoB5Oja8uSVXZUg8MliygbL5E9-NXQA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/17512781003640703/Primary/RA6uIJ-y2-dRHjemRvq-hiwK9dMKT5229MiLxZKQ8_qF0#study> .
 }
 
 sub:provenance {
@@ -1430,14 +1430,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664430/RA5rQe2Q2dUz3_1l_NfQO9EOP4wIlMEP9nO6u2zAOrTUQ> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664430/RA5rQe2Q2dUz3_1l_NfQO9EOP4wIlMEP9nO6u2zAOrTUQ#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664430/RACsorMcGcg6MBS2o57ny_nM0y-LA3H5RL0ikpI9XkJ1w> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664430/RACsorMcGcg6MBS2o57ny_nM0y-LA3H5RL0ikpI9XkJ1w#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1454,7 +1454,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/1461670X.2012.664430> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2012.664430/Primary/RAl8VHgcYiFLakIUpO3r8aX451Ts94gDSIQF6KyZ6-8P0#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2012.664430/Primary/RAifhT95oSr3eGgK5IGvScqKGWYPFcPR7P5XKAFUFM7L0#study> .
 }
 
 sub:provenance {
@@ -1462,14 +1462,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/meet.14504701277/RA81BUGUmg3p30SA1AjQVCHYgwUKwzjcS9WW8O6ObJ-r0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/meet.14504701277/RA81BUGUmg3p30SA1AjQVCHYgwUKwzjcS9WW8O6ObJ-r0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/meet.14504701277/RAIhPPtpnczljUS7VFqUH2MEqzAdOmb7jMp57Sm6ETwTI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/meet.14504701277/RAIhPPtpnczljUS7VFqUH2MEqzAdOmb7jMp57Sm6ETwTI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1486,7 +1486,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1002/meet.14504701277> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/meet.14504701277/Primary/RAHGrMP4aBXhWKC8pgzsfq7vig_voob3JazSphJKzCIqU#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/meet.14504701277/Primary/RA66TwjttyTLNNQYBQ1nLE1NEodNmsHGwDnfK-t8eGLls#study> .
 }
 
 sub:provenance {
@@ -1494,14 +1494,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0267323113497435/RAafQl6XIXH4NNYlK7iOj8iSiHht3ZG-LgcZcjKeSeqJw> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0267323113497435/RAafQl6XIXH4NNYlK7iOj8iSiHht3ZG-LgcZcjKeSeqJw#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0267323113497435/RAR1TFxCfgeSSWQ_BBGUuhGd6pM9Y5vgjusBEgoiZmLEg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0267323113497435/RAR1TFxCfgeSSWQ_BBGUuhGd6pM9Y5vgjusBEgoiZmLEg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1518,8 +1518,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F0267323113497435> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0267323113497435/Primary/RA4a3O8fV7rGUdy2dZjAt4-izpqV8AiJypQM6tPGu3dUI#study>,
-      <https://w3id.org/livingreviews/np/study/10.1177%2F0267323113497435/Secondary/RAdnEPbs_L3DHBIPER1zYgtI-skIhQPEXQRz83mEBO2d4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0267323113497435/Primary/RAjaVv3hIzGogUmQlquMfdJMl-8uUnqE0VSiE0VqBFQNI#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F0267323113497435/Secondary/RAfiggkJc01jOiR3utePjSKkxOYoQMLbvc-4TmnB-VU74#study> .
 }
 
 sub:provenance {
@@ -1527,14 +1527,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2012.706316/RAG4273i7Zi0y3a5l5vIcjwF34QHLBiR3LWpsn8PoctTk> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2012.706316/RAG4273i7Zi0y3a5l5vIcjwF34QHLBiR3LWpsn8PoctTk#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2012.706316/RAxPkNFVGE6jdqY3OTLs8GVdvqT2JCyPZAdzKHDOFY3Fg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2012.706316/RAxPkNFVGE6jdqY3OTLs8GVdvqT2JCyPZAdzKHDOFY3Fg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1551,8 +1551,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/1369118X.2012.706316> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2012.706316/Primary/RA7TsatxrvDsi27Izsot5G1UWspMy3-Lq2SImW2Aty0As#study>,
-      <https://w3id.org/livingreviews/np/study/1369118X.2012.706316/Secondary/RAUpZmO9nr49juE5-MbB8x6lh4ghEMVz2dWF1IdbczoHI#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2012.706316/Primary/RA_ICFaoL4IPIZbSLkm_k4fiBTL-tmk_Y2pp9ng8D_y-E#study>,
+      <https://w3id.org/livingreviews/np/study/1369118X.2012.706316/Secondary/RAIWFb9S0G1_0i84wwwDRJwBP4kJeTGw-EgjeWf6S_2ig#study> .
 }
 
 sub:provenance {
@@ -1560,14 +1560,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1963192.1963222/RAa9AkeA6m-azbHOIfT2aCKWhb9Q-N8G-v-0Q9s-Kivas> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1963192.1963222/RAa9AkeA6m-azbHOIfT2aCKWhb9Q-N8G-v-0Q9s-Kivas#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1963192.1963222/RAivbilU4Ia38RnRANaBXWzUOfMnwSIofUG82lH1NuoEA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1963192.1963222/RAivbilU4Ia38RnRANaBXWzUOfMnwSIofUG82lH1NuoEA#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1584,8 +1584,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1963192.1963222> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1963192.1963222/Primary/RAENoTq4EhPZDm1vdmVJauK9J5wEECevOq4hx_unYG640#study>,
-      <https://w3id.org/livingreviews/np/study/1963192.1963222/Secondary/RAKff07koEO6K0qVrGW-tvpvSbd6Wlxm9-LWLMTN-k190#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1963192.1963222/Primary/RAm9uX1kD8MaIXik6c1nRa2Y06YuVuULa0pej1RmZchRM#study>,
+      <https://w3id.org/livingreviews/np/study/1963192.1963222/Secondary/RAWAqHNPFllg5uF-BeKguHZv4cTrzzOR5SZFsYmwsNVME#study> .
 }
 
 sub:provenance {
@@ -1593,14 +1593,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2011.649774/RAZqffXwRAsD5Y1-zofwWbdurpQ30yzJJvvsbfJD4KpsI> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2011.649774/RAZqffXwRAsD5Y1-zofwWbdurpQ30yzJJvvsbfJD4KpsI#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2011.649774/RAOnZX1XeM5zTpdLyf6MF9pBHXPk5o3ACz3n_RMh4lw_I> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2011.649774/RAOnZX1XeM5zTpdLyf6MF9pBHXPk5o3ACz3n_RMh4lw_I#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1617,8 +1617,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/1369118X.2011.649774> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2011.649774/Primary/RAzvT80EgZ2YsSu_xxA8-LX8u7bm-no2NFl_PgXF8W9Zk#study>,
-      <https://w3id.org/livingreviews/np/study/1369118X.2011.649774/Secondary/RAUgeOAEpiqSuDQralHV5UDMyYRNVSMDnixK9Q0Yc39nY#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2011.649774/Primary/RAqFYYmVPZDBmHT4ts7Lb9kyzJasZ3JJZ7ugoDNRpcwng#study>,
+      <https://w3id.org/livingreviews/np/study/1369118X.2011.649774/Secondary/RA0Gt2IN6BoPaQjuC33TZJlQAHk685gQKR0yikKHX76QE#study> .
 }
 
 sub:provenance {
@@ -1626,14 +1626,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2207676.2208672/RAnv6LrnuMVck6wRVO_OBzNB16hIwGZ8KLRcu2rBKPnZ4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2207676.2208672/RAnv6LrnuMVck6wRVO_OBzNB16hIwGZ8KLRcu2rBKPnZ4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2207676.2208672/RAbxIai6z85dxjEx6fqlCZ1eLWThMaGeC_KAI5pAfA5H0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2207676.2208672/RAbxIai6z85dxjEx6fqlCZ1eLWThMaGeC_KAI5pAfA5H0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1650,7 +1650,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2207676.2208672> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2207676.2208672/Primary/RAVyo3hiKsCo3XAyqkMuw6pr74JskbIo47zTTnv5ZoOVA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2207676.2208672/Primary/RAi51XHE8C9vOE1gdZ26VEho3QOEl4FAJX3yTxSE2JUrE#study> .
 }
 
 sub:provenance {
@@ -1658,14 +1658,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2063212.2063224/RAJkioCDiyCDj8zS_MoTyqIvSMFYWVfzDNwgnV93-pFdE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2063212.2063224/RAJkioCDiyCDj8zS_MoTyqIvSMFYWVfzDNwgnV93-pFdE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2063212.2063224/RABsUS1tTsrYCiE-5OSeUcmDC4lZbQLqEfBw1t3dddLI4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2063212.2063224/RABsUS1tTsrYCiE-5OSeUcmDC4lZbQLqEfBw1t3dddLI4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1682,7 +1682,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2063212.2063224> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2063212.2063224/Primary/RAMU2DbTc_yDZgcTfCMVHgwtLX_xkaRcPPEJEqW6F3cCA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2063212.2063224/Primary/RAPn19txXNz-fvu9LJFHutJcMg8YYVKT4O8-73zwKaDNM#study> .
 }
 
 sub:provenance {
@@ -1690,14 +1690,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/08838151.2013.816706/RA8Ck7nsn5laJFyDtkRhsiJ905vaY62HUbPc7foD9I0_4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/08838151.2013.816706/RA8Ck7nsn5laJFyDtkRhsiJ905vaY62HUbPc7foD9I0_4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/08838151.2013.816706/RAd9O2LrGeSlbbwY_bi6Fp3QB3Hpe7XS10m0rHsiNsXok> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/08838151.2013.816706/RAd9O2LrGeSlbbwY_bi6Fp3QB3Hpe7XS10m0rHsiNsXok#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1714,8 +1714,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/08838151.2013.816706> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/08838151.2013.816706/Primary/RAEkzCXnt2y7BppKMThM6D-CmH0ijz9ddJ8qzGHlBtuko#study>,
-      <https://w3id.org/livingreviews/np/study/08838151.2013.816706/Secondary/RARt_ofmCTOdnetpBdT-vvl6S0DEo1ZtzHRFRs-tDBukA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/08838151.2013.816706/Primary/RAMwt4MmmZcsnJFyN_BnJvDiB_p3uRlwyv_nSXf5GZ3B4#study>,
+      <https://w3id.org/livingreviews/np/study/08838151.2013.816706/Secondary/RAtYIXob9dRpiAW4ZStMrOaxJRCh10HOclCpK591rFNQ4#study> .
 }
 
 sub:provenance {
@@ -1723,14 +1723,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/SocialCom.2011.182/RAWnCvMLFNDivl8-wQ8RGaYUddDTze8yqpPkpS30C4VDA> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/SocialCom.2011.182/RAWnCvMLFNDivl8-wQ8RGaYUddDTze8yqpPkpS30C4VDA#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/SocialCom.2011.182/RAkWb20COn3rvpBsIT5GMVLNwRnCO167GV-3LNvh5FO-c> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/SocialCom.2011.182/RAkWb20COn3rvpBsIT5GMVLNwRnCO167GV-3LNvh5FO-c#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1747,7 +1747,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1109/PASSAT/SocialCom.2011.182> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/SocialCom.2011.182/Primary/RAi9VM23gXZ3sWZpCMfCPA9XrZBSgVU7SlmG8GzaRtZ_k#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/SocialCom.2011.182/Primary/RAm2w2k4MTlX9YFjJlWKrmpjgimY6SVINGOXIkdEfcO3o#study> .
 }
 
 sub:provenance {
@@ -1755,14 +1755,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2501025.2501027/RApKjzzuVSDnhq8Cz6D2gJ3aGpLVbGHABzsH54niCb8KQ> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2501025.2501027/RApKjzzuVSDnhq8Cz6D2gJ3aGpLVbGHABzsH54niCb8KQ#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2501025.2501027/RAmUpTmkRhzTNQ5Qt6i6wnWz9oYvc1cS0x5Zp1HI0NJ4Q> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2501025.2501027/RAmUpTmkRhzTNQ5Qt6i6wnWz9oYvc1cS0x5Zp1HI0NJ4Q#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1779,7 +1779,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2501025.2501027> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2501025.2501027/Primary/RAXTrFzRj0LrH6_um7h3HZsu4goLEjgqyT4h35kPvyFh8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2501025.2501027/Primary/RAhJubuPQ5SRmQanw6hkjjoAAjgVOadN3q5QTXA8Fr4h0#study> .
 }
 
 sub:provenance {
@@ -1787,14 +1787,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2501025.2501030/RAWiXGrrKGEhlVBHPe-cRLCr4iai_NEufVJKaGYxrt6RI> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2501025.2501030/RAWiXGrrKGEhlVBHPe-cRLCr4iai_NEufVJKaGYxrt6RI#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2501025.2501030/RAJD-uO9yoF8R0wu1vWt9x6Yl37X106dI3cfNeOVt4ahQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2501025.2501030/RAJD-uO9yoF8R0wu1vWt9x6Yl37X106dI3cfNeOVt4ahQ#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1811,8 +1811,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2501025.2501030> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2501025.2501030/Primary/RAKRXik8Jjd_nvzJoq4QoyMF1-_uDXirRowTYXFctaGQc#study>,
-      <https://w3id.org/livingreviews/np/study/2501025.2501030/Secondary/RAErTyJ06BpRv9UFiwXO1HtKjqJR46PjMTz2vyz7suAfs#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2501025.2501030/Primary/RAoXoErPVsA4se-ATz3zY0IoYUrDZoOPd6LZ2o7TH4s4Y#study>,
+      <https://w3id.org/livingreviews/np/study/2501025.2501030/Secondary/RAdLx8S3Zr5SALm64X2QS13JMX5g69NuI53I1RmzYr36Q#study> .
 }
 
 sub:provenance {
@@ -1820,14 +1820,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/e15104215/RA2G8YnqxjhtZis3j6nYOnbrpAcXLagyU3gsF5U2d1bys> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/e15104215/RA2G8YnqxjhtZis3j6nYOnbrpAcXLagyU3gsF5U2d1bys#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/e15104215/RAeBz-VgGUKiM6Ftyi2Qt07YSJp_hPbfFrGCeFBOfm0Q8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/e15104215/RAeBz-VgGUKiM6Ftyi2Qt07YSJp_hPbfFrGCeFBOfm0Q8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1844,8 +1844,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.3390/e15104215> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/e15104215/Primary/RA5SiiwiNurAus2ARHKESNz-FZ5uqx-cJ7BE4eeIdwEzs#study>,
-      <https://w3id.org/livingreviews/np/study/e15104215/Secondary/RAPn2fu7XbzIjQvCnGXgwMgGUeIljFlAchwJYck6BikPE#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/e15104215/Primary/RA78Y4dwdA-mGmKk2pD14rDxZP1rLaCmC-z1XLcMaM-qs#study>,
+      <https://w3id.org/livingreviews/np/study/e15104215/Secondary/RAEYvlRwOXi0AXK4ZogbjloTrUHaBJ2vkeKW4CAdMErCI#study> .
 }
 
 sub:provenance {
@@ -1853,14 +1853,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2505515.2505583/RAIXUVeI9YoFkQnuyDPJFUvRIpVV_gsubPkNY1J8_-Le0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2505515.2505583/RAIXUVeI9YoFkQnuyDPJFUvRIpVV_gsubPkNY1J8_-Le0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2505515.2505583/RAL9rpeBs1hiN_l8o5qJxcYc3phL2mwym9q7GkJjMUGLE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2505515.2505583/RAL9rpeBs1hiN_l8o5qJxcYc3phL2mwym9q7GkJjMUGLE#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1877,8 +1877,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2505515.2505583> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2505515.2505583/Primary/RA6R0BSP1CSPLV7xhOVPPg6ISpmapOJKzpAmrxBetU6F0#study>,
-      <https://w3id.org/livingreviews/np/study/2505515.2505583/Secondary/RAFwD7RMbudY_8Y1TS3Y083A0H9PLrDnr7UxyCMvR1e6w#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2505515.2505583/Primary/RA8ab2bOy2O3KPfSxJqUumXaxix-JkbhOwVDjldNtUnD4#study>,
+      <https://w3id.org/livingreviews/np/study/2505515.2505583/Secondary/RAgP7-Ka6UsXhlskdqiaXpFOVwqHcGapgYrHQVwQbqCGU#study> .
 }
 
 sub:provenance {
@@ -1886,14 +1886,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2013.06.005/RAy_qwKQ7zLFWdGHHXl6B3z_MB8bI6m0Ws1wYd_MQvIRs> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2013.06.005/RAy_qwKQ7zLFWdGHHXl6B3z_MB8bI6m0Ws1wYd_MQvIRs#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2013.06.005/RAo0WlVI_TldqQyqjQSAIFjqjyIYJ-1QDqJ9T8vPYm9Bo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2013.06.005/RAo0WlVI_TldqQyqjQSAIFjqjyIYJ-1QDqJ9T8vPYm9Bo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1910,8 +1910,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1016/j.chb.2013.06.005> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2013.06.005/Primary/RAa-qLzOIDGc4C7sx7h4_mr6ysJEo4m2yeAjbKKhUF3jY#study>,
-      <https://w3id.org/livingreviews/np/study/j.chb.2013.06.005/Secondary/RAlJMJTHDe5ie4oe1_jWyciNF7Mi4izDvMu-R9N6uQD6c#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2013.06.005/Primary/RABzaPtsq1528_kHN-MP2RVZ_vgFeRcMjbkcxzCdr112w#study>,
+      <https://w3id.org/livingreviews/np/study/j.chb.2013.06.005/Secondary/RAbz-M6_kAUU9MW474_l0qmSSocF_nrYL6bM84xO-AMnk#study> .
 }
 
 sub:provenance {
@@ -1919,14 +1919,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2567948.2579325/RAi_bvrUD0Hp89as52Z_5lm8PZKIVNa7rNgaiO7VoL4_0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2567948.2579325/RAi_bvrUD0Hp89as52Z_5lm8PZKIVNa7rNgaiO7VoL4_0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2567948.2579325/RAT4ufofyval7O5Q0TZaTXFk0w1xuJTyQ7jlX0-_IgU2U> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2567948.2579325/RAT4ufofyval7O5Q0TZaTXFk0w1xuJTyQ7jlX0-_IgU2U#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1943,8 +1943,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2567948.2579325> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2567948.2579325/Primary/RAdzjd85auC5_Pe1lShYUT8dpSqVX-S5WFogmvq0wyucw#study>,
-      <https://w3id.org/livingreviews/np/study/2567948.2579325/Secondary/RA1ANCpN3vXUgGjaBbuI38ZFdqw0beUUQyYOE6_3TbiaQ#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2567948.2579325/Primary/RAabNJMbDXzwFGf45QtFF2fn6968zA9yDxPlBFzjkI8bs#study>,
+      <https://w3id.org/livingreviews/np/study/2567948.2579325/Secondary/RALu56A1N8smTh12yKD17iRYPAQaqfGhsS6Wut2yxD_Us#study> .
 }
 
 sub:provenance {
@@ -1952,14 +1952,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/s15506878jobem4903_3/RAAiw0xbGrjFKQetoEOOOnAFXsQIsn86PGgBgKmJLFvI0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/s15506878jobem4903_3/RAAiw0xbGrjFKQetoEOOOnAFXsQIsn86PGgBgKmJLFvI0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/s15506878jobem4903_3/RAf__uWrLLaBCnGMr6bxyQYSiotH9paH1KQfqgO3dmfc8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/s15506878jobem4903_3/RAf__uWrLLaBCnGMr6bxyQYSiotH9paH1KQfqgO3dmfc8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -1976,7 +1976,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1207/s15506878jobem4903_3> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/s15506878jobem4903_3/Primary/RAjSoBUloccd7c5ufU0kgcOlemebo_ayHfMSw8QK0qd98#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/s15506878jobem4903_3/Primary/RAmhO2yqLaUEJjm8Bheg-VL9hZheTVoPu9qVh4j8_dJA4#study> .
 }
 
 sub:provenance {
@@ -1984,14 +1984,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2396761.2398634/RAH4ahv99I41_4W5GibiQM2AJ-Qjq4N9JfrB1phbXfANo> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2396761.2398634/RAH4ahv99I41_4W5GibiQM2AJ-Qjq4N9JfrB1phbXfANo#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2396761.2398634/RACUp6DePIAxVEUVcL4DgEtXPGFQAf8d-uoHvj7WwJWNk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2396761.2398634/RACUp6DePIAxVEUVcL4DgEtXPGFQAf8d-uoHvj7WwJWNk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2008,7 +2008,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2396761.2398634> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2396761.2398634/Primary/RA4yLLRDZabeDzj91e6z8xw7x-xuLF1CD2WovwLZuSyLY#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2396761.2398634/Primary/RAXCUD2doiHkzy-W2ctTPpEwkGdWOgZUJuyw997fVVdQM#study> .
 }
 
 sub:provenance {
@@ -2016,14 +2016,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1772690.1772751/RA7iHoyyxe1cQoS6CCKwVyUTG58EGSdyOyfn9VrGMkgOk> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1772690.1772751/RA7iHoyyxe1cQoS6CCKwVyUTG58EGSdyOyfn9VrGMkgOk#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1772690.1772751/RAI9XHzHIhdzVXXIwn0VM1gHmfCwyiIQztGWqOj66v2o4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1772690.1772751/RAI9XHzHIhdzVXXIwn0VM1gHmfCwyiIQztGWqOj66v2o4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2040,8 +2040,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1772690.1772751> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1772690.1772751/Primary/RABgMkcAdm2jSr2W4OzTL_YL8MF5wpVY0kFIMXl85SAW0#study>,
-      <https://w3id.org/livingreviews/np/study/1772690.1772751/Secondary/RAV5iq5RfZyk8Z7-f6zexk2R1sUiSOSDtUsfmXPms-m2c#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1772690.1772751/Primary/RA_R3ZhFZqdeyFCHYOsXl-1KuBwXOmmqGl7r_9xX-_dwo#study>,
+      <https://w3id.org/livingreviews/np/study/1772690.1772751/Secondary/RAiYRDV8o1I9GvlgrG52ZNdVGK504ctYW4bsLh5aNfFug#study> .
 }
 
 sub:provenance {
@@ -2049,14 +2049,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2011.571825/RAu1Wm1DxMrrYd33yypQEduVC-zfCOQbXSfg_C98LbcK8> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2011.571825/RAu1Wm1DxMrrYd33yypQEduVC-zfCOQbXSfg_C98LbcK8#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2011.571825/RAHtrhiTpwzHiqZrpNeIduotGTr1h_4_Tj0Fzph8dnI80> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2011.571825/RAHtrhiTpwzHiqZrpNeIduotGTr1h_4_Tj0Fzph8dnI80#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2073,7 +2073,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/1461670X.2011.571825> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2011.571825/Primary/RA2UGJil_B7l8CedclSxfQWPbWUi3G-BnBGYsX-EbeAog#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2011.571825/Primary/RAK70iUtU3p4beeQuMCLblM0J_AJZ6vyvyc1xAa0CAjP8#study> .
 }
 
 sub:provenance {
@@ -2081,14 +2081,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2488068/RACSYPwAjlY7PIgn2yVJCJD2KLSaaVt8twzXKXNNIdK6w> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2488068/RACSYPwAjlY7PIgn2yVJCJD2KLSaaVt8twzXKXNNIdK6w#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2488068/RA-umIz01j6oLGJYkFAykpU8o1xYnkS1MtsoRjYgo_24s> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2488068/RA-umIz01j6oLGJYkFAykpU8o1xYnkS1MtsoRjYgo_24s#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2105,7 +2105,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2487788.2488068> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2488068/Primary/RAmz3YLCy2erDJ8nEC3mXjWrvD_Ow0rDeIwB1c3x7S7F0#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2488068/Primary/RAYj_WHnxfCMXCKcxEmMNCHQoAqmtwi8YTyqzp_KXnNPY#study> .
 }
 
 sub:provenance {
@@ -2113,14 +2113,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1348549.1348555/RAGyuNxYzUjq-GIUhvE5mBEqPQ63fg1oTQ-AjJl7tT0ek> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1348549.1348555/RAGyuNxYzUjq-GIUhvE5mBEqPQ63fg1oTQ-AjJl7tT0ek#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1348549.1348555/RAXZwXqBrfQzwRtW3zlxVZrJIwkCOlNUEM-XMuvAACHcs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1348549.1348555/RAXZwXqBrfQzwRtW3zlxVZrJIwkCOlNUEM-XMuvAACHcs#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2137,7 +2137,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1348549.1348555> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1348549.1348555/Primary/RADx3ycF5VwtkD1zOgUIUKXAns6TgftOkdLBHuX2QG9KY#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1348549.1348555/Primary/RAvwsgSRnk6-Enf4uZ-kOUhru2B4FuYVGilXP9dTmmAHg#study> .
 }
 
 sub:provenance {
@@ -2145,14 +2145,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1397735.1397738/RAWcWneMLP2lzaXQ_2Jz8I8YXVTuj_zWxvaU7UY1Z03NI> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1397735.1397738/RAWcWneMLP2lzaXQ_2Jz8I8YXVTuj_zWxvaU7UY1Z03NI#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1397735.1397738/RAFZqHSiaiz_qp-jgfurezNIfHjRYjKZC9VFGHTPmRSpo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1397735.1397738/RAFZqHSiaiz_qp-jgfurezNIfHjRYjKZC9VFGHTPmRSpo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2169,8 +2169,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1397735.1397738> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1397735.1397738/Primary/RA8bmZPWwXgosbqcS0Ttjd49jp4OSb4f77y_U0JnzTDQA#study>,
-      <https://w3id.org/livingreviews/np/study/1397735.1397738/Secondary/RA44LaBQh52MwTbiiDrhpaOfaR8d33Fyf5hrzc0l8w8rk#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1397735.1397738/Primary/RAKt1jFI7GRPggwOt6S6mOMehuuPExVdycEc9z0nGAT9Q#study>,
+      <https://w3id.org/livingreviews/np/study/1397735.1397738/Secondary/RAgzl8vJQPOYspgiY_RhhfYzVB433g_nhkuV5zaTRu1sY#study> .
 }
 
 sub:provenance {
@@ -2178,14 +2178,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000008/RAuQBXjaHlLCznfsAHhdcdDhuvtHc4VZ56j-8iS_fF308> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000008/RAuQBXjaHlLCznfsAHhdcdDhuvtHc4VZ56j-8iS_fF308#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000008/RAGfEwOru2t5FCkrg3acJ3Ob8xm-RpuRvkX1K5D6nQlHE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000008/RAGfEwOru2t5FCkrg3acJ3Ob8xm-RpuRvkX1K5D6nQlHE#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2202,8 +2202,8 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000008/Primary/RA_NIPAs1sVK6FlvPEwStUqx2GM3QhlW9Ve5s5NW-epJs#study>,
-      <https://w3id.org/livingreviews/np/study/00000000008/Secondary/RA-l7n4ESVj9_O3mm-SO2J5Cc5-tRqlFxf_gpm45BiUPE#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000008/Primary/RAh1vmob9c19wHod_V9VYYYyfR9zpk_ZzjoEcmwZZhzsg#study>,
+      <https://w3id.org/livingreviews/np/study/00000000008/Secondary/RAsajoJkCZAW2QC3n7I8P31mJtgfbYVNLJOKHztcqjnSg#study> .
 }
 
 sub:provenance {
@@ -2211,14 +2211,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2337542.2337547/RAsMGtUZ38hbNPqBm795NrLE1lb7OnzscjBnCU0i-9F14> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2337542.2337547/RAsMGtUZ38hbNPqBm795NrLE1lb7OnzscjBnCU0i-9F14#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2337542.2337547/RANyyM41ByZlKnZVFMIht4kyS2t6X7oeDOeQjrNK8HwUk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2337542.2337547/RANyyM41ByZlKnZVFMIht4kyS2t6X7oeDOeQjrNK8HwUk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2235,8 +2235,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2337542.2337547> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2337542.2337547/Primary/RAy-hu-hOZFatbM-dH4e8LMxcQpOKVQF3z5MwWkrwNVwY#study>,
-      <https://w3id.org/livingreviews/np/study/2337542.2337547/Secondary/RA9b1XzbCqEOaPUu-s6FklEHzhDZ6l5eqNQ8n2vxlfM90#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2337542.2337547/Primary/RAY-gaVi2-wzeygcvcTJj4FaoPTKwaVFPXABobBS86Z1U#study>,
+      <https://w3id.org/livingreviews/np/study/2337542.2337547/Secondary/RA5lE3VlFxrTKiwsAmhoA_QTrkotYrhW8-6dbeVnz-lj4#study> .
 }
 
 sub:provenance {
@@ -2244,14 +2244,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444810372164/RAopEDLVNRii-eNvMLj0BYqCNn6YCEs7U82ubcWom14x4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444810372164/RAopEDLVNRii-eNvMLj0BYqCNn6YCEs7U82ubcWom14x4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444810372164/RAtvpdo0mEHx6JvNM5V-msL1Rp-6Dakw1Tf_B-oJOBNJ4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444810372164/RAtvpdo0mEHx6JvNM5V-msL1Rp-6Dakw1Tf_B-oJOBNJ4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2268,7 +2268,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F1461444810372164> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1461444810372164/Primary/RA0ID276cXstlUsNBJBwovikGz5vPF9R3XXo9NmewLbic#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1461444810372164/Primary/RAhAesOEvR6Ca0297nmNkyTNlzWfJjCnm5M9kaTfEQxlo#study> .
 }
 
 sub:provenance {
@@ -2276,14 +2276,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/15228835.2012.744244/RADCedrQOXNR-azaRayzRXo3pdGUovUi1t87OlimTplHM> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/15228835.2012.744244/RADCedrQOXNR-azaRayzRXo3pdGUovUi1t87OlimTplHM#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/15228835.2012.744244/RAmUq71rJmkaZ0QksluUQ-JzEQORX7hAJsyEbEMxvsDlY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/15228835.2012.744244/RAmUq71rJmkaZ0QksluUQ-JzEQORX7hAJsyEbEMxvsDlY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2300,8 +2300,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/15228835.2012.744244> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/15228835.2012.744244/Primary/RAe4GRkNui_ODvJjqUtr76pzYSuWOcq_ofrk3_P9zL2RM#study>,
-      <https://w3id.org/livingreviews/np/study/15228835.2012.744244/Secondary/RA2qHUZRmyU_G71JKJiNhWWFJl3WpsfCsL51scVZOFKJk#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/15228835.2012.744244/Primary/RAdDfqupa-VuRh-WqlFhreiJ8U1bE2LXOzBkovPZqdouk#study>,
+      <https://w3id.org/livingreviews/np/study/15228835.2012.744244/Secondary/RAhhoj64uOIF_NKBdvYRp41Wc5OD7iFcmj_iqSH3_vubA#study> .
 }
 
 sub:provenance {
@@ -2309,14 +2309,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/GreenCom-iThings-CPSCom.2013.173/RAONcIltQ4InLXVhmSY_qGmjkwt0miBAXJ9hp32CFM-OE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/GreenCom-iThings-CPSCom.2013.173/RAONcIltQ4InLXVhmSY_qGmjkwt0miBAXJ9hp32CFM-OE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/GreenCom-iThings-CPSCom.2013.173/RATirhpH8HR-g4YUvOk2MmBT5i8C31HhkedUg0npx6G20> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/GreenCom-iThings-CPSCom.2013.173/RATirhpH8HR-g4YUvOk2MmBT5i8C31HhkedUg0npx6G20#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2333,7 +2333,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1109/GreenCom-iThings-CPSCom.2013.173> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/GreenCom-iThings-CPSCom.2013.173/Primary/RAfwH-woA_0QQ3twD25Bpm-yD_5umoOjkmURBmcE9rbo8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/GreenCom-iThings-CPSCom.2013.173/Primary/RAaB2VOiM29ARrCqaMeVLEepY_vhxsdbmTZ-676PghsRs#study> .
 }
 
 sub:provenance {
@@ -2341,14 +2341,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2467696.2467749/RAgutv4JfzdrNoMN72hi5Y4Ei8S19WwQ-OQQsDqVGUEj4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2467696.2467749/RAgutv4JfzdrNoMN72hi5Y4Ei8S19WwQ-OQQsDqVGUEj4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2467696.2467749/RAabIAzEOdL6WvC2PvNtdKaY4uN4POCNhVgUwCzWyok3k> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2467696.2467749/RAabIAzEOdL6WvC2PvNtdKaY4uN4POCNhVgUwCzWyok3k#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2365,7 +2365,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2467696.2467749> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2467696.2467749/Primary/RAdeON083pQ6_YEl2j5_oxhbW3V-TzIilbcG4tkvtJRM4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2467696.2467749/Primary/RAhEcLKoLj9SPQfXdyJkseWEe0Tw6jsGc-rUCv3aj839g#study> .
 }
 
 sub:provenance {
@@ -2373,14 +2373,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2484028.2484212/RA4O-l1yM88y-rTQB6MvRCF6vOEGlrpsHt-p7X4lOGJM4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2484028.2484212/RA4O-l1yM88y-rTQB6MvRCF6vOEGlrpsHt-p7X4lOGJM4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2484028.2484212/RAVumT9aPrOgT14W1EEZz4jNiniGxKpsmrr_hfWB2KHlU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2484028.2484212/RAVumT9aPrOgT14W1EEZz4jNiniGxKpsmrr_hfWB2KHlU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2397,7 +2397,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2484028.2484212> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2484028.2484212/Primary/RAjNKahu_JVD4vTCDRfaPP3EM3i-ueT1ejroXdGqowOuA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2484028.2484212/Primary/RAgJCI_qIv1pkKiC0IO4jgdI_PK3ztQ6F59kBUpaDr-8Q#study> .
 }
 
 sub:provenance {
@@ -2405,14 +2405,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1964858.1964869/RAzgnBBK1CXZgE6589yiedryrex56B1QwjRkEJk3n1yA8> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1964858.1964869/RAzgnBBK1CXZgE6589yiedryrex56B1QwjRkEJk3n1yA8#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1964858.1964869/RAGv2HL-Z_E0nXfVA7skeZf2JGrloyF-DvhV-5GaVu3bk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1964858.1964869/RAGv2HL-Z_E0nXfVA7skeZf2JGrloyF-DvhV-5GaVu3bk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2429,7 +2429,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1964858.1964869> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1964858.1964869/Primary/RAgR61YTDlPwasFKngxi6NUxU3r01b-kVuj_WB3ZeagL4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1964858.1964869/Primary/RASrCWH-IwdZl-_bA9VrApUOzS9BNIi31BmExDKeGNMOM#study> .
 }
 
 sub:provenance {
@@ -2437,14 +2437,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1940161212474472/RApHJB3VDr3ca-h28LYk3HV7FaEyHWox4iB2CWbmGdTc0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1940161212474472/RApHJB3VDr3ca-h28LYk3HV7FaEyHWox4iB2CWbmGdTc0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1940161212474472/RA_NiaMHRAApDHYsnhm__Y685pAMDP1lOVQwqO97SeRDM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1940161212474472/RA_NiaMHRAApDHYsnhm__Y685pAMDP1lOVQwqO97SeRDM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2461,8 +2461,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F1940161212474472> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1940161212474472/Primary/RAclXpnKkcA-diIwxD-4B3CJ5_B0IK1L1fWlH2GibOedU#study>,
-      <https://w3id.org/livingreviews/np/study/10.1177%2F1940161212474472/Secondary/RASKCs7Wvzf2l06ShSPaAxwPjK4pF1yoz49sY5QkhYl2I#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1940161212474472/Primary/RAllsei6q0J2yYQZueWN1UsxG7mJSs2m2RNH5iozQY7XI#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F1940161212474472/Secondary/RAstg4_6ajYsYnCdKVBE8TnpFVkJOLeEEPM3OFCgNGl-A#study> .
 }
 
 sub:provenance {
@@ -2470,14 +2470,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2339530.2339540/RA56K5jjT-F-4i6cirdAuUVQ_Py2ysW74PYCqIaf3GqLM> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2339530.2339540/RA56K5jjT-F-4i6cirdAuUVQ_Py2ysW74PYCqIaf3GqLM#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2339530.2339540/RAMBskHyBk6WNVxvlAAcS-kGPPNTNO_BIvM0PPY8np1IM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2339530.2339540/RAMBskHyBk6WNVxvlAAcS-kGPPNTNO_BIvM0PPY8np1IM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2494,8 +2494,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2339530.2339540> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2339530.2339540/Primary/RACtRVaxtmDgpxXpJ-Zhf-vGIHh85Cj2kc589n_H7If3Y#study>,
-      <https://w3id.org/livingreviews/np/study/2339530.2339540/Secondary/RAtl57oIpx0-E4aFVftcc3zkfup8cXZvk5tw_55Ert7u4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2339530.2339540/Primary/RA2e7dGp0f4QlKOSHOfMRZkxyHBZRiiXo9YyTML2suj0w#study>,
+      <https://w3id.org/livingreviews/np/study/2339530.2339540/Secondary/RAtoieWaaQ5o_hXD8HM5wZIlasL1dqn4Yl0pZETkRFklw#study> .
 }
 
 sub:provenance {
@@ -2503,14 +2503,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2187980.2188177/RAZIsSdf8CZUwPK-02ZGebP5UUf-8MtImV0Lup9ylNUfg> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2187980.2188177/RAZIsSdf8CZUwPK-02ZGebP5UUf-8MtImV0Lup9ylNUfg#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2187980.2188177/RAJNDo2Ebe3rYd0Cpb8iULRkdHytrJgCXvBqRIBxOJZgQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2187980.2188177/RAJNDo2Ebe3rYd0Cpb8iULRkdHytrJgCXvBqRIBxOJZgQ#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2527,8 +2527,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2187980.2188177> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2187980.2188177/Primary/RA-ijxBfOaQFqC6wmGW5nCu_k1wy_BSW-dOMd15wuoU8s#study>,
-      <https://w3id.org/livingreviews/np/study/2187980.2188177/Secondary/RAlThFiKvL2I9vSOWtt_Rb6Ot2TXSo1a6IkqCMRzPy1hw#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2187980.2188177/Primary/RApSTUdIQpsnFePyj9G_JB2YOJ3HdDsAXj4V8ESA04TCk#study>,
+      <https://w3id.org/livingreviews/np/study/2187980.2188177/Secondary/RAQSRjTHHwx0ek_vT3ywxtiWX1m4IopSZ3LCY-ajMCx1Y#study> .
 }
 
 sub:provenance {
@@ -2536,14 +2536,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RA-2gn4r6XxjX8rMNxI4SZ0G0JRLGQpnjjOjr3cGeevyY#> .
-@prefix : <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAcKkhECeZ6lvDiWS1ya2YROPmproB8Idi12ZOQZ5mlTk#> .
+@prefix : <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2551,32 +2551,32 @@ sub:pubinfo {
 @prefix fabio: <http://purl.org/spar/fabio/> .
 @prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
 
-sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23Head {
-  : np:hasAssertion sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23assertion;
-    np:hasProvenance sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23provenance;
-    np:hasPublicationInfo sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23pubinfo;
+sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23Head {
+  : np:hasAssertion sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23assertion;
+    np:hasProvenance sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23provenance;
+    np:hasPublicationInfo sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23pubinfo;
     a np:Nanopublication .
 }
 
-sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23assertion {
+sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23assertion {
   <https://doi.org/10.1177%2F2056305115610141> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F2056305115610141/Primary/RAqoy2Q-l6_fr2Xk0_lrK_uih3NT6jBcZoZ9HJE4C_3kE#RAHhlYoUDWN5EpfzUoxMsW-__HnCwv0vkqH-VeUUmzfGs%23study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F2056305115610141/Primary/RAkT7defFJIjpYmk0swr65p1M3Rbi01z6YyvPc1tj2is0#RAyuDHHbz1xGwqHsoIWqyLF91W4wj7bybQ5jQN6feyruw%23study> .
 }
 
-sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23provenance {
-  sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23assertion prov:wasDerivedFrom
+sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23provenance {
+  sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23assertion prov:wasDerivedFrom
       <https://doi.org/10.1177%2F2056305115610141> .
 }
 
-sub:RAQor6hz-1fINm8Uh4CQKoHyYaaQSvnyfTjf9z7kATbvo%23pubinfo {
-  : dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+sub:RAVS6z66h3NzMghTj6w4CiXnZHMmzUgYcO4lmUdMyYyLU%23pubinfo {
+  : dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/21670811.2013.872420/RA_74NazUceAP_Mck472uRSxWcnuYd6VLW45T7F8xnYzs> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/21670811.2013.872420/RA_74NazUceAP_Mck472uRSxWcnuYd6VLW45T7F8xnYzs#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/21670811.2013.872420/RAHtEV7WHMlPlk9AhWlwRzgX2GdnxXYCJqhg2Nt2rF5ds> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/21670811.2013.872420/RAHtEV7WHMlPlk9AhWlwRzgX2GdnxXYCJqhg2Nt2rF5ds#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2593,7 +2593,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/21670811.2013.872420> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/21670811.2013.872420/Primary/RAlEmuNb6lmiSCXT_YsTROOY-fvH3Yp6evFkzS0wM5uII#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/21670811.2013.872420/Primary/RAtVKpi8ddv5bTo8hf_NsWUMkzEYfquSnT25Mvie-K9Sc#study> .
 }
 
 sub:provenance {
@@ -2601,14 +2601,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.1460-2466.2012.01630.x/RAb_gbKtK2sL-IpP_b3x6XTLUgMlK2RrHKNSWookS-mYg> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1460-2466.2012.01630.x/RAb_gbKtK2sL-IpP_b3x6XTLUgMlK2RrHKNSWookS-mYg#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.1460-2466.2012.01630.x/RA0_Ku7GdtQDvIl0d_Zu6wRkOYAw7Ytm9d2_mKHXMHA9A> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1460-2466.2012.01630.x/RA0_Ku7GdtQDvIl0d_Zu6wRkOYAw7Ytm9d2_mKHXMHA9A#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2625,7 +2625,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1111/j.1460-2466.2012.01630.x> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.1460-2466.2012.01630.x/Primary/RAwB-wG4OwH2XKurpqXlyXANkz8wxvFLm29ykvR_--WK4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.1460-2466.2012.01630.x/Primary/RAZSD0dxFGWjT5WD-vo-rqEuf1cOljEEjBrMfGGEkJw7Y#study> .
 }
 
 sub:provenance {
@@ -2633,14 +2633,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2492517.2500250/RA28HqhOtFEn-R3abe5CuN1XGaUdzsE5VRbKQug5ZpkZI> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2492517.2500250/RA28HqhOtFEn-R3abe5CuN1XGaUdzsE5VRbKQug5ZpkZI#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2492517.2500250/RAlpGbsBwxC62g7A1BDHN50tW34ZRaUBp7XK9hfsThygo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2492517.2500250/RAlpGbsBwxC62g7A1BDHN50tW34ZRaUBp7XK9hfsThygo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2657,7 +2657,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2492517.2500250> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2492517.2500250/Primary/RAX9NnW-pY5yo9B_fX--AMGnHHjLwpovQRuviMgiR5njQ#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2492517.2500250/Primary/RA0Rp1R7oQA_r1INGJPC-Zs8FOb-_WfvyTJeLCFX6GdSk#study> .
 }
 
 sub:provenance {
@@ -2665,14 +2665,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1464884911431533/RAhWDKgjhCoB1kz0esPLPLbLteZRW3fpn_pj9euSB2wnM> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1464884911431533/RAhWDKgjhCoB1kz0esPLPLbLteZRW3fpn_pj9euSB2wnM#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1464884911431533/RA0EYeO1iotQH2zkPkc2TYgM5rMG0oIaFdeh5-C0Mp3w4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1464884911431533/RA0EYeO1iotQH2zkPkc2TYgM5rMG0oIaFdeh5-C0Mp3w4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2689,8 +2689,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F1464884911431533> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1464884911431533/Primary/RAuHJ27YwJic1NDrMykD7-c__a5V92FDv37j9DBBMSzM0#study>,
-      <https://w3id.org/livingreviews/np/study/10.1177%2F1464884911431533/Secondary/RAjEKbaDTKVni1YbSQAmi2if5IkdXtnk8a2cnYZberFw8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1464884911431533/Primary/RAXxXJTc_EB-olEPGmP0t62SC7Z4_m9fByvc6wVnFU7zE#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F1464884911431533/Secondary/RAuu7qdDdDXfXouyU3kdXIfmzQoawu_1tjkue2FsvDoUg#study> .
 }
 
 sub:provenance {
@@ -2698,14 +2698,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000009/RACdZG4EOMjrQwgbc59clqxL7jVB9Z-ICI4Zis_-xP67I> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000009/RACdZG4EOMjrQwgbc59clqxL7jVB9Z-ICI4Zis_-xP67I#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000009/RAwjh7x5bDEztlfLknP0DuC39OPCKArtK1H4Db_CS3VRU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000009/RAwjh7x5bDEztlfLknP0DuC39OPCKArtK1H4Db_CS3VRU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2722,7 +2722,7 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000009/Primary/RAs5a6xIlOkJr6lZ7PvaOCl7BnTu4lQ2ST1O0-9FwEL1c#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000009/Primary/RA9PmcdI-qdeESSFvBy6w2VkTxfDdKohc_7o6XNOdBuvk#study> .
 }
 
 sub:provenance {
@@ -2730,14 +2730,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/07421222.2015.1138368/RAPO8rswX7X8g1aSTtwyE3x22hH7j_1PZyKe0_t8l2uvk> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/07421222.2015.1138368/RAPO8rswX7X8g1aSTtwyE3x22hH7j_1PZyKe0_t8l2uvk#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/07421222.2015.1138368/RAT90Ws4zYuPkgJr-KkS5iEubBna-XyUwhCaOzo_5k07A> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/07421222.2015.1138368/RAT90Ws4zYuPkgJr-KkS5iEubBna-XyUwhCaOzo_5k07A#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2754,7 +2754,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/07421222.2015.1138368> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/07421222.2015.1138368/Primary/RAVDYUCIVWODnHQJ6Cmqm6cDI_Vl_oAIo5AlFbjNmsUZk#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/07421222.2015.1138368/Primary/RAufc3gyVJSOqcNBXKXiP_s5191QDC8GzCNcLFs0ivw4U#study> .
 }
 
 sub:provenance {
@@ -2762,14 +2762,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F152263791101300302/RA8RoyGCpu2sr4hPoUXjNpxO9eOtodnfqrTe9vG7oIpR8> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F152263791101300302/RA8RoyGCpu2sr4hPoUXjNpxO9eOtodnfqrTe9vG7oIpR8#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F152263791101300302/RAu7DE2NlbDI3YhezvBZIfbbaP1u4UcQ_Z3FX5gtKciMk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F152263791101300302/RAu7DE2NlbDI3YhezvBZIfbbaP1u4UcQ_Z3FX5gtKciMk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2786,8 +2786,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F152263791101300302> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F152263791101300302/Primary/RAOIL8-Ngjoi_Q1hC9UEL9DYV9dQduaRmL4Ip_2gtBvBE#study>,
-      <https://w3id.org/livingreviews/np/study/10.1177%2F152263791101300302/Secondary/RAN8eMfB76M9x8w6JO-vWb4u0X5M-ahqPBF1LlDEkkp-M#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F152263791101300302/Primary/RA178hYwfZ3Fp6Yz6DDqH-lhORKpZhmSmHSyFnMShx8r0#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F152263791101300302/Secondary/RA7Ik2r6Fw2eZqCUq7eqKTVftn9gle91pRhtIg8E2T5mo#study> .
 }
 
 sub:provenance {
@@ -2795,14 +2795,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2487921/RA1b4t6mhhr7JXmLv2ZnpOXKloXIufig5lscE7xONkmB4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2487921/RA1b4t6mhhr7JXmLv2ZnpOXKloXIufig5lscE7xONkmB4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2487921/RAmtKE-uEx3zJFnT6L_AYn9TM-Rn_kU2t3Knb_7Gq3MbM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2487921/RAmtKE-uEx3zJFnT6L_AYn9TM-Rn_kU2t3Knb_7Gq3MbM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2819,7 +2819,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2487788.2487921> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2487921/Primary/RAETnmbIuw1tYBXGKYgjhcQo_5HfIlE6oCZ4ftpgKUHqM#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2487921/Primary/RAannVKdsMrKw5f0Md1tdbvl6XN6tRHVUiT4EyxjOFD6M#study> .
 }
 
 sub:provenance {
@@ -2827,14 +2827,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1963405.1963503/RAeBy5Ufxro_r1onQmLOdrxgm5CcCPOEHVcNqkq1Vpun4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1963405.1963503/RAeBy5Ufxro_r1onQmLOdrxgm5CcCPOEHVcNqkq1Vpun4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1963405.1963503/RAJaG91A3idnJmnoUtVUvZMWxD1qaHBgRlZ-bPb3iH7eI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1963405.1963503/RAJaG91A3idnJmnoUtVUvZMWxD1qaHBgRlZ-bPb3iH7eI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2851,8 +2851,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1963405.1963503> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1963405.1963503/Primary/RAsFA494vUYfJIqoGoEZI44zGm4gBBjqukiUoQ93wuQ4M#study>,
-      <https://w3id.org/livingreviews/np/study/1963405.1963503/Secondary/RAI2piHJtDdn9NeCqX5v3AFneTiUwx-s_UO2VO3ZbkJ2Q#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1963405.1963503/Primary/RAofMZmrwNXh68ObFwhcL2LN5MZKfmbelDnxs_b6yCJ4o#study>,
+      <https://w3id.org/livingreviews/np/study/1963405.1963503/Secondary/RAa8juHPUG76X11BxbunD6FkQPCU0byX1oAny2hg2V1c4#study> .
 }
 
 sub:provenance {
@@ -2860,14 +2860,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2526188.2526219/RAKE2x9Gl6F_hfXexABp70VctRu8FLMBtQJ033enUuWmU> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2526188.2526219/RAKE2x9Gl6F_hfXexABp70VctRu8FLMBtQJ033enUuWmU#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2526188.2526219/RAcuQ_ZOugItQhl9FB1_Hw9YkXYJbxEi49aZrdDb9ToNU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2526188.2526219/RAcuQ_ZOugItQhl9FB1_Hw9YkXYJbxEi49aZrdDb9ToNU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2884,7 +2884,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2526188.2526219> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2526188.2526219/Primary/RAOZLOg9tPZJGcJ0Cmtrnbdug6lIZp8PXIywu1IidxQnw#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2526188.2526219/Primary/RAL1BZqjnwQ6ZbCdSB4olXHRFv6Nu6yItk-5DWMEjpAsc#study> .
 }
 
 sub:provenance {
@@ -2892,14 +2892,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0093650205279209/RAk7PWKzT7QLu28OzwR69coddWsho-hauO0NcYw9r_chI> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0093650205279209/RAk7PWKzT7QLu28OzwR69coddWsho-hauO0NcYw9r_chI#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0093650205279209/RAicXy3tKSYGpn_Tb6LhdEA7Za4XT7UkhVtGAromSvu4w> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0093650205279209/RAicXy3tKSYGpn_Tb6LhdEA7Za4XT7UkhVtGAromSvu4w#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2916,8 +2916,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F0093650205279209> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0093650205279209/Primary/RAcouMooExkE_PYrotsHpihQld1snrR92wU58L44xlNCQ#study>,
-      <https://w3id.org/livingreviews/np/study/10.1177%2F0093650205279209/Secondary/RA8PsU7hYu6BoW6czgZG1vk6uR6QSG2SczUoWJHjNhpgI#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0093650205279209/Primary/RAUhkEz71UMYE5JDhX9eHXZNMxip2WQ1RvCS5qu-uo_-8#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F0093650205279209/Secondary/RAeTWkjbJtwoA9bW5pXjOhaREmp1YEVdE_eZyIdc_IEc0#study> .
 }
 
 sub:provenance {
@@ -2925,14 +2925,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/00000000000/RAJSYJutUTtb0lAj3_B5vfeJTsMruPHOAGXNx2eqI9udc> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000000/RAJSYJutUTtb0lAj3_B5vfeJTsMruPHOAGXNx2eqI9udc#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000000/RAzDDZoqZb3MrZ5fl__ZdHrFgnmuh9y_drpMY35-8oE1c> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000000/RAzDDZoqZb3MrZ5fl__ZdHrFgnmuh9y_drpMY35-8oE1c#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2949,7 +2949,7 @@ sub:Head {
 
 sub:assertion {
   sub:paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000000/Primary/RA2ZxCTlSqAI12uWL_6eb9IMmP5k0bM0FNa_rIfbwBdVM#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000000/Primary/RAgQddsx__dCSnVr3DwfdkgJ8Rpe6dwtyllFJWJfzTPyc#study> .
 }
 
 sub:provenance {
@@ -2957,14 +2957,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444809360699/RAhuq4PcBTRr4r2fOdQNIEaznihOiErEqxJ5mde61C3-c> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444809360699/RAhuq4PcBTRr4r2fOdQNIEaznihOiErEqxJ5mde61C3-c#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444809360699/RAqKmrpvQOy483gy4MxFb1jC-ZmING1pRJrbvZUrNT7DU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444809360699/RAqKmrpvQOy483gy4MxFb1jC-ZmING1pRJrbvZUrNT7DU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -2981,7 +2981,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F1461444809360699> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1461444809360699/Primary/RAaXMAGEMPuQL7xXCz3hHSEAmEa-ZGmBFhEkHXYwcK8vU#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1461444809360699/Primary/RAxQg6zsPU7xXlGN-HtHRVF3J-NPNzBYi25ffsG0ITr1o#study> .
 }
 
 sub:provenance {
@@ -2989,14 +2989,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/4-1-15/RASGF-DfSziT7Xfi4iKDlQoQOwCn8xRr6ESXLeSobX62Q> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/4-1-15/RASGF-DfSziT7Xfi4iKDlQoQOwCn8xRr6ESXLeSobX62Q#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/4-1-15/RAKxYc5NsHtImLgg2En0cDvZX7u9a6fWLbMrML_RqzWqc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/4-1-15/RAKxYc5NsHtImLgg2En0cDvZX7u9a6fWLbMrML_RqzWqc#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3013,7 +3013,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.5789/4-1-15> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/4-1-15/Primary/RAlTQnBhnYqCaIaK6ND8JFJYNPShOHw7mFTjXO4_ygZf4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/4-1-15/Primary/RAa6tBa5XOwEvr_cFpE1qS9h1mcWkoCovdyuhq03aiLkA#study> .
 }
 
 sub:provenance {
@@ -3021,14 +3021,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000001/RA7Dw8L6x27FTdf_-NOvm2rbkHT9BYyiLt0pK6RhyQkgE#> .
-@prefix : <https://w3id.org/livingreviews/np/paper/00000000001/RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000001/RAx80kr8b8kNNaU5eeMGVokvDCC8ZqlV7CS6ehXbICHtA#> .
+@prefix : <https://w3id.org/livingreviews/np/paper/00000000001/RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3036,33 +3036,33 @@ sub:pubinfo {
 @prefix fabio: <http://purl.org/spar/fabio/> .
 @prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
 
-sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23Head {
-  : np:hasAssertion sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23assertion;
-    np:hasProvenance sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23provenance;
-    np:hasPublicationInfo sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23pubinfo;
+sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23Head {
+  : np:hasAssertion sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23assertion;
+    np:hasProvenance sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23provenance;
+    np:hasPublicationInfo sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23pubinfo;
     a np:Nanopublication .
 }
 
-sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23assertion {
-  sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000001/Primary/RAVt1CbraFNbI2FnIEHXPmomJ6W6aY-dci98b90Ui43gs#RA_CYwp3Sqf43KWu_43DBb3sOo5QVumHqiO-X7K-t7cSs%23study>,
-      <https://w3id.org/livingreviews/np/study/00000000001/Secondary/RATD8dgo3xbL7-aOl-TnXZaTiqBrSpC6M9m363nLhWQqI#study> .
+sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23assertion {
+  sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000001/Primary/RA2Ax2bzR5CsRsAxgyZM4QNtKGcF21nw8VbzE4hvdE1uM#RAt6UaVkXWD86TaXTtkeV8QnrTQltmmJO1kCtlyMTnqzY%23study>,
+      <https://w3id.org/livingreviews/np/study/00000000001/Secondary/RASi6oD9nnC8UuqQ_tcm6Z8n4ulR6KKV1JbjiSXOpisps#study> .
 }
 
-sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23provenance {
-  sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23assertion prov:wasDerivedFrom
+sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23provenance {
+  sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23assertion prov:wasDerivedFrom
       <https://w3id.org/livingreviews/np/paper-bib/00000000001> .
 }
 
-sub:RAAURZnvt29wXL7s4i9AQky3U1nhpnCjTwLPiBuuryECg%23pubinfo {
-  : dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+sub:RAKGIEqc7_lZszWYMFc4B6My6pMnqoe0eKZYhbmy3rjLo%23pubinfo {
+  : dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/isre.1100.0339/RAOwuw04mIzD-ltDi2Kmkzw2D6hs92QxUOnD9ebacVIE4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/isre.1100.0339/RAOwuw04mIzD-ltDi2Kmkzw2D6hs92QxUOnD9ebacVIE4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/isre.1100.0339/RAiI5ws-3LBCjtc_CFXd9g3w2TNeO0-vz7xN7YqYQnpeY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/isre.1100.0339/RAiI5ws-3LBCjtc_CFXd9g3w2TNeO0-vz7xN7YqYQnpeY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3079,8 +3079,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1287/isre.1100.0339> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/isre.1100.0339/Primary/RAbHQgFk2ut6z9CCaZ7XXZmhFeoVt2tvu9JaEUSWa1WiA#study>,
-      <https://w3id.org/livingreviews/np/study/isre.1100.0339/Secondary/RAJ0QeY2XuvGa9BaboAsNye-be3OB2aU4ukr2Sci849L8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/isre.1100.0339/Primary/RAuyEh-vgri49pDlyzAQ1FyFBVgGkO-U-4Rndfwcn4nmA#study>,
+      <https://w3id.org/livingreviews/np/study/isre.1100.0339/Secondary/RAJm_tgX1KeNVp2J5gfe0ohh1ZghknxEn3d6cm883SsXU#study> .
 }
 
 sub:provenance {
@@ -3088,14 +3088,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/WI-IAT.2011.311/RAnXn2Rb1WrRTQM7Uab6oalAyV5jRJ2yg1JiVQ_010QM4> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/WI-IAT.2011.311/RAnXn2Rb1WrRTQM7Uab6oalAyV5jRJ2yg1JiVQ_010QM4#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/WI-IAT.2011.311/RAPWoDh8qYG3eA-hFYmicCDsiLb9KGpigDaVTTzcDH9ZY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/WI-IAT.2011.311/RAPWoDh8qYG3eA-hFYmicCDsiLb9KGpigDaVTTzcDH9ZY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3112,8 +3112,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1109/WI-IAT.2011.311> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/WI-IAT.2011.311/Primary/RAZryUqwDtn9eIGFkZiBjYGRuRxjrPPLGjkGX07Xjm_PQ#study>,
-      <https://w3id.org/livingreviews/np/study/WI-IAT.2011.311/Secondary/RAtLLRLcs7VcPERhua6lsbkETjZZQum6iLhVtIA_wJoXA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/WI-IAT.2011.311/Primary/RAi0PIoeLYp8IqaSZOp6ief_i3JHWrrgR-tAsnFQeAz64#study>,
+      <https://w3id.org/livingreviews/np/study/WI-IAT.2011.311/Secondary/RAjXdy02DlASgZ6EqjVCssDjYQW9T01QKKCyUXeXubrh4#study> .
 }
 
 sub:provenance {
@@ -3121,14 +3121,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2492517.2500262/RAVMCsGYi2vAhnNUhz3szOICCiIFeLyZsFkRAFghXk4YE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2492517.2500262/RAVMCsGYi2vAhnNUhz3szOICCiIFeLyZsFkRAFghXk4YE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2492517.2500262/RA_2_GMFdNdcdm_VyWiAE2DszJ1udgRAevR4qE0yyLzo0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2492517.2500262/RA_2_GMFdNdcdm_VyWiAE2DszJ1udgRAevR4qE0yyLzo0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3145,7 +3145,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2492517.2500262> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2492517.2500262/Primary/RA3AsMO7QhE7Auasc8Lvpp2ZBf-G6BWHt_MlvUosg5He4#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2492517.2500262/Primary/RAcnCflHeWrQyUTSLiTa3Y0BQqiRwP3nNtwUpxSgXXLXE#study> .
 }
 
 sub:provenance {
@@ -3153,14 +3153,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/j.pubrev.2012.12.001/RAXfhH71VG8v6g-GJpp4N8GNwH5Izxq25ara2Pgq9VJ5w> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/j.pubrev.2012.12.001/RAXfhH71VG8v6g-GJpp4N8GNwH5Izxq25ara2Pgq9VJ5w#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.pubrev.2012.12.001/RASu6nJu1cjw7S9s26XSGyycjXSdictlrMt_Zdxb8Ua58> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.pubrev.2012.12.001/RASu6nJu1cjw7S9s26XSGyycjXSdictlrMt_Zdxb8Ua58#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3177,8 +3177,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1016/j.pubrev.2012.12.001> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/j.pubrev.2012.12.001/Primary/RA8QJfDWmLxOSc6D2PWJmWLJFYmYTzDMN24YnMCf07QkA#study>,
-      <https://w3id.org/livingreviews/np/study/j.pubrev.2012.12.001/Secondary/RA-DBH-PD3Yh_Y9dYiK8bwdFAp-OG99eU417rGZQiMkpU#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/j.pubrev.2012.12.001/Primary/RAXt7dAM-Jpv0T9_eAvfIzfRjlN2ho_4hSlGrBMMjZsI0#study>,
+      <https://w3id.org/livingreviews/np/study/j.pubrev.2012.12.001/Secondary/RAvCdMQ0e6XzqmHkMgXL6DCox5Q53jkSdMBXH54D7VxKI#study> .
 }
 
 sub:provenance {
@@ -3186,14 +3186,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/17512786.2012.667272/RASPql8PtkYm6HfUOkAB6SqSJQyG3bnGslqCicAlEOKyA> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/17512786.2012.667272/RASPql8PtkYm6HfUOkAB6SqSJQyG3bnGslqCicAlEOKyA#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/17512786.2012.667272/RAvAHqEuXXFLfqn2DPybFqLfUQjfm4POdKtW2HHXO__A0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/17512786.2012.667272/RAvAHqEuXXFLfqn2DPybFqLfUQjfm4POdKtW2HHXO__A0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3210,8 +3210,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1080/17512786.2012.667272> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/17512786.2012.667272/Primary/RAQgKAj50AhueAf8XKtd4_NDD4-oYqQ9LPtSQVYQ9PqiY#study>,
-      <https://w3id.org/livingreviews/np/study/17512786.2012.667272/Secondary/RAWbShAoULPew-7_OR9sfrITPuglYAIT68-hY9bobtAPo#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/17512786.2012.667272/Primary/RAljHq9Jlv9JGYrB6jllw_cJQiS0A4-gXp0XuKkGmTFY0#study>,
+      <https://w3id.org/livingreviews/np/study/17512786.2012.667272/Secondary/RAPU79D7Z6oN1jd_kmzCr22pN6wB8iofAtB-uSgNJ9F1I#study> .
 }
 
 sub:provenance {
@@ -3219,14 +3219,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000002/RAvgB0UpyT37MPIWjLGcjjuLwSzzD58sWGX_aetoB_gdw#> .
-@prefix : <https://w3id.org/livingreviews/np/paper/00000000002/RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000002/RAeJ_WN_Z3NlETkJlDPis42iU-YFWDjTHElSRLe70xgqs#> .
+@prefix : <https://w3id.org/livingreviews/np/paper/00000000002/RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3234,33 +3234,33 @@ sub:pubinfo {
 @prefix fabio: <http://purl.org/spar/fabio/> .
 @prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
 
-sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23Head {
-  : np:hasAssertion sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23assertion;
-    np:hasProvenance sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23provenance;
-    np:hasPublicationInfo sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23pubinfo;
+sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23Head {
+  : np:hasAssertion sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23assertion;
+    np:hasProvenance sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23provenance;
+    np:hasPublicationInfo sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23pubinfo;
     a np:Nanopublication .
 }
 
-sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23assertion {
-  sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23paper a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/00000000002/Primary/RAOVgyt46d7XwdMD1PPWD_yXckGC0f__qe1IBJ38EH7es#RAX5NRvrMm99YT_w1aKsJ9-SgO752MhCEEILtaNpTgD8k%23study>,
-      <https://w3id.org/livingreviews/np/study/00000000002/Secondary/RANWXsxzY7pw0PSbUgiRs0TT0K-1cm72TNCuHf_jYEV3s#study> .
+sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23assertion {
+  sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000002/Primary/RA1SWFdYytEVtpzK4e90Fi0fAk8UQWYCJPRryEhXhzZtY#RAs24eFY-ObO5-oYXW-ZB0yDQMVFJmeMx9dNdj0XTA_q8%23study>,
+      <https://w3id.org/livingreviews/np/study/00000000002/Secondary/RAOg8xF-QNI9zqG6Y8AvyrRI3UPSiOdUzz2BKXUFWFWaw#study> .
 }
 
-sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23provenance {
-  sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23assertion prov:wasDerivedFrom
+sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23provenance {
+  sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23assertion prov:wasDerivedFrom
       <https://w3id.org/livingreviews/np/paper-bib/00000000002> .
 }
 
-sub:RA7UJ_-lB9b9KmcjiP3dCTT-pN17PaPX5yMqq63sksMik%23pubinfo {
-  : dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+sub:RAuVkPdPDQa7c1aquK6WmChmnfCLoJzAtziUU716xyi70%23pubinfo {
+  : dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1963405.1963504/RA70Pnj6hG8DqERTSo1-IVyMZ_MQgNNTqSAwZav-R0J0s> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1963405.1963504/RA70Pnj6hG8DqERTSo1-IVyMZ_MQgNNTqSAwZav-R0J0s#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1963405.1963504/RAZjeLDyWOZvNDvi48WBufADqVzXL7rU9sg77y85a4B_o> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1963405.1963504/RAZjeLDyWOZvNDvi48WBufADqVzXL7rU9sg77y85a4B_o#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3277,8 +3277,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1963405.1963504> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1963405.1963504/Primary/RAAj8TFi3hGkWu8unYABdQlzNmPQK5WWbyPG1AMYTmsxw#study>,
-      <https://w3id.org/livingreviews/np/study/1963405.1963504/Secondary/RAb2VlUnYLKGQfObBGlUg-EnJYG3X3fa4TRQJ7wNwqINA#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1963405.1963504/Primary/RA15bmJ4DRo3uWrtweBW03wkq8tzFih5M_rjr0l4390ZM#study>,
+      <https://w3id.org/livingreviews/np/study/1963405.1963504/Secondary/RA1OhMdLU4r96FZPSRpJEB9JAogzU-_RgQRbAvwvqvMMc#study> .
 }
 
 sub:provenance {
@@ -3286,14 +3286,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2348283.2348358/RAo9GJRwgyTBbQq6ssqybx-u8fArdIVTSUjYArWTgv-fM> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2348283.2348358/RAo9GJRwgyTBbQq6ssqybx-u8fArdIVTSUjYArWTgv-fM#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2348283.2348358/RAehY-Ud65B9PuCR3WF6ljpEyiKadyYBFCqmeq6Tm0cXA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2348283.2348358/RAehY-Ud65B9PuCR3WF6ljpEyiKadyYBFCqmeq6Tm0cXA#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3310,8 +3310,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2348283.2348358> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2348283.2348358/Primary/RAQ7Cl7uoGklTefbYv8BnYrACP_SaUISVYlh4qcbrra0Q#study>,
-      <https://w3id.org/livingreviews/np/study/2348283.2348358/Secondary/RAOjCS3Ck-_pNnmF5t8jZtMnsjOiExxPI3LeoVWpW_0wI#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2348283.2348358/Primary/RAy0sY7yBqiGym1kr8Xw2_k51ldRf4hqrYBKF1_DbwTAI#study>,
+      <https://w3id.org/livingreviews/np/study/2348283.2348358/Secondary/RA2qFh2sPVFhBQqtJ3SKU9TgIenyoJ7hivIpEZsbY8H18#study> .
 }
 
 sub:provenance {
@@ -3319,14 +3319,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0306422012466807/RAIuhW4qzSEqaZYtdCAueC_gaKfl3L3AGRaiyk6rEhZLE> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0306422012466807/RAIuhW4qzSEqaZYtdCAueC_gaKfl3L3AGRaiyk6rEhZLE#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0306422012466807/RAIhFK_o4OVoNM8PWUWJMf6m0J4S8KwCDN7usK--i8f8Y> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0306422012466807/RAIhFK_o4OVoNM8PWUWJMf6m0J4S8KwCDN7usK--i8f8Y#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3343,7 +3343,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1177%2F0306422012466807> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0306422012466807/Primary/RAUYXjxYbcNSWd-Ka738VzMg40oDuXKp6wh930kQjDqRk#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0306422012466807/Primary/RAA48EUXdbxTgi7G5Vb9cQHWfo_NP7yDet7iG3k4wbCSA#study> .
 }
 
 sub:provenance {
@@ -3351,14 +3351,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/1964858.1964875/RAXaxzOhTKbpc1lioiexIUqeFv8NK7JbHgeB8mpqzb5No> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/1964858.1964875/RAXaxzOhTKbpc1lioiexIUqeFv8NK7JbHgeB8mpqzb5No#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/1964858.1964875/RAtL1k7GxybiBfP6hp8q2GNpqetWEWw5KJ8cN04GVS4lU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1964858.1964875/RAtL1k7GxybiBfP6hp8q2GNpqetWEWw5KJ8cN04GVS4lU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3375,8 +3375,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/1964858.1964875> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/1964858.1964875/Primary/RABi2VBgTyJsrjvqZebxfRAe4mBSiJoETwM6KkbfK75YE#study>,
-      <https://w3id.org/livingreviews/np/study/1964858.1964875/Secondary/RAuKay3XQ4nDk5o01f3KHBTRRX_HR5Wo-6cLItV5dhTo8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/1964858.1964875/Primary/RAw8qpTNNPjfkCNk5nGInlCRnK2ua--bTf6BaT3ETbIUU#study>,
+      <https://w3id.org/livingreviews/np/study/1964858.1964875/Secondary/RANwKzGKRSUg7jyZJO9375TiY2nYib_Fei3x6PVYN38Vo#study> .
 }
 
 sub:provenance {
@@ -3384,14 +3384,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2063576.2063992/RAVXFBComXTW_e7H7w4jU1WWqk-oA-RWiBApzP2zcbmhA> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2063576.2063992/RAVXFBComXTW_e7H7w4jU1WWqk-oA-RWiBApzP2zcbmhA#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2063576.2063992/RA9iUronCJOMf7MiBcMDTnDKGrmA60JYfXXi47qqeCrQs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2063576.2063992/RA9iUronCJOMf7MiBcMDTnDKGrmA60JYfXXi47qqeCrQs#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3408,8 +3408,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2063576.2063992> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2063576.2063992/Primary/RAScBgonBH_V4XRiHEKv1LM3hKvFQ_vfxcNXuWG5iqyBU#study>,
-      <https://w3id.org/livingreviews/np/study/2063576.2063992/Secondary/RAfOXXtOGcNVywOBh2eYv6SgkNM0RQnfPQeVK_KCSPBY8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2063576.2063992/Primary/RA8aNiq7PSWK3BaTzGtu82WQQnUcTrcQhcJJum9F_clxA#study>,
+      <https://w3id.org/livingreviews/np/study/2063576.2063992/Secondary/RApLS423310nJpo7gSZtZMtgNP2NXWXJEUXNL0vyc-wWo#study> .
 }
 
 sub:provenance {
@@ -3417,14 +3417,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2556195.2566588/RAEC28SPUFLhoAoKIxzM172-ROWLBjvb8t42yeJ8SB2Nw> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2556195.2566588/RAEC28SPUFLhoAoKIxzM172-ROWLBjvb8t42yeJ8SB2Nw#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2556195.2566588/RArHv7NYRloy5eO0TRTKoezQgWtkQPvjubw_tXgFDPWWE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2556195.2566588/RArHv7NYRloy5eO0TRTKoezQgWtkQPvjubw_tXgFDPWWE#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3441,8 +3441,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2556195.2566588> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2556195.2566588/Primary/RABqeMFnW__bxr5xNtCgQgGi0FlnRrcJMUQk73B2mrEYw#study>,
-      <https://w3id.org/livingreviews/np/study/2556195.2566588/Secondary/RAIjoI7if2Cmju323h5TTBztIQ-tmPlXjrqlaRlaTz3Ew#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2556195.2566588/Primary/RAWrrFzgZUp7SUEoNLM6O0ZeXm_KspxXcjWAVZApFHBo4#study>,
+      <https://w3id.org/livingreviews/np/study/2556195.2566588/Secondary/RAYdhqUU9yZTdPNmqF4Abdh1n2yO2KDj4WUj6H2OsDg2A#study> .
 }
 
 sub:provenance {
@@ -3450,14 +3450,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2631775.2631808/RASV8YdD8C1XH_1LyNAqdCCuEoFsfMFv8LcHNWJ1UCjBU> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2631775.2631808/RASV8YdD8C1XH_1LyNAqdCCuEoFsfMFv8LcHNWJ1UCjBU#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2631775.2631808/RAHXoTBfIm8nIQPinqH1sAbeS40_pYjN_881sf_UiC-Ec> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2631775.2631808/RAHXoTBfIm8nIQPinqH1sAbeS40_pYjN_881sf_UiC-Ec#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3474,8 +3474,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2631775.2631808> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2631775.2631808/Primary/RAjfG46J6s_a1mj3KVupB2glTp-ZhRxbHUrO1RDqzOwSM#study>,
-      <https://w3id.org/livingreviews/np/study/2631775.2631808/Secondary/RARvKZgMkznHhAeu228e3aP8O-hG2DJMQBdaqrf9S9ep0#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2631775.2631808/Primary/RASbKAPiiYFf4LjzjM-Gm64JwipkKUAUtaWjBIWR5lvpw#study>,
+      <https://w3id.org/livingreviews/np/study/2631775.2631808/Secondary/RA8UVC-1q75kzq_Qgbr1nb0hb7kFj0hbW8qGyxJP4gro4#study> .
 }
 
 sub:provenance {
@@ -3483,14 +3483,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/jcom.12103/RAcAhiNXca87qGa3EqnoWiPsOjzOJJcTdTTEyjp-kv3h0> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/jcom.12103/RAcAhiNXca87qGa3EqnoWiPsOjzOJJcTdTTEyjp-kv3h0#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/jcom.12103/RAhrz62NeFOnvfq-k0dt8IUj0L2sRD74vReorqRo3Tn6c> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/jcom.12103/RAhrz62NeFOnvfq-k0dt8IUj0L2sRD74vReorqRo3Tn6c#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3507,7 +3507,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1111/jcom.12103> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/jcom.12103/Primary/RAXLB96J5x9buvNW5W8J1YAAv87tBJAFTzo-vto2RB2j8#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/jcom.12103/Primary/RAwYhOe1HUqZy_6bw75DORDFkJ8_TtVLBHNbfhivDueLk#study> .
 }
 
 sub:provenance {
@@ -3515,14 +3515,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2597892/RALFe3jU773fjbHVrDxTc6m33Y6rZLfffoAsfDj6TFS6c> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2597892/RALFe3jU773fjbHVrDxTc6m33Y6rZLfffoAsfDj6TFS6c#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2597892/RAJL2TQlhPCVm_N71ryFMi-9GeGJmq3A3nITvkK_xOde4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2597892/RAJL2TQlhPCVm_N71ryFMi-9GeGJmq3A3nITvkK_xOde4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3539,7 +3539,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2597892> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2597892/Primary/RAqAXhm8R-C6rfXBbEbntvRrzCH1wDpf9MxHgv1PGiSNo#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2597892/Primary/RAa3wD5dQEDo1tbFhDHgCF8qRIIJFwC3kRrE53KiCTIhI#study> .
 }
 
 sub:provenance {
@@ -3547,14 +3547,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/OIR-10-2013-0239/RAaMCfXsQctV3za22JfLC8t0HzYjIZZ7ltIvA1z4kAPrQ> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/OIR-10-2013-0239/RAaMCfXsQctV3za22JfLC8t0HzYjIZZ7ltIvA1z4kAPrQ#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/OIR-10-2013-0239/RAdPeoWUQSWEXJMFrkmoKfCxY_SGnka4WgNfemjTiyTNs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/OIR-10-2013-0239/RAdPeoWUQSWEXJMFrkmoKfCxY_SGnka4WgNfemjTiyTNs#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3571,7 +3571,7 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1108/OIR-10-2013-0239> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/OIR-10-2013-0239/Primary/RASXGMGJkCBpYgLAAgOvuAgAu6effuO9LMXKazHyBtVro#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/OIR-10-2013-0239/Primary/RAFZYhNlJsh7iWHSMB03jtvEfrKYe3XQUT_2Km87lTBSo#study> .
 }
 
 sub:provenance {
@@ -3579,14 +3579,14 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
 }
-@prefix this: <https://w3id.org/livingreviews/np/paper/2647868.2655037/RA2nUrBBEvs81KGuIo4JCbf31fCZt2f_xyBNcXlqkevwA> .
-@prefix sub: <https://w3id.org/livingreviews/np/paper/2647868.2655037/RA2nUrBBEvs81KGuIo4JCbf31fCZt2f_xyBNcXlqkevwA#> .
+@prefix this: <https://w3id.org/livingreviews/np/paper/2647868.2655037/RAlK-0hvMDtu94iZVRcS6KxSICM2OvngtriG3FCuygyYA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2647868.2655037/RAlK-0hvMDtu94iZVRcS6KxSICM2OvngtriG3FCuygyYA#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -3603,8 +3603,8 @@ sub:Head {
 
 sub:assertion {
   <https://doi.org/10.1145/2647868.2655037> a fabio:ResearchPaper;
-    cdop:study <https://w3id.org/livingreviews/np/study/2647868.2655037/Primary/RA28ZSQ69w3W7yorZp6aIrKgsnSu8UZUfnyHUcQ8mkdag#study>,
-      <https://w3id.org/livingreviews/np/study/2647868.2655037/Secondary/RAB2LMfihZT-4DMsaGr0rZTWPnNkkCpYGxEwo-lNqTM18#study> .
+    cdop:study <https://w3id.org/livingreviews/np/study/2647868.2655037/Primary/RAcjjudyIwCFw0TV8PBPrqSS9s8W0ZOvXKqg35UdOqcKM#study>,
+      <https://w3id.org/livingreviews/np/study/2647868.2655037/Secondary/RAN_pwVx2i2YaRe0nmmKwYZHAlZPCwX3DQObA90TBo5PE#study> .
 }
 
 sub:provenance {
@@ -3612,7 +3612,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2021-03-04T20:01:45.260+01:00"^^xsd:dateTime;
+  this: dct:created "2021-03-10T20:51:43.529+01:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
       <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
       <https://orcid.org/0000-0003-2929-3815>;
