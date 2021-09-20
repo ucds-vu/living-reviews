@@ -1,0 +1,42 @@
+<http://id.crossref.org/contributor/aram-galstyan-2s16qf8nsuy07>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Galstyan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aram" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aram Galstyan" .
+
+<http://id.crossref.org/isbn/9781605581828>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the first workshop on Online social networks - WOSP '08" .
+
+<http://id.crossref.org/contributor/kristina-lerman-2s16qf8nsuy07>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lerman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kristina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kristina Lerman" .
+
+<http://dx.doi.org/10.1145/1397735.1397738>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1397735.1397738" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/aram-galstyan-2s16qf8nsuy07> , <http://id.crossref.org/contributor/kristina-lerman-2s16qf8nsuy07> ;
+      <http://purl.org/dc/terms/date>
+              "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1397735.1397738" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781605581828> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Analysis of social voting patterns on digg" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1397735.1397738" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1397735.1397738> , <info:doi/10.1145/1397735.1397738> .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/shixia-liu-17y8ag7bk817o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Liu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shixia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shixia Liu" .
+
+<http://id.crossref.org/contributor/kwan-liu-ma-17y8ag7bk817o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kwan-Liu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kwan-Liu Ma" .
+
+<http://id.crossref.org/contributor/furu-wei-17y8ag7bk817o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wei" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Furu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Furu Wei" .
+
+<http://id.crossref.org/contributor/john-stasko-17y8ag7bk817o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stasko" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "John" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "John Stasko" .
+
+<http://id.crossref.org/isbn/9781450310154>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems - CHI '12" .
+
+<http://id.crossref.org/contributor/yingcai-wu-17y8ag7bk817o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yingcai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yingcai Wu" .
+
+<http://dx.doi.org/10.1145/2207676.2208672>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2207676.2208672" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kwan-liu-ma-17y8ag7bk817o> , <http://id.crossref.org/contributor/shixia-liu-17y8ag7bk817o> , <http://id.crossref.org/contributor/furu-wei-17y8ag7bk817o> , <http://id.crossref.org/contributor/john-stasko-17y8ag7bk817o> , <http://id.crossref.org/contributor/yingcai-wu-17y8ag7bk817o> , <http://id.crossref.org/contributor/mengdie-hu-17y8ag7bk817o> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2207676.2208672" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450310154> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Breaking news on twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2207676.2208672" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2207676.2208672> , <doi:10.1145/2207676.2208672> .
+
+<http://id.crossref.org/contributor/mengdie-hu-17y8ag7bk817o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mengdie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mengdie Hu" .

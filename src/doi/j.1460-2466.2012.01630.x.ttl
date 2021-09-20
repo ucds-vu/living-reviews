@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/maria-de-fatima-oliveira-2dp718zr3bq69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Fatima Oliveira" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Maria" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Maria de Fatima Oliveira" .
+
+<http://id.crossref.org/contributor/zizi-papacharissi-2dp718zr3bq69>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Papacharissi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zizi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zizi Papacharissi" .
+
+<http://dx.doi.org/10.1111/j.1460-2466.2012.01630.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1460-2466.2012.01630.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "282" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "266" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "62" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zizi-papacharissi-2dp718zr3bq69> , <http://id.crossref.org/contributor/maria-de-fatima-oliveira-2dp718zr3bq69> ;
+      <http://purl.org/dc/terms/date>
+              "2012-02-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1460-2466.2012.01630.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9916> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Affective News and Networked Publics: The Rhythms of News Storytelling on #Egypt" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1460-2466.2012.01630.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "282" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "266" ;
+      <http://purl.org/ontology/bibo/volume>
+              "62" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1460-2466.2012.01630.x> , <doi:10.1111/j.1460-2466.2012.01630.x> .
+
+<http://id.crossref.org/issn/0021-9916>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9916" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Communication" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9916" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9916" .

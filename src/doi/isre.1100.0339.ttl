@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/1047-7047>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1047-7047" , "1526-5536" ;
+      <http://purl.org/dc/terms/title>
+              "Information Systems Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1047-7047" , "1526-5536" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1526-5536" , "urn:issn:1047-7047" .
+
+<http://id.crossref.org/contributor/yong-tan-2f9trw7nu9ptz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yong Tan" .
+
+<http://id.crossref.org/contributor/jeong-ha-oh-2f9trw7nu9ptz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Oh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jeong-Ha" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jeong-Ha Oh" .
+
+<http://id.crossref.org/contributor/anjana-susarla-2f9trw7nu9ptz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Susarla" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anjana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anjana Susarla" .
+
+<http://dx.doi.org/10.1287/isre.1100.0339>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1287/isre.1100.0339" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "41" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "23" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "23" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yong-tan-2f9trw7nu9ptz> , <http://id.crossref.org/contributor/jeong-ha-oh-2f9trw7nu9ptz> , <http://id.crossref.org/contributor/anjana-susarla-2f9trw7nu9ptz> ;
+      <http://purl.org/dc/terms/date>
+              "2012-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1287/isre.1100.0339" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1047-7047> ;
+      <http://purl.org/dc/terms/publisher>
+              "Institute for Operations Research and the Management Sciences (INFORMS)" ;
+      <http://purl.org/dc/terms/title>
+              "Social Networks and the Diffusion of User-Generated Content: Evidence from YouTube" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1287/isre.1100.0339" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "41" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "23" ;
+      <http://purl.org/ontology/bibo/volume>
+              "23" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1287/isre.1100.0339> , <info:doi/10.1287/isre.1100.0339> .

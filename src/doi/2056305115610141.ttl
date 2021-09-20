@@ -1,0 +1,65 @@
+<http://dx.doi.org/10.1177/2056305115610141>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/2056305115610141" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "205630511561014" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/veronika-karnowski-1m4ezpyhgdd26> , <http://id.crossref.org/contributor/till-keyling-1m4ezpyhgdd26> , <http://id.crossref.org/contributor/anna-sophie-kumpel-1m4ezpyhgdd26> ;
+      <http://purl.org/dc/terms/date>
+              "2015-09-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/2056305115610141" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2056-3051> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "News Sharing in Social Media: A Review of Current Research on News Sharing Users, Content, and Networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/2056305115610141" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "205630511561014" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/2056305115610141> , <info:doi/10.1177/2056305115610141> .
+
+<http://id.crossref.org/contributor/veronika-karnowski-1m4ezpyhgdd26>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karnowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Veronika" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Veronika Karnowski" .
+
+<http://id.crossref.org/contributor/till-keyling-1m4ezpyhgdd26>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Keyling" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Till" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Till Keyling" .
+
+<http://id.crossref.org/issn/2056-3051>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2056-3051" ;
+      <http://purl.org/dc/terms/title>
+              "Social Media + Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2056-3051" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2056-3051" .
+
+<http://id.crossref.org/contributor/anna-sophie-kumpel-1m4ezpyhgdd26>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kümpel" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna Sophie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna Sophie Kümpel" .

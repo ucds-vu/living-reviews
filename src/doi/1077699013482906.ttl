@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/r-lance-holbert-z5piya9ifaa3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Holbert" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R. Lance" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Lance Holbert" .
+
+<http://dx.doi.org/10.1177/1077699013482906>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1077699013482906" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "212" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "90" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/r-lance-holbert-z5piya9ifaa3> , <http://id.crossref.org/contributor/brian-e-weeks-z5piya9ifaa3> ;
+      <http://purl.org/dc/terms/date>
+              "2013-04-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1077699013482906" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1077-6990> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Predicting Dissemination of News Content in Social Media" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1077699013482906" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "232" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "212" ;
+      <http://purl.org/ontology/bibo/volume>
+              "90" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/1077699013482906> , <doi:10.1177/1077699013482906> .
+
+<http://id.crossref.org/contributor/brian-e-weeks-z5piya9ifaa3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weeks" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brian E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brian E. Weeks" .
+
+<http://id.crossref.org/issn/1077-6990>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1077-6990" , "2161-430X" ;
+      <http://purl.org/dc/terms/title>
+              "Journalism & Mass Communication Quarterly" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1077-6990" , "2161-430X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2161-430X" , "urn:issn:1077-6990" .

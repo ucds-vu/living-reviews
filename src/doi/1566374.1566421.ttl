@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1145/1566374.1566421>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1566374.1566421" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/brian-karrer-2b4yf3i5amahf> , <http://id.crossref.org/contributor/eytan-bakshy-2b4yf3i5amahf> , <http://id.crossref.org/contributor/lada-a-adamic-2b4yf3i5amahf> ;
+      <http://purl.org/dc/terms/date>
+              "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1566374.1566421" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781605584584> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Social influence and the diffusion of user-created content" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1566374.1566421" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1566374.1566421> , <info:doi/10.1145/1566374.1566421> .
+
+<http://id.crossref.org/contributor/brian-karrer-2b4yf3i5amahf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Karrer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brian Karrer" .
+
+<http://id.crossref.org/contributor/eytan-bakshy-2b4yf3i5amahf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bakshy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eytan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eytan Bakshy" .
+
+<http://id.crossref.org/contributor/lada-a-adamic-2b4yf3i5amahf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Adamic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lada A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lada A. Adamic" .
+
+<http://id.crossref.org/isbn/9781605584584>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the tenth ACM conference on Electronic commerce - EC '09" .

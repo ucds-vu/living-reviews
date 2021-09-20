@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/sanne-hille-1l7jvoanmet8a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hille" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sanne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sanne Hille" .
+
+<http://id.crossref.org/issn/0267-3231>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0267-3231" , "1460-3705" ;
+      <http://purl.org/dc/terms/title>
+              "European Journal of Communication" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0267-3231" , "1460-3705" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1460-3705" , "urn:issn:0267-3231" .
+
+<http://id.crossref.org/contributor/piet-bakker-1l7jvoanmet8a>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bakker" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Piet" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Piet Bakker" .
+
+<http://dx.doi.org/10.1177/0267323113497435>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0267323113497435" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "680" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "663" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sanne-hille-1l7jvoanmet8a> , <http://id.crossref.org/contributor/piet-bakker-1l7jvoanmet8a> ;
+      <http://purl.org/dc/terms/date>
+              "2013-09-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0267323113497435" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0267-3231> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "I like news. Searching for the ‘Holy Grail’ of social media: The use of Facebook by Dutch news media and their audiences" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0267323113497435" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "680" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "663" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/0267323113497435> , <info:doi/10.1177/0267323113497435> .

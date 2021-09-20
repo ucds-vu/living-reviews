@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/chei-sian-lee-3cxmathlo94qj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sian Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chei Sian Lee" .
+
+<http://id.crossref.org/contributor/long-ma-3cxmathlo94qj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Long" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Long Ma" .
+
+<http://dx.doi.org/10.1108/OIR-10-2013-0239>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1108/oir-10-2013-0239" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "615" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "598" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chei-sian-lee-3cxmathlo94qj> , <http://id.crossref.org/contributor/long-ma-3cxmathlo94qj> , <http://id.crossref.org/contributor/dion-hoe-lian-goh-3cxmathlo94qj> ;
+      <http://purl.org/dc/terms/date>
+              "2014-07-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1108/oir-10-2013-0239" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1468-4527> ;
+      <http://purl.org/dc/terms/publisher>
+              "Emerald" ;
+      <http://purl.org/dc/terms/title>
+              "Understanding news sharing in social media" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1108/oir-10-2013-0239" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "615" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "598" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1108/oir-10-2013-0239> , <doi:10.1108/oir-10-2013-0239> , <http://dx.doi.org/10.1108/oir-10-2013-0239> .
+
+<http://id.crossref.org/issn/1468-4527>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-4527" ;
+      <http://purl.org/dc/terms/title>
+              "Online Information Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-4527" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1468-4527" .
+
+<http://id.crossref.org/contributor/dion-hoe-lian-goh-3cxmathlo94qj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoe-Lian Goh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dion" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dion Hoe-Lian Goh" .

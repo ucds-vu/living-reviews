@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1109/HICSS.2010.412>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/hicss.2010.412" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/g-lotan-2mz3v3bptvm4i> , <http://id.crossref.org/contributor/s-golder-2mz3v3bptvm4i> , <http://id.crossref.org/contributor/d-boyd-2mz3v3bptvm4i> ;
+      <http://purl.org/dc/terms/date>
+              "2010-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/hicss.2010.412" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781424455096> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Tweet, Tweet, Retweet: Conversational Aspects of Retweeting on Twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/hicss.2010.412" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1109/hicss.2010.412> , <info:doi/10.1109/hicss.2010.412> , <http://dx.doi.org/10.1109/hicss.2010.412> .
+
+<http://id.crossref.org/contributor/g-lotan-2mz3v3bptvm4i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lotan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "G." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "G. Lotan" .
+
+<http://id.crossref.org/isbn/9781424455096>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2010 43rd Hawaii International Conference on System Sciences" .
+
+<http://id.crossref.org/contributor/s-golder-2mz3v3bptvm4i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Golder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Golder" .
+
+<http://id.crossref.org/contributor/d-boyd-2mz3v3bptvm4i>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boyd" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "D. Boyd" .

@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/hakim-hacid-nm4cax9rce6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hacid" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hakim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hakim Hacid" .
+
+<http://id.crossref.org/contributor/djamel-a-zighed-nm4cax9rce6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zighed" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Djamel A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Djamel A. Zighed" .
+
+<http://id.crossref.org/contributor/cecile-favre-nm4cax9rce6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Favre" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cecile" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cecile Favre" .
+
+<http://dx.doi.org/10.1145/2503792.2503797>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2503792.2503797" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "28" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "17" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "42" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hakim-hacid-nm4cax9rce6y> , <http://id.crossref.org/contributor/djamel-a-zighed-nm4cax9rce6y> , <http://id.crossref.org/contributor/cecile-favre-nm4cax9rce6y> , <http://id.crossref.org/contributor/adrien-guille-nm4cax9rce6y> ;
+      <http://purl.org/dc/terms/date>
+              "2013-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2503792.2503797" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0163-5808> ;
+      <http://purl.org/dc/terms/publisher>
+              "Association for Computing Machinery (ACM)" ;
+      <http://purl.org/dc/terms/title>
+              "Information diffusion in online social networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2503792.2503797" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "28" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "17" ;
+      <http://purl.org/ontology/bibo/volume>
+              "42" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2503792.2503797> , <doi:10.1145/2503792.2503797> .
+
+<http://id.crossref.org/issn/0163-5808>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0163-5808" ;
+      <http://purl.org/dc/terms/title>
+              "ACM SIGMOD Record" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0163-5808" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0163-5808" .
+
+<http://id.crossref.org/contributor/adrien-guille-nm4cax9rce6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guille" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adrien" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adrien Guille" .

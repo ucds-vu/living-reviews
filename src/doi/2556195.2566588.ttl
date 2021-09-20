@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/ingmar-weber-26v4e6bgl0939>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Weber" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ingmar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ingmar Weber" .
+
+<http://dx.doi.org/10.1145/2556195.2566588>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2556195.2566588" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/venkata-rama-kiran-garimella-26v4e6bgl0939> , <http://id.crossref.org/contributor/ingmar-weber-26v4e6bgl0939> , <http://id.crossref.org/contributor/adiya-abisheva-26v4e6bgl0939> , <http://id.crossref.org/contributor/david-garcia-26v4e6bgl0939> ;
+      <http://purl.org/dc/terms/date>
+              "2014-02-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2556195.2566588" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450323512> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "Who watches (and shares) what on youtube? and when?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2556195.2566588" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2556195.2566588> , <info:doi/10.1145/2556195.2566588> .
+
+<http://id.crossref.org/contributor/adiya-abisheva-26v4e6bgl0939>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Abisheva" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Adiya" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Adiya Abisheva" .
+
+<http://id.crossref.org/contributor/venkata-rama-kiran-garimella-26v4e6bgl0939>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Garimella" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Venkata Rama Kiran" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Venkata Rama Kiran Garimella" .
+
+<http://id.crossref.org/isbn/9781450323512>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 7th ACM international conference on Web search and data mining" .
+
+<http://id.crossref.org/contributor/david-garcia-26v4e6bgl0939>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Garcia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Garcia" .

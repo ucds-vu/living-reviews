@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/nikhil-sharma-2xj7vvo9f914d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sharma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nikhil" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nikhil Sharma" .
+
+<http://id.crossref.org/contributor/silvia-knobloch-westerwick-2xj7vvo9f914d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Knobloch-Westerwick" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Silvia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Silvia Knobloch-Westerwick" .
+
+<http://id.crossref.org/contributor/scott-alter-2xj7vvo9f914d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alter" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Scott" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Scott Alter" .
+
+<http://dx.doi.org/10.1207/s15506878jobem4903_3>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1207/s15506878jobem4903_3" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "313" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "296" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "49" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/nikhil-sharma-2xj7vvo9f914d> , <http://id.crossref.org/contributor/silvia-knobloch-westerwick-2xj7vvo9f914d> , <http://id.crossref.org/contributor/scott-alter-2xj7vvo9f914d> , <http://id.crossref.org/contributor/derek-l-hansen-2xj7vvo9f914d> ;
+      <http://purl.org/dc/terms/date>
+              "2005-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1207/s15506878jobem4903_3" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0883-8151> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Impact of Popularity Indications on Readers' Selective Exposure to Online News" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1207/s15506878jobem4903_3" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "313" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "296" ;
+      <http://purl.org/ontology/bibo/volume>
+              "49" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1207/s15506878jobem4903_3> , <info:doi/10.1207/s15506878jobem4903_3> .
+
+<http://id.crossref.org/issn/0883-8151>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0883-8151" , "1550-6878" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Broadcasting & Electronic Media" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0883-8151" , "1550-6878" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0883-8151" , "urn:issn:1550-6878" .
+
+<http://id.crossref.org/contributor/derek-l-hansen-2xj7vvo9f914d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hansen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Derek L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Derek L. Hansen" .

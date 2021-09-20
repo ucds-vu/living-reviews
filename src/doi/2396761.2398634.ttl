@@ -1,0 +1,87 @@
+<http://id.crossref.org/contributor/gleb-gusev-35acgaow9bzjv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gusev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gleb" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gleb Gusev" .
+
+<http://id.crossref.org/contributor/svyatoslav-usachev-35acgaow9bzjv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Usachev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Svyatoslav" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Svyatoslav Usachev" .
+
+<http://id.crossref.org/contributor/liudmila-ostroumova-35acgaow9bzjv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ostroumova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liudmila" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liudmila Ostroumova" .
+
+<http://id.crossref.org/contributor/pavel-serdyukov-35acgaow9bzjv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Serdyukov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pavel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pavel Serdyukov" .
+
+<http://id.crossref.org/contributor/andrey-kustarev-35acgaow9bzjv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kustarev" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrey Kustarev" .
+
+<http://id.crossref.org/contributor/alexey-umnov-35acgaow9bzjv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Umnov" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alexey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alexey Umnov" .
+
+<http://dx.doi.org/10.1145/2396761.2398634>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2396761.2398634" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/gleb-gusev-35acgaow9bzjv> , <http://id.crossref.org/contributor/svyatoslav-usachev-35acgaow9bzjv> , <http://id.crossref.org/contributor/liudmila-ostroumova-35acgaow9bzjv> , <http://id.crossref.org/contributor/pavel-serdyukov-35acgaow9bzjv> , <http://id.crossref.org/contributor/andrey-kustarev-35acgaow9bzjv> , <http://id.crossref.org/contributor/alexey-umnov-35acgaow9bzjv> , <http://id.crossref.org/contributor/andrey-kupavskii-35acgaow9bzjv> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2396761.2398634" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450311564> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Prediction of retweet cascade size over time" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2396761.2398634" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2396761.2398634> , <info:doi/10.1145/2396761.2398634> .
+
+<http://id.crossref.org/contributor/andrey-kupavskii-35acgaow9bzjv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kupavskii" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrey" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrey Kupavskii" .
+
+<http://id.crossref.org/isbn/9781450311564>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 21st ACM international conference on Information and knowledge management - CIKM '12" .

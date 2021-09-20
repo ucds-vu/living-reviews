@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/homero-gil-de-zuniga-31r1zcxojnx0w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gil de Zúñiga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Homero" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Homero Gil de Zúñiga" .
+
+<http://id.crossref.org/contributor/nakwon-jung-31r1zcxojnx0w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nakwon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nakwon Jung" .
+
+<http://id.crossref.org/contributor/sebastian-valenzuela-31r1zcxojnx0w>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Valenzuela" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sebastián" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sebastián Valenzuela" .
+
+<http://id.crossref.org/issn/1083-6101>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1083-6101" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Computer-Mediated Communication" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1083-6101" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1083-6101" .
+
+<http://dx.doi.org/10.1111/j.1083-6101.2012.01574.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1083-6101.2012.01574.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "336" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "319" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/homero-gil-de-zuniga-31r1zcxojnx0w> , <http://id.crossref.org/contributor/nakwon-jung-31r1zcxojnx0w> , <http://id.crossref.org/contributor/sebastian-valenzuela-31r1zcxojnx0w> ;
+      <http://purl.org/dc/terms/date>
+              "2012-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1083-6101.2012.01574.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1083-6101> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Social Media Use for News and Individuals' Social Capital, Civic Engagement and Political Participation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1083-6101.2012.01574.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "336" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "319" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/j.1083-6101.2012.01574.x> , <info:doi/10.1111/j.1083-6101.2012.01574.x> .

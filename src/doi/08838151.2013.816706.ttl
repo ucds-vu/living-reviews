@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/susan-jacobson-225ad7gxim0cu>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jacobson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Susan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Susan Jacobson" .
+
+<http://dx.doi.org/10.1080/08838151.2013.816706>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/08838151.2013.816706" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "355" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "338" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "57" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/susan-jacobson-225ad7gxim0cu> ;
+      <http://purl.org/dc/terms/date>
+              "2013-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/08838151.2013.816706" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0883-8151> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Does Audience Participation on Facebook Influence the News Agenda? A Case Study ofThe Rachel Maddow Show" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/08838151.2013.816706" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "355" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "338" ;
+      <http://purl.org/ontology/bibo/volume>
+              "57" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/08838151.2013.816706> , <doi:10.1080/08838151.2013.816706> .
+
+<http://id.crossref.org/issn/0883-8151>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0883-8151" , "1550-6878" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Broadcasting & Electronic Media" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0883-8151" , "1550-6878" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0883-8151" , "urn:issn:1550-6878" .

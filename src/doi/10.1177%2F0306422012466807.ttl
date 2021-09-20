@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0306-4220>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1746-6067" , "0306-4220" ;
+      <http://purl.org/dc/terms/title>
+              "Index on Censorship" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1746-6067" , "0306-4220" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0306-4220" , "urn:issn:1746-6067" .
+
+<http://dx.doi.org/10.1177/0306422012466807>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0306422012466807" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "111" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "107" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hu-yong-10pmkh57wbr2r> ;
+      <http://purl.org/dc/terms/date>
+              "2012-11-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0306422012466807" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0306-4220> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Spreading the News" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0306422012466807" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "111" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "107" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/0306422012466807> , <doi:10.1177/0306422012466807> .
+
+<http://id.crossref.org/contributor/hu-yong-10pmkh57wbr2r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hu Yong" .

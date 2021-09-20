@@ -1,0 +1,47 @@
+<http://id.crossref.org/contributor/airi-lampinen-14i73vhpbir3g>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lampinen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Airi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Airi Lampinen" .
+
+<http://dx.doi.org/10.1177/2056305115578135>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/2056305115578135" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "205630511557813" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "1" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/airi-lampinen-14i73vhpbir3g> ;
+      <http://purl.org/dc/terms/date>
+              "2015-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/2056305115578135" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2056-3051> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Deceptively Simple: Unpacking the Notion of “Sharing”" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/2056305115578135" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "205630511557813" ;
+      <http://purl.org/ontology/bibo/volume>
+              "1" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/2056305115578135> , <doi:10.1177/2056305115578135> .
+
+<http://id.crossref.org/issn/2056-3051>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2056-3051" ;
+      <http://purl.org/dc/terms/title>
+              "Social Media + Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2056-3051" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2056-3051" .

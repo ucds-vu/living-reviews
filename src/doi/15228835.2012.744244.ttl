@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1080/15228835.2012.744244>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/15228835.2012.744244" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "249" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "232" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "30" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marco-lunich-17awrgi1wmhsi> , <http://id.crossref.org/contributor/lena-hautzer-17awrgi1wmhsi> , <http://id.crossref.org/contributor/patrick-rossler-17awrgi1wmhsi> ;
+      <http://purl.org/dc/terms/date>
+              "2012-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/15228835.2012.744244" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1522-8835> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Social Navigation on the Internet: A Framework for the Analysis of Communication Processes" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/15228835.2012.744244" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "249" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "232" ;
+      <http://purl.org/ontology/bibo/volume>
+              "30" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/15228835.2012.744244> , <doi:10.1080/15228835.2012.744244> .
+
+<http://id.crossref.org/contributor/marco-lunich-17awrgi1wmhsi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lünich" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marco Lünich" .
+
+<http://id.crossref.org/issn/1522-8835>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1522-8835" , "1522-8991" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Technology in Human Services" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1522-8835" , "1522-8991" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1522-8835" , "urn:issn:1522-8991" .
+
+<http://id.crossref.org/contributor/lena-hautzer-17awrgi1wmhsi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hautzer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lena" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lena Hautzer" .
+
+<http://id.crossref.org/contributor/patrick-rossler-17awrgi1wmhsi>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rössler" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrick Rössler" .

@@ -1,0 +1,33 @@
+<http://id.crossref.org/isbn/9781450320344>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval" .
+
+<http://id.crossref.org/contributor/walid-magdy-32tlx8gte6sal>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Magdy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Walid" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Walid Magdy" .
+
+<http://dx.doi.org/10.1145/2484028.2484212>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2484028.2484212" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/walid-magdy-32tlx8gte6sal> ;
+      <http://purl.org/dc/terms/date>
+              "2013-07-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2484028.2484212" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450320344> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "TweetMogaz" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2484028.2484212" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2484028.2484212> , <info:doi/10.1145/2484028.2484212> .

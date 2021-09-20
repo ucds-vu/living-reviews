@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/katherine-l-milkman-sswwfjj9oq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Milkman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Katherine L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Katherine L. Milkman" .
+
+<http://id.crossref.org/contributor/jonah-berger-sswwfjj9oq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonah Berger" .
+
+<http://id.crossref.org/issn/0022-2437>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0022-2437" , "1547-7193" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Marketing Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0022-2437" , "1547-7193" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1547-7193" , "urn:issn:0022-2437" .
+
+<http://dx.doi.org/10.1509/jmr.10.0353>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1509/jmr.10.0353" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "205" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "192" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "49" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/katherine-l-milkman-sswwfjj9oq> , <http://id.crossref.org/contributor/jonah-berger-sswwfjj9oq> ;
+      <http://purl.org/dc/terms/date>
+              "2012-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1509/jmr.10.0353" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0022-2437> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "What Makes Online Content Viral?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1509/jmr.10.0353" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "205" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "192" ;
+      <http://purl.org/ontology/bibo/volume>
+              "49" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1509/jmr.10.0353> , <info:doi/10.1509/jmr.10.0353> .

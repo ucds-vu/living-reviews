@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/homero-gil-de-zuniga-1he8a2mayl71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gil de Zúñiga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Homero" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Homero Gil de Zúñiga" .
+
+<http://id.crossref.org/issn/0747-5632>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0747-5632" ;
+      <http://purl.org/dc/terms/title>
+              "Computers in Human Behavior" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0747-5632" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0747-5632" .
+
+<http://dx.doi.org/10.1016/j.chb.2013.06.005>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.chb.2013.06.005" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "2614" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "2607" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "29" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/homero-gil-de-zuniga-1he8a2mayl71> , <http://id.crossref.org/contributor/yonghwan-kim-1he8a2mayl71> , <http://id.crossref.org/contributor/hsuan-ting-chen-1he8a2mayl71> ;
+      <http://purl.org/dc/terms/date>
+              "2013-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.chb.2013.06.005" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0747-5632> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Stumbling upon news on the Internet: Effects of incidental news exposure and relative entertainment use on political engagement" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.chb.2013.06.005" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "2614" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "2607" ;
+      <http://purl.org/ontology/bibo/volume>
+              "29" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.chb.2013.06.005> , <info:doi/10.1016/j.chb.2013.06.005> .
+
+<http://id.crossref.org/contributor/yonghwan-kim-1he8a2mayl71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yonghwan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yonghwan Kim" .
+
+<http://id.crossref.org/contributor/hsuan-ting-chen-1he8a2mayl71>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hsuan-Ting" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hsuan-Ting Chen" .

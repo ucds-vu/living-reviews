@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1145/2567948.2579325>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2567948.2579325" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/david-newth-3c9yc6gqpaqrk> , <http://id.crossref.org/contributor/minkyoung-kim-3c9yc6gqpaqrk> , <http://id.crossref.org/contributor/peter-christen-3c9yc6gqpaqrk> ;
+      <http://purl.org/dc/terms/date>
+              "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2567948.2579325" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450327459> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Trends of news diffusion in social media based on crowd phenomena" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2567948.2579325" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2567948.2579325> , <doi:10.1145/2567948.2579325> .
+
+<http://id.crossref.org/contributor/david-newth-3c9yc6gqpaqrk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Newth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "David" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "David Newth" .
+
+<http://id.crossref.org/contributor/minkyoung-kim-3c9yc6gqpaqrk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Minkyoung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Minkyoung Kim" .
+
+<http://id.crossref.org/isbn/9781450327459>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 23rd International Conference on World Wide Web - WWW '14 Companion" .
+
+<http://id.crossref.org/contributor/peter-christen-3c9yc6gqpaqrk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Christen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Peter" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Peter Christen" .

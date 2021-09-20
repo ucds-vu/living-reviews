@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1080/02560054.2013.767425>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/02560054.2013.767425" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "82" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "68" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "34" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/skye-cooley-3clne0ajl77x3> , <http://id.crossref.org/contributor/amy-jones-3clne0ajl77x3> ;
+      <http://purl.org/dc/terms/date>
+              "2013-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/02560054.2013.767425" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0256-0054> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "A forgotten tweet: Somalia and social media" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/02560054.2013.767425" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "82" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "68" ;
+      <http://purl.org/ontology/bibo/volume>
+              "34" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/02560054.2013.767425> , <info:doi/10.1080/02560054.2013.767425> .
+
+<http://id.crossref.org/contributor/skye-cooley-3clne0ajl77x3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cooley" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Skye" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Skye Cooley" .
+
+<http://id.crossref.org/contributor/amy-jones-3clne0ajl77x3>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jones" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amy Jones" .
+
+<http://id.crossref.org/issn/0256-0054>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0256-0054" , "1942-0773" ;
+      <http://purl.org/dc/terms/title>
+              "Ecquid Novi: African Journalism Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0256-0054" , "1942-0773" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0256-0054" , "urn:issn:1942-0773" .

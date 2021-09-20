@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/alan-jackoway-18pmhg7tivj3f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jackoway" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alan Jackoway" .
+
+<http://id.crossref.org/contributor/hanan-samet-18pmhg7tivj3f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Samet" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hanan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hanan Samet" .
+
+<http://id.crossref.org/isbn/9781450310338>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Location-Based Social Networks - LBSN '11" .
+
+<http://dx.doi.org/10.1145/2063212.2063224>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2063212.2063224" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hanan-samet-18pmhg7tivj3f> , <http://id.crossref.org/contributor/alan-jackoway-18pmhg7tivj3f> , <http://id.crossref.org/contributor/jagan-sankaranarayanan-18pmhg7tivj3f> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2063212.2063224" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450310338> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Identification of live news events using Twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2063212.2063224" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2063212.2063224> , <doi:10.1145/2063212.2063224> .
+
+<http://id.crossref.org/contributor/jagan-sankaranarayanan-18pmhg7tivj3f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sankaranarayanan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jagan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jagan Sankaranarayanan" .

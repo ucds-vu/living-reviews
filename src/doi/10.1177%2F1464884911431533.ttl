@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/erik-borra-1lmgbykvvsagv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Borra" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erik Borra" .
+
+<http://dx.doi.org/10.1177/1464884911431533>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1464884911431533" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "713" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "695" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/erik-borra-1lmgbykvvsagv> , <http://id.crossref.org/contributor/thomas-poell-1lmgbykvvsagv> ;
+      <http://purl.org/dc/terms/date>
+              "2011-12-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1464884911431533" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1464-8849> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Twitter, YouTube, and Flickr as platforms of alternative journalism: The social media account of the 2010 Toronto G20 protests" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1464884911431533" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "713" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "695" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/1464884911431533> , <doi:10.1177/1464884911431533> .
+
+<http://id.crossref.org/issn/1464-8849>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1741-3001" , "1464-8849" ;
+      <http://purl.org/dc/terms/title>
+              "Journalism: Theory, Practice & Criticism" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1741-3001" , "1464-8849" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1741-3001" , "urn:issn:1464-8849" .
+
+<http://id.crossref.org/contributor/thomas-poell-1lmgbykvvsagv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Poell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Thomas" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Thomas Poell" .

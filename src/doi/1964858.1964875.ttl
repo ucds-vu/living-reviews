@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/zicong-zhou-znqq2s3b3zc6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhou" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zicong" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zicong Zhou" .
+
+<http://dx.doi.org/10.1145/1964858.1964875>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1964858.1964875" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/zicong-zhou-znqq2s3b3zc6> , <http://id.crossref.org/contributor/hai-qian-znqq2s3b3zc6> , <http://id.crossref.org/contributor/vwani-roychowdhury-znqq2s3b3zc6> , <http://id.crossref.org/contributor/roja-bandari-znqq2s3b3zc6> , <http://id.crossref.org/contributor/joseph-kong-znqq2s3b3zc6> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1964858.1964875" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450302173> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Information resonance on Twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1964858.1964875" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/1964858.1964875> , <doi:10.1145/1964858.1964875> .
+
+<http://id.crossref.org/contributor/hai-qian-znqq2s3b3zc6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Qian" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hai Qian" .
+
+<http://id.crossref.org/contributor/vwani-roychowdhury-znqq2s3b3zc6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Roychowdhury" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Vwani" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Vwani Roychowdhury" .
+
+<http://id.crossref.org/contributor/roja-bandari-znqq2s3b3zc6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bandari" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roja" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roja Bandari" .
+
+<http://id.crossref.org/contributor/joseph-kong-znqq2s3b3zc6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Joseph" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Joseph Kong" .
+
+<http://id.crossref.org/isbn/9781450302173>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the First Workshop on Social Media Analytics - SOMA '10" .

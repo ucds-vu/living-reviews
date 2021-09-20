@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/jaeho-cho-2ozxkpsufvtdz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cho" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jaeho" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jaeho Cho" .
+
+<http://id.crossref.org/issn/0093-6502>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1552-3810" , "0093-6502" ;
+      <http://purl.org/dc/terms/title>
+              "Communication Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1552-3810" , "0093-6502" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1552-3810" , "urn:issn:0093-6502" .
+
+<http://id.crossref.org/contributor/nojin-kwak-2ozxkpsufvtdz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kwak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nojin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nojin Kwak" .
+
+<http://id.crossref.org/contributor/william-p-eveland-2ozxkpsufvtdz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Eveland" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "William P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "William P. Eveland" .
+
+<http://dx.doi.org/10.1177/0093650205279209>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0093650205279209" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "565" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "531" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jaeho-cho-2ozxkpsufvtdz> , <http://id.crossref.org/contributor/nojin-kwak-2ozxkpsufvtdz> , <http://id.crossref.org/contributor/william-p-eveland-2ozxkpsufvtdz> , <http://id.crossref.org/contributor/dhavan-v-shah-2ozxkpsufvtdz> ;
+      <http://purl.org/dc/terms/date>
+              "2005-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0093650205279209" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0093-6502> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Information and Expression in a Digital Age" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0093650205279209" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "565" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "531" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/0093650205279209> , <doi:10.1177/0093650205279209> .
+
+<http://id.crossref.org/contributor/dhavan-v-shah-2ozxkpsufvtdz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shah" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dhavan V." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dhavan V. Shah" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/yao-wu-2m3y85j4qr1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yao" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yao Wu" .
+
+<http://dx.doi.org/10.1145/2348283.2348358>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2348283.2348358" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yao-wu-2m3y85j4qr1r> , <http://id.crossref.org/contributor/qing-yang-2m3y85j4qr1r> , <http://id.crossref.org/contributor/zhiheng-xu-2m3y85j4qr1r> , <http://id.crossref.org/contributor/yang-zhang-2m3y85j4qr1r> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2348283.2348358" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450314725> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Modeling user posting behavior on social media" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2348283.2348358" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2348283.2348358> , <doi:10.1145/2348283.2348358> .
+
+<http://id.crossref.org/isbn/9781450314725>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 35th international ACM SIGIR conference on Research and development in information retrieval - SIGIR '12" .
+
+<http://id.crossref.org/contributor/qing-yang-2m3y85j4qr1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qing Yang" .
+
+<http://id.crossref.org/contributor/zhiheng-xu-2m3y85j4qr1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zhiheng" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zhiheng Xu" .
+
+<http://id.crossref.org/contributor/yang-zhang-2m3y85j4qr1r>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yang Zhang" .

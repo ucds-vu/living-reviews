@@ -1,0 +1,3877 @@
+@prefix this: <https://w3id.org/livingreviews/np/paper/1931243114546448/RAdYdt01s-9EUmQX-JOYqjeYNtWZAE6hKHKR5DJKrr_j8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1931243114546448/RAdYdt01s-9EUmQX-JOYqjeYNtWZAE6hKHKR5DJKrr_j8#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177/1931243114546448> hycl:claims <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1931243114546448/Primary/RAa9_txq2-mw540AvA3ZiStl8VlE-Kl6p08se4up2YaZE#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177/1931243114546448> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1077699013482906/RAI1xu8IRPcwG8XO9FCkziguzyTwPVJ-FXGzra6zGuoUg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1077699013482906/RAI1xu8IRPcwG8XO9FCkziguzyTwPVJ-FXGzra6zGuoUg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177/1077699013482906> hycl:claims <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1077699013482906/Primary/RAvZr8ZQaDy9LLvo3tWv84Sr1Z0IGgoZyan4Rp66Mm88c#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177/1077699013482906> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2684103.2684171/RAq_PYETIBmxW_eYL2p00vUg9nRaXW3p3g9rNdXvhX8bM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2684103.2684171/RAq_PYETIBmxW_eYL2p00vUg9nRaXW3p3g9rNdXvhX8bM#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1145/2684103.2684171> hycl:claims <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.>,
+      <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2684103.2684171/Primary/RA_P45rOkjWLc71ec__zZPDmDKEUaNMNEiZVrcaKE9V2E#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1145/2684103.2684171> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/0956797611413294/RAkBGvSjoNSxT0EVs9NsjZfx-8QuI17MGmkRkCXUQWv5s> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/0956797611413294/RAkBGvSjoNSxT0EVs9NsjZfx-8QuI17MGmkRkCXUQWv5s#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1177/0956797611413294> hycl:claims <https://purl.org/aida/Emotional+arousal+increases+the+likelihood+of+sharing+news.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/0956797611413294/Primary/RA93OmUZO7cJPMa3jNAQE8fgqZ_Y7i_bRblEbFFffBaIA#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1177/0956797611413294> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2487807/RAu44BW5x4b4c5vYsDUZjZbG5_SXtp_1Ay8nFtznssAPE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2487807/RAu44BW5x4b4c5vYsDUZjZbG5_SXtp_1Ay8nFtznssAPE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2487788.2487807> hycl:claims <https://purl.org/aida/People+predominantly+share+like-minded+news+articles+while+avoiding+the+sharing+of+conflicting+ones.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2487807/Primary/RAHFQ50fBdX1p_WA-SgE1RZEQ1y3gvseftVCG8TgV-SiU#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2487788.2487807> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2441776.2441877/RAoWPdknHAJAhs7ge9jvFM-A-bjHguaFwX6J6YQFhmA1Q> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2441776.2441877/RAoWPdknHAJAhs7ge9jvFM-A-bjHguaFwX6J6YQFhmA1Q#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2441776.2441877> hycl:claims <https://purl.org/aida/People+who+often+share+news+seem+to+actively+include+news+from+media+organizations+with+ideologies+that+differ+from+their+own.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2441776.2441877/Primary/RA5jKs_SRVOEZsAcNF3rV76U6baab4Mq56PtGE1NGHApM#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2441776.2441877> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2011.10.002/RAqBDaRUfjt9U4cYOot96dazwCZbDqCoPc0Tiw1oMm6AE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2011.10.002/RAqBDaRUfjt9U4cYOot96dazwCZbDqCoPc0Tiw1oMm6AE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1016/j.chb.2011.10.002> hycl:claims <https://purl.org/aida/News+sharing+is+not+perceived+to+fulfill+entertainment+needs+or+to+help+escaping+from+daily+routines.>,
+      <https://purl.org/aida/People+share+news+to+gain+reputation,+to+draw+people’s+attention,+and+to+attain+status+among+peers+or+other+users.>,
+      <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2011.10.002/Primary/RAiaTHUGgk8iO2cgXB4b8NgYIh6C8-F7ZbyGKt4457P28#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1016/j.chb.2011.10.002> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1998076.1998103/RAEgLwUQzjcF7FAjJJSrevMLEBCQa19LBMMWISCq0ZViQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1998076.1998103/RAEgLwUQzjcF7FAjJJSrevMLEBCQa19LBMMWISCq0ZViQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1145/1998076.1998103> hycl:claims <https://purl.org/aida/People+share+news+to+gain+reputation,+to+draw+people’s+attention,+and+to+attain+status+among+peers+or+other+users.>,
+      <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1998076.1998103/Primary/RA31DFdSBBBTDlX9W707MwavjKYyP4G_Afdfh73DCBDG4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1145/1998076.1998103> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/HICSS.2010.412/RAIAkApXE_qUhxnduTQGDi4I9XRj6JthrNpxKHsCYvxRQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/HICSS.2010.412/RAIAkApXE_qUhxnduTQGDi4I9XRj6JthrNpxKHsCYvxRQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1109/HICSS.2010.412> hycl:claims <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing.>,
+      <https://purl.org/aida/People+share+news+to+gain+reputation,+to+draw+people’s+attention,+and+to+attain+status+among+peers+or+other+users.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/HICSS.2010.412/Primary/RAfw2hBY3xz21iK32Oxo_GrJMhmXyPCNbxQSLEpA6gf84#study>,
+      <https://w3id.org/livingreviews/np/study/HICSS.2010.412/Secondary/RA17m4bradO95k2yIuobLQHTpvMPigyxbaRajtruZOAKw#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1109/HICSS.2010.412> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/08824096.2013.843165/RAlb34vuStfE2T75051ZqL1X3oaYQPaCeEY4Rzm4OZvh8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/08824096.2013.843165/RAlb34vuStfE2T75051ZqL1X3oaYQPaCeEY4Rzm4OZvh8#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1080/08824096.2013.843165> hycl:claims <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing.>,
+      <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/08824096.2013.843165/Primary/RAYXMssSbrnzwz7gB9jpEeZ4ZJbiOBuhXLG0h0G6f6Ov4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1080/08824096.2013.843165> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2011.554572/RAkD1x7M_3ZMN7as6BXKghDtWmUdD_K5B5sKFYyx7JEWY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2011.554572/RAkD1x7M_3ZMN7as6BXKghDtWmUdD_K5B5sKFYyx7JEWY#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1080/1369118X.2011.554572> hycl:claims <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2011.554572/Primary/RAV3YJyzsEQn5ipcdsdsesCMSpEP_VpjRY_w83qX6FWDc#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1080/1369118X.2011.554572> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/3336451.0011.305/RA1-Qz9JTzb9-UOBrDeSNCLNowizZ736568a978iT3ORc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/3336451.0011.305/RA1-Qz9JTzb9-UOBrDeSNCLNowizZ736568a978iT3ORc#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.3998/3336451.0011.305> hycl:claims <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/3336451.0011.305/Primary/RAWoetO0EsdHKolWQfMbxWr94HouyLGBRJAunBeSo43l0#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.3998/3336451.0011.305> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000001/RAirWcTzB7odH4tjtJUIExVSxY_9LpAIkvNNQ55oTrBlg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000001/RAirWcTzB7odH4tjtJUIExVSxY_9LpAIkvNNQ55oTrBlg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000001/Primary/RAv2Omiv0Wx6ZWsG0_LrnDaZfZXirh82t4HidyHqki_e0#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000001> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/jmr.10.0353/RAhMO8C2sdqm2QEAODABgN2cYZO-vJffDTmqp1m8we03c> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/jmr.10.0353/RAhMO8C2sdqm2QEAODABgN2cYZO-vJffDTmqp1m8we03c#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1509/jmr.10.0353> hycl:claims <https://purl.org/aida/Articles+that+are+placed+more+prominently+on+a+given+website+have+a+higher+chance+to+be+shared.>,
+      <https://purl.org/aida/Content+with+a+positive+valence+is+shared+more+often.>, <https://purl.org/aida/More+arousing+content+regardless+if+positive+or+negative+is+shared+more+often.>,
+      <https://purl.org/aida/The+ranking+or+placing+of+an+article+on+a+given+website+affects+its+sharing+probability.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/jmr.10.0353/Primary/RAxsWPZuvrTpMcfGKYWpb1UzbK6kR3USbWDIduza94zU8#study>,
+      <https://w3id.org/livingreviews/np/study/jmr.10.0353/Secondary/RAdoHq30ctnfWGf_1isc0deWlZaPmAwskC7WyYmN9y6ds#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1509/jmr.10.0353> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RA3UGY0zVG5Qqf0A5C7DThVcaLQDBBjBYyJZCIBBGMIpk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1935826.1935845/RA3UGY0zVG5Qqf0A5C7DThVcaLQDBBjBYyJZCIBBGMIpk#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1145/1935826.1935845> hycl:claims <https://purl.org/aida/Content+that+is+deemed+interesting+shares+a+positive+relation+with+sharing+news+content.>,
+      <https://purl.org/aida/Content+with+a+positive+valence+is+shared+more+often.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1935826.1935845/Primary/RA4BJoX8DsaVnTOqEaUhQ_kcGBxQIOpqEuZeYZRZMqTBM#study>,
+      <https://w3id.org/livingreviews/np/study/1935826.1935845/Secondary/RAWIVfMlts1MtaYsvAClmpE0Nfd7Y3OBkjXqHP2D_BgxU#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1145/1935826.1935845> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000002/RAT_EheaJcYTRwb4spzgtbWKlz02Jae-7JWC7Cv6t8EQg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000002/RAT_EheaJcYTRwb4spzgtbWKlz02Jae-7JWC7Cv6t8EQg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000002/Primary/RAj5GWCsEnkM1172LCW7_o6dTwg_oyFqu4a1pcHKAKtcQ#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000002> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2014.03.006/RA06oAVxz-8N5Cyu8NVzrVnKxVA_HJs58x81weN1dfdmM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2014.03.006/RA06oAVxz-8N5Cyu8NVzrVnKxVA_HJs58x81weN1dfdmM#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1016/j.chb.2014.03.006> hycl:claims <https://purl.org/aida/Content+that+contains+high+informational+value+news+factors+like+controversy,+relevance,+or+unexpectedness+shares+a+positive+relation+with+sharing+news+content.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2014.03.006/Primary/RAWsE2-YEnEDQYGSpIxE15At2tSh5U9zj3MS-pMZKdOx4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1016/j.chb.2014.03.006> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.1468-2958.2011.01418.x/RA3Pzh1PFOhyLMwMhyqMx2DmaZkC4iRVDPvWvrYtuP-Pc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1468-2958.2011.01418.x/RA3Pzh1PFOhyLMwMhyqMx2DmaZkC4iRVDPvWvrYtuP-Pc#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1111/j.1468-2958.2011.01418.x> hycl:claims <https://purl.org/aida/During+periods+of+heightened+political+activity,+public+affairs+content+(featuring+politics,+government,+or+economics)+is+shared+more+often+than+nonpublic+affairs+content+(featuring+entertainment,+sports,+or+crime).>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.1468-2958.2011.01418.x/Primary/RAUdApX6DUFCy3_BU1I6ojNxwG55rhJWOv6lJkpLOZA7Y#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1111/j.1468-2958.2011.01418.x> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2014.08.009/RANkP1DuV0MpCpNF2g_lYqIGpJiqLf5yxVbhRTUthteYs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2014.08.009/RANkP1DuV0MpCpNF2g_lYqIGpJiqLf5yxVbhRTUthteYs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://doi.org/10.1016/j.chb.2014.08.009> hycl:claims <https://purl.org/aida/Exposing+people+to+information+about+the+collective+likelihood+of+sharing+positively+influences+their+own+sharing+intention.>;
+    a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2014.08.009/Primary/RAsN2n4y9Wz1IqHpPJH_7wLlwVORGfWgKiq9r_TJFUNKw#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://doi.org/10.1016/j.chb.2014.08.009> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/cyber.2012.0265/RAvom9oPQGN-OjEur01qPG-2pRpt3SO-8IIDUvUfeH34E> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/cyber.2012.0265/RAvom9oPQGN-OjEur01qPG-2pRpt3SO-8IIDUvUfeH34E#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1089/cyber.2012.0265> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/cyber.2012.0265/Primary/RA8OZ7z2-wNinphN7gKaUzBmA0W3qgYp7GqWNvGzMRBdg#study>,
+      <https://w3id.org/livingreviews/np/study/cyber.2012.0265/Secondary/RAP0KuQBGnKNP8kma1VZbDztzMIX7DFZ6-rt9kXVucZWk#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1089/cyber.2012.0265> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1354856513493699/RAuWaRI_O8qy-djpP1-dzvlCL_yvITYiA3OJdjS9ZYOCk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1354856513493699/RAuWaRI_O8qy-djpP1-dzvlCL_yvITYiA3OJdjS9ZYOCk#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F1354856513493699> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1354856513493699/Primary/RAoRMLRNnmjSx0UApjYcMc3hX3yBi3i61bBWU3a9rgBvo#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F1354856513493699/Secondary/RA7mkfR6H5no3kqsFm8LbDrSBUQaxpZeRKBfEh55a9JF8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F1354856513493699> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1566374.1566421/RAOlQRr_jA2jVhh6kgW585U207AQw0vjffDI2PmOx6C-E> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1566374.1566421/RAOlQRr_jA2jVhh6kgW585U207AQw0vjffDI2PmOx6C-E#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1566374.1566421> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1566374.1566421/Primary/RAkus1_nX8fjoGJ3NtgxzJnNjy2m4FDk8y9W59iuY7qzo#study>,
+      <https://w3id.org/livingreviews/np/study/1566374.1566421/Secondary/RAKOuMh2-7MSharlXTfkr6J9qLmV8o3A7rAyms_3MRZHM#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1566374.1566421> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2187836.2187907/RA7f_g8cD-I_vcInyRyiErlwBmpnx66U8Ivi62kkyPwAo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2187836.2187907/RA7f_g8cD-I_vcInyRyiErlwBmpnx66U8Ivi62kkyPwAo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2187836.2187907> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2187836.2187907/Primary/RApyd29qQlmC-HDm9iUMdsWzOma9ekSU6zJv2J-JYIJTM#study>,
+      <https://w3id.org/livingreviews/np/study/2187836.2187907/Secondary/RA1jpj65B9pnZ3Y_stkWaD6GYZ7rH4Qk4rh2InL9quXNg#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2187836.2187907> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000003/RAy63B57khgc0S6tB9ly1XFdsaEZFGp65AILnCQkrtKg4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000003/RAy63B57khgc0S6tB9ly1XFdsaEZFGp65AILnCQkrtKg4#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000003/Primary/RA4j9Uy2NNBCLZkXtGoyo1pszydl2Jv2QhBBuCmDupk7k#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000003> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000004/RA1MdCE0kh3ye9IKmGIyGLlU5VWzxo5obVoCqdELem-Lo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000004/RA1MdCE0kh3ye9IKmGIyGLlU5VWzxo5obVoCqdELem-Lo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000004/Primary/RAoMJl1QAcZPj0Vyukg-5YCpZAyMsBvfMFdp8ZuiD_oEY#study>,
+      <https://w3id.org/livingreviews/np/study/00000000004/Secondary/RAaT0X1AMlYvaf9GmxX9NyHTDqc5eUiEspTrZMpnWVDdM#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000004> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664428/RAt_7YN2ykoFvnFYZanQKGU6F67_bK5tvrUDEV2-n1PT0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664428/RAt_7YN2ykoFvnFYZanQKGU6F67_bK5tvrUDEV2-n1PT0#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/1461670X.2012.664428> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2012.664428/Primary/RAG8h3h7SNyZeJHYS2PODpbBuxmSiYxu4cJTi0OfTi4d4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/1461670X.2012.664428> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1814245.1814249/RAKtyL499xv7tlT38Dx042AK5w5n2HZE2KGpV4sf55Gss> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1814245.1814249/RAKtyL499xv7tlT38Dx042AK5w5n2HZE2KGpV4sf55Gss#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1814245.1814249> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1814245.1814249/Primary/RAcciEFHF1n5skPdWfp6vV53PMztWhCNjpSnWNXKp7ncA#study>,
+      <https://w3id.org/livingreviews/np/study/1814245.1814249/Secondary/RAVQ27PO2tSND856qojcE0Q9G3FPZgc93fcd1hIbtL7M0#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1814245.1814249> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2542182.2542189/RAjpOmzQ-Ir8FcC_hSWy-7efNijNyOqn_2LddkjJW1EaY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2542182.2542189/RAjpOmzQ-Ir8FcC_hSWy-7efNijNyOqn_2LddkjJW1EaY#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2542182.2542189> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2542182.2542189/Primary/RAMPJkyhrk16PQ8axDR-CEgqyisup0WhHZ6vbv8hiPPVY#study>,
+      <https://w3id.org/livingreviews/np/study/2542182.2542189/Secondary/RAomyD7L5kDx90I-smlKLA_1u1b_9kiBg4yz_cYUCTOXI#study>,
+      <https://w3id.org/livingreviews/np/study/2542182.2542189/Tertiary/RA-jG8OSbR3GdDmxgHZcLLVOWnglf8zt6i3zXjTpi5-4w#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2542182.2542189> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000005/RAIcu3GwuR-jv15t16lTJQcse-qonFs2yIiNbjHtuJJMQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000005/RAIcu3GwuR-jv15t16lTJQcse-qonFs2yIiNbjHtuJJMQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000005/Primary/RApxX1OTraEt7YCM8NVSaIRND5KkU9wTpR-yiw9w89ILM#study>,
+      <https://w3id.org/livingreviews/np/study/00000000005/Secondary/RAjmYrboc-KEKApsZAVFlG2xVwhrEvxA_fauG5VyPorR0#study>,
+      <https://w3id.org/livingreviews/np/study/00000000005/Tertiary/RAsemP_3DGkIoxA8DibsjeXUQQjwpMiTB5F_BZbijjO8Y#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000005> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/02560054.2013.767425/RAk5Tamv-CmYdx0Nr0wIpUC6GLoCzYKZIiw-dqwTMOcBI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/02560054.2013.767425/RAk5Tamv-CmYdx0Nr0wIpUC6GLoCzYKZIiw-dqwTMOcBI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/02560054.2013.767425> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/02560054.2013.767425/Primary/RA7y-qohEKNBeYEuNLx_iBcFDwZ7eb_ba8yQ10yAwwW7E#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/02560054.2013.767425> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2488069/RACKNYCPAnEths2X8Duly5hxDPm79HbGDJf-coUYGslvI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2488069/RACKNYCPAnEths2X8Duly5hxDPm79HbGDJf-coUYGslvI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2487788.2488069> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2488069/Primary/RArpeAoPGjgK7TAsBW6YKxARFITzvd2TCg8nnZt91Xfs8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2487788.2488069> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487575.2487596/RA_iWmhFhmZ8ZC2Z530kjdvCMm4mwPLzJCfzk-S_ahmuA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487575.2487596/RA_iWmhFhmZ8ZC2Z530kjdvCMm4mwPLzJCfzk-S_ahmuA#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2487575.2487596> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2487575.2487596/Primary/RAK6uyX3VTr6RwRKtNNt_KiNCXGRN9JcaQ2wbXO-XeLu8#study>,
+      <https://w3id.org/livingreviews/np/study/2487575.2487596/Secondary/RA7ZHEc2_OzlZ8FztE0WTQrwEPb22cxfSSFOxGbEbMIIA#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2487575.2487596> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000017/RAyUX4fA6gNjiawUYbiFR1BP_SnySNy66BuoPiwPHDQok> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000017/RAyUX4fA6gNjiawUYbiFR1BP_SnySNy66BuoPiwPHDQok#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000017/Primary/RAu9RERtRD8uNtAkYXeRuhSX98bR_VsXOztNu3Ku1ZuB8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000017> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2556288.2557285/RApzb7WTlUKUwQkaqbNxng6WreJ0hc1lMQoz5D5SW40Cg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2556288.2557285/RApzb7WTlUKUwQkaqbNxng6WreJ0hc1lMQoz5D5SW40Cg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2556288.2557285> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2556288.2557285/Primary/RA07rdAPQ-0in4aIiTw9AfcnjkhnOzb9UU8Kk-101_x80#study>,
+      <https://w3id.org/livingreviews/np/study/2556288.2557285/Secondary/RAG_g5JK43oBWfIs6Y3ZmhgsIKn-yJXCUoOJbiUjlRa4A#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2556288.2557285> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000006/RAjUdCeBEg9EEVcJgVDmLXAQME5FxN-88qxP8ZTaDAUOY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000006/RAjUdCeBEg9EEVcJgVDmLXAQME5FxN-88qxP8ZTaDAUOY#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000006/Primary/RAXRHwyEMtiLNUPoHGwU32I60uwHk8nc16xNekD3fU_lM#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000006> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.1083-6101.2012.01574.x/RAVvDNJOOxib0kseu2ijoFgI18Ql1H1Eym28uaFhL3GkE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1083-6101.2012.01574.x/RAVvDNJOOxib0kseu2ijoFgI18Ql1H1Eym28uaFhL3GkE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1111/j.1083-6101.2012.01574.x> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.1083-6101.2012.01574.x/Primary/RAgOlWlODS0lGVEjkFOmGzm9rfhSeHuTkRBFNYFkODvbA#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1111/j.1083-6101.2012.01574.x> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2011.08.017/RA4EhzuO4Rrem2v1SC1SmWmiH6Fn8DTxzKYyGoyPQtcdg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2011.08.017/RA4EhzuO4Rrem2v1SC1SmWmiH6Fn8DTxzKYyGoyPQtcdg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1016/j.chb.2011.08.017> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2011.08.017/Primary/RAvdFv9OR0MOYHafzl7O1dAYnQI-b7jxrlompWccP_IFU#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1016/j.chb.2011.08.017> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2433396.2433402/RAQT90Ky_L3vE4oHyAbinqMIC_ihJzi1bOhOk1KPLJ-v0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2433396.2433402/RAQT90Ky_L3vE4oHyAbinqMIC_ihJzi1bOhOk1KPLJ-v0#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2433396.2433402> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2433396.2433402/Primary/RAhZfGVqVEWc9QFmxKGL1JB-VN23DjuG-sAWc9WexMNk4#study>,
+      <https://w3id.org/livingreviews/np/study/2433396.2433402/Secondary/RAYpW5f5bQGDKRqaFo6JYgYqqa3HyJ5VHpUZqcj_O0bN8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2433396.2433402> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1718487.1718518/RAtZn70pjps7DEc_dk3odp05YOQ12oBmg8j_Xf_QVNTBM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1718487.1718518/RAtZn70pjps7DEc_dk3odp05YOQ12oBmg8j_Xf_QVNTBM#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1718487.1718518> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1718487.1718518/Primary/RATXlnhVwXBJQw5dNVa1anfvItUUYSnx3Do-swdZyMe9I#study>,
+      <https://w3id.org/livingreviews/np/study/1718487.1718518/Secondary/RACPhy9qEGs4E9emwFTeA83BxE78DH_FmpBf74SntKN0s#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1718487.1718518> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2503792.2503797/RAKnGA-Rza02d-5U9aLMLhaBg-0g9L9LFrk-qgzyXfCIQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2503792.2503797/RAKnGA-Rza02d-5U9aLMLhaBg-0g9L9LFrk-qgzyXfCIQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2503792.2503797> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2503792.2503797/Primary/RA_YcDaUVCXsGaGHmPUy_GeGyyjBn0e9HYQ17dX-dP1nI#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2503792.2503797> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000007/RAWE-l9vyigYbpGqx-T7BocP_6956JhJVi5VHLXTxSFoo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000007/RAWE-l9vyigYbpGqx-T7BocP_6956JhJVi5VHLXTxSFoo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000007/Primary/RAOibgx6c6Y2GSAL1CU6NWQvvjJpa7xuptkHYqySglJB8#study>,
+      <https://w3id.org/livingreviews/np/study/00000000007/Secondary/RAv96hAOWVjPWA3YWQkWc4oG724p_EvGMkCqLk3NKBw_4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000007> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/17512781003640703/RAsS3zFHi793y7HWGgmgtkEi40Jb-xm1iKjLYvgps0SVE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/17512781003640703/RAsS3zFHi793y7HWGgmgtkEi40Jb-xm1iKjLYvgps0SVE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/17512781003640703> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/17512781003640703/Primary/RA-Bt67T319DDcrsF1-EwNho3JzFfACy9QuZ5rT8DNAa8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/17512781003640703> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664430/RATnDL28nom7NhVBXHDzW3qOXT__vLO2A2ejJb3e8GQVY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2012.664430/RATnDL28nom7NhVBXHDzW3qOXT__vLO2A2ejJb3e8GQVY#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/1461670X.2012.664430> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2012.664430/Primary/RAXmHTmoQ9FTqm_S1O6GKw3LdrZw7dVM7huP16O5FsUa8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/1461670X.2012.664430> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/meet.14504701277/RAIBrKVXRAn9LjH8bYm3vktp6MQ8Wb0vyI_hkvfOmP2sE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/meet.14504701277/RAIBrKVXRAn9LjH8bYm3vktp6MQ8Wb0vyI_hkvfOmP2sE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1002/meet.14504701277> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/meet.14504701277/Primary/RA7qRYo0d6dzy84Vh8O8MhNm6BzIyi3DLDp932meyvHe4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1002/meet.14504701277> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0267323113497435/RAv7LSx729C0vqex5DfwA9WBE618MR3EfrdwMXfojGDd0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0267323113497435/RAv7LSx729C0vqex5DfwA9WBE618MR3EfrdwMXfojGDd0#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F0267323113497435> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0267323113497435/Primary/RAsAjg8vVt3QTt3S0JMJhbqCSqJ-aZMBgFBOiTPRX-1WI#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F0267323113497435/Secondary/RA3CuW4B3VDaUqAoh2AXTx1J0781rwYl_-WLdK3R3vEww#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F0267323113497435> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2012.706316/RAa-TIlV2I9D2ONwCFhHP-Nj6OhWspjXmqpYUKYDWBtwE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2012.706316/RAa-TIlV2I9D2ONwCFhHP-Nj6OhWspjXmqpYUKYDWBtwE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/1369118X.2012.706316> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2012.706316/Primary/RAmww3FnkRdPPvL1u3OieiLELdYueqWt5v6i0I6rw9xbo#study>,
+      <https://w3id.org/livingreviews/np/study/1369118X.2012.706316/Secondary/RAd7IX5C2Z-J6iBoFYAaOPrYlEpoe-ajTvgkFwPEtVvxY#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/1369118X.2012.706316> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1963192.1963222/RAYJiMKnaj5bxR7FedD3ZKuZap9PiLgSzRLeKjTWaSItA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1963192.1963222/RAYJiMKnaj5bxR7FedD3ZKuZap9PiLgSzRLeKjTWaSItA#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1963192.1963222> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1963192.1963222/Primary/RAtPXsI-_zGXfZIdUu4EJzf_L6zl0NTUJqDE5P6C5PRaM#study>,
+      <https://w3id.org/livingreviews/np/study/1963192.1963222/Secondary/RA4gvpdfkTvz60ryQDPMYaFw25X8mxN12xINZzr-VWxY4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1963192.1963222> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1369118X.2011.649774/RAOE2ZXo7TrVKUqdjJenuqmoGQudq9O9SSsdHpUOY9Kdg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1369118X.2011.649774/RAOE2ZXo7TrVKUqdjJenuqmoGQudq9O9SSsdHpUOY9Kdg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/1369118X.2011.649774> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1369118X.2011.649774/Primary/RAwVp3ToH79kVGp18IXbfAZEFMdTur0XAQrdbZXo9_2TY#study>,
+      <https://w3id.org/livingreviews/np/study/1369118X.2011.649774/Secondary/RA2SMV05OtHIyUFLP7epBdjLMzig2_Kx27GIgjvZza_YY#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/1369118X.2011.649774> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2207676.2208672/RAhVJYoxIDDHV8FqevNsXGcJa11miJVDVUUHvZwVG9pGQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2207676.2208672/RAhVJYoxIDDHV8FqevNsXGcJa11miJVDVUUHvZwVG9pGQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2207676.2208672> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2207676.2208672/Primary/RArEtWKRnkfl4fPWj-hJD9_leNvQwQOQ4YuXW6MdAPMfg#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2207676.2208672> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2063212.2063224/RAFVqPBZUUXoWtc7o2bTz1wGxJFTqvVojOJydWZ7xlMpU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2063212.2063224/RAFVqPBZUUXoWtc7o2bTz1wGxJFTqvVojOJydWZ7xlMpU#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2063212.2063224> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2063212.2063224/Primary/RAx2w1Sv7RfQ9QoErFNG5jQ826LGkPDnVUX7Ueds67QCA#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2063212.2063224> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/08838151.2013.816706/RAPmLUS990xnW_fhdWY2wOOHbCBn-aq5FkWQc_W0MXqbQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/08838151.2013.816706/RAPmLUS990xnW_fhdWY2wOOHbCBn-aq5FkWQc_W0MXqbQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/08838151.2013.816706> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/08838151.2013.816706/Primary/RA8sO0vi3DsArDOdj7k4gzeVgSfXVRffGvGni3_FPaGoE#study>,
+      <https://w3id.org/livingreviews/np/study/08838151.2013.816706/Secondary/RAeJmD4epwJleLg-HHhQe9rozwgRIfBBbmVZ1G5J9FRy8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/08838151.2013.816706> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/SocialCom.2011.182/RASyrEJ5meNJfXJer70hMXu8ZXvqM5xaHJEKJB-Q42tAk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/SocialCom.2011.182/RASyrEJ5meNJfXJer70hMXu8ZXvqM5xaHJEKJB-Q42tAk#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1109/PASSAT/SocialCom.2011.182> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/SocialCom.2011.182/Primary/RA57_YOJKj-LdVzWLcKQ3KW0h98IE6mTtQ0mTvb3yWyyA#study>,
+      <https://w3id.org/livingreviews/np/study/SocialCom.2011.182/Secondary/RAgmjtMTgfxiyRfF6ACsmeaswMVD4B0qHfxivB0Hqnv2Y#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1109/PASSAT/SocialCom.2011.182> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2501025.2501027/RAWPslJQSsLRrYZFNqc8pH3VSNpo7OJ3GOL_Ws4nEnDnM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2501025.2501027/RAWPslJQSsLRrYZFNqc8pH3VSNpo7OJ3GOL_Ws4nEnDnM#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2501025.2501027> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2501025.2501027/Primary/RAWPyIX_wrU_ry1_Wliwe6Qvw7lHzjLHikpp1JYLr0FZ4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2501025.2501027> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2501025.2501030/RAJvM2VZBnOwwH7SOGXIKJEdeRzKoRptsIe-nUuAwnIbA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2501025.2501030/RAJvM2VZBnOwwH7SOGXIKJEdeRzKoRptsIe-nUuAwnIbA#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2501025.2501030> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2501025.2501030/Primary/RAjHSYHxxz2pNpGV7D3h7wtAMg2dDFYJ-DZ7-JBPQ2rG4#study>,
+      <https://w3id.org/livingreviews/np/study/2501025.2501030/Secondary/RAZORD9GHXPIQoN5JbguUCuFmNsVtViBowJsQqwnxakZE#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2501025.2501030> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/e15104215/RA-WUIcwQsBFAZGCTW9siE8tRF865TzWaK8Y7GLrWClcg> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/e15104215/RA-WUIcwQsBFAZGCTW9siE8tRF865TzWaK8Y7GLrWClcg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.3390/e15104215> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/e15104215/Primary/RA5Mco3BH17TjeROX1jZ7Plzd4gLSyJEUfYweOO40deCs#study>,
+      <https://w3id.org/livingreviews/np/study/e15104215/Secondary/RAJqYZcxDu8qlnq5ecoiQltLvsembWErjdyE01hYCIvTk#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.3390/e15104215> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2505515.2505583/RA9V2LgO-rguPvcab-C-oAPS1M6-N9vW-1sT_q46L0Yew> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2505515.2505583/RA9V2LgO-rguPvcab-C-oAPS1M6-N9vW-1sT_q46L0Yew#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2505515.2505583> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2505515.2505583/Primary/RAx_w0lycOLisNvlRjLsYo5Il1XScZJMvkaiECPKOmyrg#study>,
+      <https://w3id.org/livingreviews/np/study/2505515.2505583/Secondary/RATrWZ4K823ZBguKoK9Y-XtIJJ00ea-Scijq0X8VAwN3s#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2505515.2505583> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.chb.2013.06.005/RA26CVFpqdakHmEMh4CzM9dQbNikT-m-iHQKtV1kL-rMs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.chb.2013.06.005/RA26CVFpqdakHmEMh4CzM9dQbNikT-m-iHQKtV1kL-rMs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1016/j.chb.2013.06.005> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.chb.2013.06.005/Primary/RAzAh5GjicBAwYoHkb1_RF2gqn-WaXDqgaMbURjv2qYl4#study>,
+      <https://w3id.org/livingreviews/np/study/j.chb.2013.06.005/Secondary/RApXnObQKyFYEpB4g8-rApv9cSNpRJe8d_uFwEH3ZO3N8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1016/j.chb.2013.06.005> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2567948.2579325/RA7ts9NNfh-xvL5dQYYP-dab4EKdW2XFfxmlskuwhIhjw> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2567948.2579325/RA7ts9NNfh-xvL5dQYYP-dab4EKdW2XFfxmlskuwhIhjw#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2567948.2579325> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2567948.2579325/Primary/RAgsCGgh3ahFM6L5u0BiD4rV55DnX44lMTTR5_kS4Kv6w#study>,
+      <https://w3id.org/livingreviews/np/study/2567948.2579325/Secondary/RAgazUB5_aIwZBtyQCMLIc0vw35oIYQcDpdgRQITZq_YI#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2567948.2579325> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/s15506878jobem4903_3/RAu1Krw3V10xuFfAUZerU4mMIxtCbrH3hfc7M1CBgxMys> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/s15506878jobem4903_3/RAu1Krw3V10xuFfAUZerU4mMIxtCbrH3hfc7M1CBgxMys#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1207/s15506878jobem4903_3> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/s15506878jobem4903_3/Primary/RAVaMmfAZzeXKqvKi_DZEgtG4L9YIm1-gK8gM-nVOFQSg#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1207/s15506878jobem4903_3> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2396761.2398634/RAdk4wfFkBQIkACULJ1pnbxkg_Zgqld9LCV02W9xS6T50> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2396761.2398634/RAdk4wfFkBQIkACULJ1pnbxkg_Zgqld9LCV02W9xS6T50#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2396761.2398634> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2396761.2398634/Primary/RAQ5dhjClprshx6xdDaU1GOs8Pe8OCt5v7oL1FAZ7K-tk#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2396761.2398634> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1772690.1772751/RAczZB77r1i_15WORKllv_SWZK4VYhLB12S6h99f8c8sk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1772690.1772751/RAczZB77r1i_15WORKllv_SWZK4VYhLB12S6h99f8c8sk#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1772690.1772751> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1772690.1772751/Primary/RAX_o52d7_XESg2BzNbeZ2Bwcka9uj1zTDiNdbsmE1LKQ#study>,
+      <https://w3id.org/livingreviews/np/study/1772690.1772751/Secondary/RAgtdy5OfJdtZVmUoOSPB_VBv17nyZx8BrqHTceD0kjtI#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1772690.1772751> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1461670X.2011.571825/RApEotJqnG_o4hCKIE_qQQzZ7C0rqRHzM13Dbu1FpoE3k> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1461670X.2011.571825/RApEotJqnG_o4hCKIE_qQQzZ7C0rqRHzM13Dbu1FpoE3k#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/1461670X.2011.571825> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1461670X.2011.571825/Primary/RAxB7aZbb33n8motgC26310ZFvDJSEmbH1Bgch5wbRbes#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/1461670X.2011.571825> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2488068/RAX5EH5nPPL81zctWH0JMqLOyPY3NHXUiKQUXj6ca3Zwo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2488068/RAX5EH5nPPL81zctWH0JMqLOyPY3NHXUiKQUXj6ca3Zwo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2487788.2488068> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2488068/Primary/RArhKFtcNT9d8h7Zcbg_0cAA_FLJVedNzrgbgweW3r4e4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2487788.2488068> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1348549.1348555/RArpW429XMUXXOHLaYkSnI8bJ8O0PMEZcD1Nu_PIrvAes> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1348549.1348555/RArpW429XMUXXOHLaYkSnI8bJ8O0PMEZcD1Nu_PIrvAes#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1348549.1348555> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1348549.1348555/Primary/RAVHX1XRUcHfTnYfxlEDuA4F8A15hwsoWNuADSJpig3Uo#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1348549.1348555> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1397735.1397738/RAKYA7JOo28QFsXZATQHzu4pydQHi5qxkmnfdmlO6_x0w> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1397735.1397738/RAKYA7JOo28QFsXZATQHzu4pydQHi5qxkmnfdmlO6_x0w#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1397735.1397738> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1397735.1397738/Primary/RAyFQoWgK0ioWFS0wi0_dn6cA8SiwleX4aCtfoIAEtImk#study>,
+      <https://w3id.org/livingreviews/np/study/1397735.1397738/Secondary/RA-6eiEHpSHhUVoZDgrZatwq1sq4X0V_Ry3Cqc8nmPpOA#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1397735.1397738> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000008/RAwEoveca_fOwKSGwvCRGxSij_CdABt1X96W7xjIGL6wI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000008/RAwEoveca_fOwKSGwvCRGxSij_CdABt1X96W7xjIGL6wI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000008/Primary/RAQEQKLhP2SlrvMMAWsubk8q0JDeXG-6obQy4qUkkhaaA#study>,
+      <https://w3id.org/livingreviews/np/study/00000000008/Secondary/RApZTxJwcJHSZewWhIGVnbrT6LNk-SY9YjgtMrJbGAti8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000008> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2337542.2337547/RAUz5D88wpxowy3tNcuaxwQrCq_iT978NmC5VylVPo2OA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2337542.2337547/RAUz5D88wpxowy3tNcuaxwQrCq_iT978NmC5VylVPo2OA#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2337542.2337547> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2337542.2337547/Primary/RAx_DhtCNfldwLCGOm14aXpbxPqzAhOF6tUYFjP9H4MjU#study>,
+      <https://w3id.org/livingreviews/np/study/2337542.2337547/Secondary/RA5oz3LIPgADlxw3TdMymsmwqC3EDbZA8ZzKVnVKN7WMU#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2337542.2337547> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444810372164/RAEVVVE0IF4-ZOY7tT4HO9lSBNF_1s01f1kJ6urImzjag> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444810372164/RAEVVVE0IF4-ZOY7tT4HO9lSBNF_1s01f1kJ6urImzjag#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F1461444810372164> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1461444810372164/Primary/RAw-dIjad_ztvAX_GB97CTccSGYD66GN6bAYeNcFXLyR4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F1461444810372164> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/15228835.2012.744244/RAYutUodnd-lggl3OrAOHEnXUZ_Hre0fESdBiyNp94HSU> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/15228835.2012.744244/RAYutUodnd-lggl3OrAOHEnXUZ_Hre0fESdBiyNp94HSU#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/15228835.2012.744244> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/15228835.2012.744244/Primary/RAC5meuyKqzZt2SRZ9aug3AlOUcNgzyJf_Qfoe6Hev-rM#study>,
+      <https://w3id.org/livingreviews/np/study/15228835.2012.744244/Secondary/RAHrlpE_ftFrmL2ChIc_baFcTpf7kXjjBftjYoNQUwJHo#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/15228835.2012.744244> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/GreenCom-iThings-CPSCom.2013.173/RAnZLNW4f-44lleegVk1JsRHyHoW9sPsNpXMnBff-ip0A> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/GreenCom-iThings-CPSCom.2013.173/RAnZLNW4f-44lleegVk1JsRHyHoW9sPsNpXMnBff-ip0A#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1109/GreenCom-iThings-CPSCom.2013.173> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/GreenCom-iThings-CPSCom.2013.173/Primary/RANBKdzI1iEQtBOEGh70ArfMc4xq6AmgWXdRNGQx4ytg0#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1109/GreenCom-iThings-CPSCom.2013.173> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2467696.2467749/RAXp4Fth9t0Ne0sOZKd4imyAR9SfyX1LESTf36bWMicTs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2467696.2467749/RAXp4Fth9t0Ne0sOZKd4imyAR9SfyX1LESTf36bWMicTs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2467696.2467749> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2467696.2467749/Primary/RA-wV9tDGmj86vd8Y-ci0RWyHtrppQGR48yZKFJ9MdxZ8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2467696.2467749> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2484028.2484212/RAoVRHNsYSOp31BTCkrXbdNSv3_116P4JMZn-RjCP0aPA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2484028.2484212/RAoVRHNsYSOp31BTCkrXbdNSv3_116P4JMZn-RjCP0aPA#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2484028.2484212> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2484028.2484212/Primary/RAx3eYH7eD0MlgEiUNiGbfnurcX7LG_TdrX3jsfmpMNAw#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2484028.2484212> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1964858.1964869/RAbQSb3nGBeroIiv3lmuf8-I4UpBRmX7-LZcQA37plv80> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1964858.1964869/RAbQSb3nGBeroIiv3lmuf8-I4UpBRmX7-LZcQA37plv80#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1964858.1964869> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1964858.1964869/Primary/RAJUCbdg1p4cTA23HvaS4f4Bs_js0aBmjSCVWOrh0Grzg#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1964858.1964869> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1940161212474472/RADGrRB964lynjDsLkSLn4xYULb7xhnkhU_o_awTXI1iE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1940161212474472/RADGrRB964lynjDsLkSLn4xYULb7xhnkhU_o_awTXI1iE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F1940161212474472> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1940161212474472/Primary/RAGJzwgsqvVUOWzOlj-rUZPw9KksLv5XsBInmKaHzGyb4#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F1940161212474472/Secondary/RAEclyVeKEQTxOPy1Xu0sa9jTy8x5mjY0su4b9sMl5v5M#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F1940161212474472> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2339530.2339540/RA93yO4zpMnyIzi1AIKQigzkYS5wnRvR52QBNpcdZTudo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2339530.2339540/RA93yO4zpMnyIzi1AIKQigzkYS5wnRvR52QBNpcdZTudo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2339530.2339540> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2339530.2339540/Primary/RAUumuhULrRJrwMWq5qK1DOVSBlRXGUAQk7WatXThVuiU#study>,
+      <https://w3id.org/livingreviews/np/study/2339530.2339540/Secondary/RASupDbeOaY9xGUL7xZZJZ9gNCyX4jv84Sa5341a76rTs#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2339530.2339540> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2187980.2188177/RADiP0Pves3h1iKSSL9Txzwzo-XzcGMyI0FwDH2pBhty4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2187980.2188177/RADiP0Pves3h1iKSSL9Txzwzo-XzcGMyI0FwDH2pBhty4#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2187980.2188177> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2187980.2188177/Primary/RAHz934DCmzASLaYwMIPn6yDT_x9JLs4KMuaw_BBdTc4I#study>,
+      <https://w3id.org/livingreviews/np/study/2187980.2188177/Secondary/RArT8mWJC2sCRAtG_qXa3QUkBkpZazTjzMIQRWA1wfatg#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2187980.2188177> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000016/RALjZ3_ECJqdcmq_j3J_d-yloK_L4veB5er1zL3Upv7i8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000016/RALjZ3_ECJqdcmq_j3J_d-yloK_L4veB5er1zL3Upv7i8#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000016/Primary/RA75gvSTlsKc0AtksYiFKdw8MS4tV7FSNnsLEjotO130Y#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000016> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/21670811.2013.872420/RAhwcmklHASGErzVmU2O_1GTrsixwftdqfAaU31fpL42k> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/21670811.2013.872420/RAhwcmklHASGErzVmU2O_1GTrsixwftdqfAaU31fpL42k#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/21670811.2013.872420> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/21670811.2013.872420/Primary/RAaMmt0J7em0mhSu2AGVY0hq1pGpAt_vL_jSW6G0UW65w#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/21670811.2013.872420> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.1460-2466.2012.01630.x/RAYqrPAmhsHG4B6pn6j6uGNWnpSo-6pdWpyq0cz4nanas> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.1460-2466.2012.01630.x/RAYqrPAmhsHG4B6pn6j6uGNWnpSo-6pdWpyq0cz4nanas#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1111/j.1460-2466.2012.01630.x> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.1460-2466.2012.01630.x/Primary/RAf-cUMeXBYXPp1nWUSOzQp2S1_bOMRwq-6iBqSLFzwu4#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1111/j.1460-2466.2012.01630.x> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2492517.2500250/RAzeb5uiyEAGRYApjek-VicKq1ic2uYqD5taEI2D2OpWQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2492517.2500250/RAzeb5uiyEAGRYApjek-VicKq1ic2uYqD5taEI2D2OpWQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2492517.2500250> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2492517.2500250/Primary/RA4133BpdYri11lBQsDVXgKEC346vFziRqD_jVkWMgeW8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2492517.2500250> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1464884911431533/RA6BjJReKre8pXPInLzQYepmnvj3tWxX62tRfnkllz5-4> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1464884911431533/RA6BjJReKre8pXPInLzQYepmnvj3tWxX62tRfnkllz5-4#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F1464884911431533> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1464884911431533/Primary/RAZ4rdndcyqqNZudCBpRw4LWU4nt1ODk7hEnXCgow_nYY#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F1464884911431533/Secondary/RANCr3XMhdNnqO5eLDuqxrUSLLcV6iySOmWhNV4CVirsU#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F1464884911431533> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000009/RAHGWHOeGBSpxhyJWNmavx1OZwuNlubYa5XteT1yKQ9DA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000009/RAHGWHOeGBSpxhyJWNmavx1OZwuNlubYa5XteT1yKQ9DA#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000009/Primary/RABWraYvc3YGF3CNG0SdyRrkwJjNp7o0SxVi9vKCMViBI#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000009> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/07421222.2015.1138368/RA2lrIWeXDwbzB7dlWGb0AUaMfgDU_s9qU8bBwhJQmChI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/07421222.2015.1138368/RA2lrIWeXDwbzB7dlWGb0AUaMfgDU_s9qU8bBwhJQmChI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/07421222.2015.1138368> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/07421222.2015.1138368/Primary/RAIH_cKTlpdlaTWK2plCa8zsWpYJau_p3hD8s9GPN3WWE#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/07421222.2015.1138368> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F152263791101300302/RAOrfjgTniyzNfBZTpsD3Mq-5B_YTRpFC4PpyfY_s1CgI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F152263791101300302/RAOrfjgTniyzNfBZTpsD3Mq-5B_YTRpFC4PpyfY_s1CgI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F152263791101300302> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F152263791101300302/Primary/RA3aRgfVUNhdUWwlUcTvvAwTKvI2kW4O4I1LxEYdzom2g#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F152263791101300302/Secondary/RA5J1KJz-ohnjMExBtEMxFy0y2SDtSI46BiPj7-Gxmz2s#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F152263791101300302> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2487788.2487921/RAQzQErL4N-DUrmCd0qCzggw6OZqrJQCFRqo-tzeg30gs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2487788.2487921/RAQzQErL4N-DUrmCd0qCzggw6OZqrJQCFRqo-tzeg30gs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2487788.2487921> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2487788.2487921/Primary/RAYKdLdRrUyXtNGX6bbARupqkUzJtc7gtzS0pP_lrF6i8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2487788.2487921> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1963405.1963503/RAGnVszwQnJOXN7I6P94NF9nlAMaK2_1uSZGoyvaXHUiE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1963405.1963503/RAGnVszwQnJOXN7I6P94NF9nlAMaK2_1uSZGoyvaXHUiE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1963405.1963503> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1963405.1963503/Primary/RA7qAXB7GbwuJHgfswyebpuT8Ykuf5_pVcXuOskmM25So#study>,
+      <https://w3id.org/livingreviews/np/study/1963405.1963503/Secondary/RAW-mBiz4-rNXYARNUTl2dDZXQ21fDmr0RORN3sAy3hb8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1963405.1963503> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2526188.2526219/RArsvySZI3OU7zEmrvoOK6UIa8n3OUXzYKJ2__8h2GPz8> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2526188.2526219/RArsvySZI3OU7zEmrvoOK6UIa8n3OUXzYKJ2__8h2GPz8#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2526188.2526219> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2526188.2526219/Primary/RAUB0EjyrbkmYEnE2Nyyr5xyqQqYqmHkR12EQYBY7soE8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2526188.2526219> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0093650205279209/RAr5hN9AtQwzgdgCIfpHr1aBOIRa3myh0lVZkSeHJCL_c> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0093650205279209/RAr5hN9AtQwzgdgCIfpHr1aBOIRa3myh0lVZkSeHJCL_c#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F0093650205279209> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0093650205279209/Primary/RAxViFOb2QQlP1vvLqO_T9JUIwtMwxkQrn_q0wgJQuDqo#study>,
+      <https://w3id.org/livingreviews/np/study/10.1177%2F0093650205279209/Secondary/RAFL_O85lK9DWCyVwhaALQ_8EQim4y2FG-UyPTwCtT_ak#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F0093650205279209> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000010/RAazQsVz7oiocnbFGwoAQdjVmWHoOERT3tO7Un2dWSV8E> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000010/RAazQsVz7oiocnbFGwoAQdjVmWHoOERT3tO7Un2dWSV8E#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000010/Primary/RADj3viByUPtHJAKujToL6LeMO7vZipdu1UlI5sWllezI#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000010> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444809360699/RAPucQ26xoYGF78v6H6O1yM2JEbHsfybeLsZTI41XeBmc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444809360699/RAPucQ26xoYGF78v6H6O1yM2JEbHsfybeLsZTI41XeBmc#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F1461444809360699> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F1461444809360699/Primary/RADoXkc0-R9-DlE5-vft5-bJTB9q3k5xhKbLaxn1JlYbw#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F1461444809360699> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/4-1-15/RAjGGNMcQns7LVoTFsOwQ5YGGGURuY1iQMl3aXyn7ocBc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/4-1-15/RAjGGNMcQns7LVoTFsOwQ5YGGGURuY1iQMl3aXyn7ocBc#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.5789/4-1-15> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/4-1-15/Primary/RAbuwXKbDJkosnj_6dJBoEfhgSO_KNcHMVxXB7yxDD_oc#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.5789/4-1-15> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000011/RAOdAejXohqCpeGikkCtBX2jJmRNTeClSbOASIQxh0D84> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000011/RAOdAejXohqCpeGikkCtBX2jJmRNTeClSbOASIQxh0D84#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000011/Primary/RArlmYQ0KVycYjhhiNBToe33h42FhXa_Y6xcJIHJaiolg#study>,
+      <https://w3id.org/livingreviews/np/study/00000000011/Secondary/RACHXJj12yNqpsbMjfKMlWd_u8G3rjhDto5sgOpEnQt-s#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000011> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/isre.1100.0339/RAi1DWeaCHbuoWXrnUsHp3gpB4T69BaCyZvMmhbdb6wKE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/isre.1100.0339/RAi1DWeaCHbuoWXrnUsHp3gpB4T69BaCyZvMmhbdb6wKE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1287/isre.1100.0339> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/isre.1100.0339/Primary/RAHmTgtcggLqxVHT4MTn7fK3iWIdGlk8uKOIOfKBADq1U#study>,
+      <https://w3id.org/livingreviews/np/study/isre.1100.0339/Secondary/RAgy2ybVCOFBqLg2kxz_a_Og9syMW9VKUy2wb5xZfTlEw#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1287/isre.1100.0339> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/WI-IAT.2011.311/RAZMymD0gszZr7h4hgCX5zMz541cpvmFSFN1cTxeU7cqo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/WI-IAT.2011.311/RAZMymD0gszZr7h4hgCX5zMz541cpvmFSFN1cTxeU7cqo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1109/WI-IAT.2011.311> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/WI-IAT.2011.311/Primary/RAs3iISobzVI_vWsEJ2CePeUko_r8Vzjt_2xJREV586Nk#study>,
+      <https://w3id.org/livingreviews/np/study/WI-IAT.2011.311/Secondary/RA1CJ-4JMx7zFR62O5s0LaAN41Ekf9YllpKq7-Hy6L6VE#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1109/WI-IAT.2011.311> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2492517.2500262/RASIi-gbLmM6JfSLSIz4GVVhzXcHOPSraM31gAJvSQoMc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2492517.2500262/RASIi-gbLmM6JfSLSIz4GVVhzXcHOPSraM31gAJvSQoMc#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2492517.2500262> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2492517.2500262/Primary/RAtxM99jINOmAEakNJ1mMv5lGsfflBwPLGAJwglLdh_Kg#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2492517.2500262> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/j.pubrev.2012.12.001/RAncsvaPdyId9gpnruQ8iUeoCXfJLF_nPB-4uUBsEksBA> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/j.pubrev.2012.12.001/RAncsvaPdyId9gpnruQ8iUeoCXfJLF_nPB-4uUBsEksBA#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1016/j.pubrev.2012.12.001> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/j.pubrev.2012.12.001/Primary/RArVrr5s7QYrc4Gb8TRUYm7XDHDAiP9rOA2UFbKapNI9A#study>,
+      <https://w3id.org/livingreviews/np/study/j.pubrev.2012.12.001/Secondary/RA5Bz-3zmIsuZiltyidgCgz-4vF04yOY0Y5dBcKPeSi3Q#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1016/j.pubrev.2012.12.001> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/17512786.2012.667272/RAH-7nK5_bubDqIbpePMa9rFizckWyzxD9lRHo48GTaOE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/17512786.2012.667272/RAH-7nK5_bubDqIbpePMa9rFizckWyzxD9lRHo48GTaOE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/17512786.2012.667272> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/17512786.2012.667272/Primary/RAnPNYfE5iyexv65VIZ7jhqSm4nnUzRnJVCUKELCiKtJE#study>,
+      <https://w3id.org/livingreviews/np/study/17512786.2012.667272/Secondary/RAUTOurWlOTrPsCaVmdUpuRLMk6r8FwQLgDatbc3Ca0yU#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/17512786.2012.667272> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000012/RA-lyhwGEcdNY-gYwV8Sscc4cdsjq5FAMUb4iaX-Dv4fI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000012/RA-lyhwGEcdNY-gYwV8Sscc4cdsjq5FAMUb4iaX-Dv4fI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/00000000012/Primary/RA8uWTeCityed2G9ge95dvEB3144_1NmvS3597n1f-Pks#study>,
+      <https://w3id.org/livingreviews/np/study/00000000012/Secondary/RACQZflr7IQu8cD5vR9QNyG_FlurN_TuiOlmZQDHbDdHs#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000012> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1963405.1963504/RA5n-pbbRLevwqr1lfE580zNSd2XJPvWvbAAOW3NIEkHs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1963405.1963504/RA5n-pbbRLevwqr1lfE580zNSd2XJPvWvbAAOW3NIEkHs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1963405.1963504> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1963405.1963504/Primary/RA0L9mwGivt2z8_oO4kn226WK2krp0aL0jQt97B2stIq4#study>,
+      <https://w3id.org/livingreviews/np/study/1963405.1963504/Secondary/RAnjV7Im68vZvqdtMoSkV28ivESx90XC5m2QIJh7dO8RM#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1963405.1963504> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2348283.2348358/RAWxxQgoagcSqXE1d-cs5zBQOrc3KR3T2xDCFCtl6WR34> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2348283.2348358/RAWxxQgoagcSqXE1d-cs5zBQOrc3KR3T2xDCFCtl6WR34#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2348283.2348358> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2348283.2348358/Primary/RAEhx0iD5WVMbKLVHMlx1uWGb6WUQFsJB8zsjRnkIcts4#study>,
+      <https://w3id.org/livingreviews/np/study/2348283.2348358/Secondary/RATMOhXOBbdbh32f6-IZ54Z85FcBiw1lOLzP_08tuqTQo#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2348283.2348358> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F0306422012466807/RA0z5-eG0WV6cejI0JH4qwUqHRnJvF5MDwzZKDd-fRsbE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F0306422012466807/RA0z5-eG0WV6cejI0JH4qwUqHRnJvF5MDwzZKDd-fRsbE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F0306422012466807> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/10.1177%2F0306422012466807/Primary/RA3AfPZHcoIkjXlont99JfA5tFS-GJUJtfCHe70IfdNRA#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F0306422012466807> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/1964858.1964875/RA9iym3KGBkCffFV8e0ahqpyqNPzG5Y_OhC2o7nGZXOj0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/1964858.1964875/RA9iym3KGBkCffFV8e0ahqpyqNPzG5Y_OhC2o7nGZXOj0#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/1964858.1964875> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/1964858.1964875/Primary/RAPLLI-PS4BZNAaM8XPZXKCdxxTzWN5c5tU0hn8kvSoVY#study>,
+      <https://w3id.org/livingreviews/np/study/1964858.1964875/Secondary/RAWsOn4VtIfoAjeqbOQmowJQCWkYJ1Laa7eiMLFUsgr9w#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/1964858.1964875> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2063576.2063992/RATTWzoE8m6CgeUEP09Xc9euKlRIA0KE2tk_FuNpuYCDc> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2063576.2063992/RATTWzoE8m6CgeUEP09Xc9euKlRIA0KE2tk_FuNpuYCDc#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2063576.2063992> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2063576.2063992/Primary/RAR4QPvPERWJN-QE5y_VzBbLJoB5KJ9FQVa4YtEYIm4Og#study>,
+      <https://w3id.org/livingreviews/np/study/2063576.2063992/Secondary/RABboLJS_USvIAq6xlg2zmfWY1o0r6xfs5edNLUotVE4Q#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2063576.2063992> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2556195.2566588/RAdGTOjNIIjM-W-wjaLAWpL1-D2Wlh2G9QusMEpsh7Los> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2556195.2566588/RAdGTOjNIIjM-W-wjaLAWpL1-D2Wlh2G9QusMEpsh7Los#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2556195.2566588> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2556195.2566588/Primary/RAoRbokxyVfE6gck3TvQm3GvN_WBMdA7UQOhL4LtU7KPc#study>,
+      <https://w3id.org/livingreviews/np/study/2556195.2566588/Secondary/RAHC8M58xqBXQFR8uemZXrStvVboVai5Iygoz6Z72XPMg#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2556195.2566588> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2631775.2631808/RArquCt1PJMvxMtl7aNE6d60ILuc6IyECRCT-OYx2CFZQ> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2631775.2631808/RArquCt1PJMvxMtl7aNE6d60ILuc6IyECRCT-OYx2CFZQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2631775.2631808> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2631775.2631808/Primary/RAnfPd8_IQDffkJ96sSDAFsszH21A11Db2bxaK-X2ylFo#study>,
+      <https://w3id.org/livingreviews/np/study/2631775.2631808/Secondary/RAQ2wQiUnYVrqXrPm2X_LQIrpKbSvn8FH8d7j1oCueBq8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2631775.2631808> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/jcom.12103/RAThJqjy2qGO2l8p4Kc5kzFfXhoglc47bYiQgDwsAabUo> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/jcom.12103/RAThJqjy2qGO2l8p4Kc5kzFfXhoglc47bYiQgDwsAabUo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1111/jcom.12103> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/jcom.12103/Primary/RAEUVSxROB3d1HwZItVrf6p4lrcEYN39xioKRMis_-xe8#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1111/jcom.12103> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2597892/RAvpMTliOoAe6XjEqjciWZUEBXyT9o1iiwsDyf7X18Egk> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2597892/RAvpMTliOoAe6XjEqjciWZUEBXyT9o1iiwsDyf7X18Egk#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2597892> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2597892/Primary/RA49D1FFKZ-Toa6W1EVNa8FMJMvvdEuynPw2F_N75qJn0#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2597892> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/OIR-10-2013-0239/RAI2K3_trtbrrG0uv7kNJFudb2mACAU4XjaXtL2IEP_6o> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/OIR-10-2013-0239/RAI2K3_trtbrrG0uv7kNJFudb2mACAU4XjaXtL2IEP_6o#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1108/OIR-10-2013-0239> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/OIR-10-2013-0239/Primary/RA_T3lBbB6oC1gwpOF3QbxkhG6xJOjfFV4d2EsL_fLoU0#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1108/OIR-10-2013-0239> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2647868.2655037/RAfNVCBySYVVCShML5tIIeX2CXRi_O66HtNKjeEnhqyqs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2647868.2655037/RAfNVCBySYVVCShML5tIIeX2CXRi_O66HtNKjeEnhqyqs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix cdop: <https://data.cooperationdatabank.org/vocab/prop/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1145/2647868.2655037> a fabio:ResearchPaper;
+    cdop:study <https://w3id.org/livingreviews/np/study/2647868.2655037/Primary/RAdm2jAATPDuBy_tbhkyqQmW_yvx5w6YxaRlcEHYHFsDw#study>,
+      <https://w3id.org/livingreviews/np/study/2647868.2655037/Secondary/RA2LaN_T9qWpgrUcCbpyoBXuidBuYzxUIlm2nk7B7VKhw#study> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1145/2647868.2655037> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAWmLGVQeHrj3q3emERAXMoi_aLx9zGKD3U95iqTA-njY> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115610141/RAWmLGVQeHrj3q3emERAXMoi_aLx9zGKD3U95iqTA-njY#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F2056305115610141> hycl:claims <https://purl.org/aida/Besides+its+relevance+for+media+organizations,+news+sharing+also+alters+the+way+the+audience+is+engaging+with+news.>,
+      <https://purl.org/aida/Compared+to+the+term+news+sharing,+the+term+social+media+is+a+more+diffuse+and+often+used+as+a+generic+buzzword.>,
+      <https://purl.org/aida/In+the+context+of+communcation+science+research,+the+terms+social+networking+services+and+social+media+are+often+not+clearly+distinguished.>,
+      <https://purl.org/aida/Individuals+own+news+sharing+behavior+increases+their+involvement+and+interest+in+news+topics.>,
+      <https://purl.org/aida/News+sharing+in+social+media+is+an+activity+that+is+recognized+by+scholars+from+a+wide+variety+of+disciplines.>,
+      <https://purl.org/aida/News+sharing+is+the+practice+of+giving+a+defined+set+of+people+access+to+news+content+via+social+media+platforms+by+posting+or+recommending+it.>,
+      <https://purl.org/aida/Online+news+sites+increasingly+rely+on+referrals+from+social+media+to+improve++their+economic+success.>,
+      <https://purl.org/aida/Online+news+sites+increasingly+rely+on+referrals+from+social+media+to+improve+their+website+traffic,+article+views.>,
+      <https://purl.org/aida/Social+media+fundamentally+changes++the+way+we+have+to+conceptualize+and+measure+news+use+and+exposure+in+an+online+environment.>,
+      <https://purl.org/aida/Social+media+simplify+and+facilitate+news+sharing+for+individuals.>,
+      <https://purl.org/aida/The+observation+of+other+people’s+news+sharing+activities+leads+to+more+news+exposure+and+to+confrontation+with+other+opinions+and+ideas.>,
+      <https://purl.org/aida/The+term+news+sharing,+representing+the+act+of+distributing+a+specific+kind+of+content,+is+more+precise+than+the+shorter+term+sharing+in+the+context+of+communication+science+research.>,
+      <https://purl.org/aida/social+media+simplify+and+facilitate+news+sharing+for+media+organizations.>;
+    a fabio:ReviewArticle .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000013/RAYB4icUTeJE-YbcBYWa9tB4A0F8ewxLCoGvaIMYGzNA0> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000013/RAYB4icUTeJE-YbcBYWa9tB4A0F8ewxLCoGvaIMYGzNA0#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000013> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/2056305115610141/RAAKQl_huQxIAHNXtCbKmM-vGqQOb60CXNhCKiK9KCHeM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/2056305115610141/RAAKQl_huQxIAHNXtCbKmM-vGqQOb60CXNhCKiK9KCHeM#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177/2056305115610141> a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/17512786.2013.794022/RA8CqfYx_rJylLu228Kyu8hwujC3iJvYwXGa1r2pK4XWs> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/17512786.2013.794022/RA8CqfYx_rJylLu228Kyu8hwujC3iJvYwXGa1r2pK4XWs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1080/17512786.2013.794022> hycl:claims <https://purl.org/aida/All+US+newspapers+with+a+weekday+circulation+of+more+than+100,000+are+using+social+media+as+an+additional+means+to+distribute+their+content+online.>;
+    a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1080/17512786.2013.794022> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000014/RAJ_7LNWRVcAm3Vz9YmlJhZUcLrH2FRyCwexrJ51bqWfI> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000014/RAJ_7LNWRVcAm3Vz9YmlJhZUcLrH2FRyCwexrJ51bqWfI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000014> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/00000000015/RAYcur4I645JUHxbCk35ic-I9iEXmAjXZw5ZcYIsFxN4o> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/00000000015/RAYcur4I645JUHxbCk35ic-I9iEXmAjXZw5ZcYIsFxN4o#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:paper a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/livingreviews/np/paper-bib/00000000015> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115578135/RAmym2fvfPZSJnCNWLv6gYPW1SVP-IbDsJjEgB3PquQ8g> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F2056305115578135/RAmym2fvfPZSJnCNWLv6gYPW1SVP-IbDsJjEgB3PquQ8g#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F2056305115578135> hycl:claims <https://purl.org/aida/The+word+sharing+is+not+particularly+helpful+for+scientific+analyses+of+social+media+activities+since+it+means+many+different+things+to+many+different+people.>;
+    a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F2056305115578135> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/9781446270066/RAsIvghH1wMyBut45qgzM9Q3MHeoBbPDHvyxea6hahjGM> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/9781446270066/RAsIvghH1wMyBut45qgzM9Q3MHeoBbPDHvyxea6hahjGM#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <http://dx.doi.org/10.4135/9781446270066> hycl:claims <https://purl.org/aida/Some+communication+science+researchers+use+the+terms+sharing+and+news+sharing+synonymously,+while+others+emphasize+that+social+media+are+more+centered+on+content+and+that+SNSs+are+more+centered+on+people+and+their+networked+relations.>;
+    a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <http://dx.doi.org/10.4135/9781446270066> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}
+@prefix this: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444813520477/RALRYmKvK07ATUK75Iz-ig2qH9Sg-03h1ih1YmP1TbZtE> .
+@prefix sub: <https://w3id.org/livingreviews/np/paper/10.1177%2F1461444813520477/RALRYmKvK07ATUK75Iz-ig2qH9Sg-03h1ih1YmP1TbZtE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://doi.org/10.1177%2F1461444813520477> hycl:claims <https://purl.org/aida/For+methodological+and+theoretical+approaches+and+research+questions+and+sampling+strategies+it+is+hard+to+find+categories+that+fit+all+articles+under+investigation+due+to+their+diversity.>;
+    a fabio:ResearchPaper .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F1461444813520477> .
+}
+
+sub:pubinfo {
+  this: dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-2363-5880>,
+      <https://orcid.org/0000-0002-3429-2879>, <https://orcid.org/0000-0003-1460-8757>,
+      <https://orcid.org/0000-0003-2929-3815>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}

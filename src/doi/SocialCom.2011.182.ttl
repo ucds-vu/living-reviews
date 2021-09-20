@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/paridhi-jain-2lti6x7m0g91m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jain" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Paridhi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Paridhi Jain" .
+
+<http://id.crossref.org/contributor/gabriel-magno-2lti6x7m0g91m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Magno" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Gabriel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Gabriel Magno" .
+
+<http://id.crossref.org/contributor/virgilio-almeida-2lti6x7m0g91m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Almeida" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Virgilio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Virgilio Almeida" .
+
+<http://id.crossref.org/isbn/9781457719318>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2011 IEEE Third Int'l Conference on Privacy, Security, Risk and Trust and 2011 IEEE Third Int'l Conference on Social Computing" .
+
+<http://dx.doi.org/10.1109/PASSAT/SocialCom.2011.182>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/passat/socialcom.2011.182" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/paridhi-jain-2lti6x7m0g91m> , <http://id.crossref.org/contributor/gabriel-magno-2lti6x7m0g91m> , <http://id.crossref.org/contributor/virgilio-almeida-2lti6x7m0g91m> , <http://id.crossref.org/contributor/ponnurangam-kumaraguru-2lti6x7m0g91m> , <http://id.crossref.org/contributor/tiago-rodrigues-2lti6x7m0g91m> ;
+      <http://purl.org/dc/terms/date>
+              "2011-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/passat/socialcom.2011.182" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781457719318> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Cross-Pollination of Information in Online Social Media: A Case Study on Popular Social Networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/passat/socialcom.2011.182" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://dx.doi.org/10.1109/passat/socialcom.2011.182> , <doi:10.1109/passat/socialcom.2011.182> , <info:doi/10.1109/passat/socialcom.2011.182> .
+
+<http://id.crossref.org/contributor/ponnurangam-kumaraguru-2lti6x7m0g91m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumaraguru" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ponnurangam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ponnurangam Kumaraguru" .
+
+<http://id.crossref.org/contributor/tiago-rodrigues-2lti6x7m0g91m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rodrigues" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tiago" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tiago Rodrigues" .

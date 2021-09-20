@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/jake-m-hofman-zzwxd822f8xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hofman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jake M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jake M. Hofman" .
+
+<http://id.crossref.org/contributor/winter-a-mason-zzwxd822f8xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mason" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Winter A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Winter A. Mason" .
+
+<http://id.crossref.org/contributor/duncan-j-watts-zzwxd822f8xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watts" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Duncan J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Duncan J. Watts" .
+
+<http://id.crossref.org/isbn/9781450304931>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the fourth ACM international conference on Web search and data mining - WSDM '11" .
+
+<http://id.crossref.org/contributor/eytan-bakshy-zzwxd822f8xl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bakshy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eytan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eytan Bakshy" .
+
+<http://dx.doi.org/10.1145/1935826.1935845>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1935826.1935845" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jake-m-hofman-zzwxd822f8xl> , <http://id.crossref.org/contributor/winter-a-mason-zzwxd822f8xl> , <http://id.crossref.org/contributor/duncan-j-watts-zzwxd822f8xl> , <http://id.crossref.org/contributor/eytan-bakshy-zzwxd822f8xl> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1935826.1935845" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450304931> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Everyone's an influencer" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1935826.1935845" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/1935826.1935845> , <doi:10.1145/1935826.1935845> .

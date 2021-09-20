@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/0742-1222>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1557-928X" , "0742-1222" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Management Information Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1557-928X" , "0742-1222" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0742-1222" , "urn:issn:1557-928X" .
+
+<http://dx.doi.org/10.1080/07421222.2015.1138368>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/07421222.2015.1138368" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "108" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "78" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "32" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/qian-tang-1d4a9mx7lmy8f> , <http://id.crossref.org/contributor/andrew-b-whinston-1d4a9mx7lmy8f> , <http://id.crossref.org/contributor/liangfei-qiu-1d4a9mx7lmy8f> ;
+      <http://purl.org/dc/terms/date>
+              "2015-10-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/07421222.2015.1138368" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0742-1222> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Two Formulas for Success in Social Media: Learning and Network Effects" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/07421222.2015.1138368" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "108" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "78" ;
+      <http://purl.org/ontology/bibo/volume>
+              "32" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/07421222.2015.1138368> , <info:doi/10.1080/07421222.2015.1138368> .
+
+<http://id.crossref.org/contributor/qian-tang-1d4a9mx7lmy8f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Qian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Qian Tang" .
+
+<http://id.crossref.org/contributor/andrew-b-whinston-1d4a9mx7lmy8f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Whinston" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrew B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrew B. Whinston" .
+
+<http://id.crossref.org/contributor/liangfei-qiu-1d4a9mx7lmy8f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Qiu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liangfei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liangfei Qiu" .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/isbn/9781450323307>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 7th Workshop on Social Network Mining and Analysis - SNAKDD '13" .
+
+<http://id.crossref.org/contributor/yang-cao-ayc69kwpvd2m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Cao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yang Cao" .
+
+<http://dx.doi.org/10.1145/2501025.2501027>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2501025.2501027" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yang-cao-ayc69kwpvd2m> , <http://id.crossref.org/contributor/parang-saraf-ayc69kwpvd2m> , <http://id.crossref.org/contributor/edward-dougherty-ayc69kwpvd2m> , <http://id.crossref.org/contributor/fang-jin-ayc69kwpvd2m> , <http://id.crossref.org/contributor/naren-ramakrishnan-ayc69kwpvd2m> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2501025.2501027" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450323307> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Epidemiological modeling of news and rumors on Twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2501025.2501027" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2501025.2501027> , <info:doi/10.1145/2501025.2501027> .
+
+<http://id.crossref.org/contributor/parang-saraf-ayc69kwpvd2m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Saraf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Parang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Parang Saraf" .
+
+<http://id.crossref.org/contributor/edward-dougherty-ayc69kwpvd2m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dougherty" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Edward" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Edward Dougherty" .
+
+<http://id.crossref.org/contributor/fang-jin-ayc69kwpvd2m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Jin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fang Jin" .
+
+<http://id.crossref.org/contributor/naren-ramakrishnan-ayc69kwpvd2m>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ramakrishnan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Naren" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Naren Ramakrishnan" .

@@ -1,0 +1,775 @@
+# Introduce ontology:
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/LivingLiteratureVocab/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/LivingLiteratureVocab/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix nif:	<http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:LivingLiteratureVocab a owl:ontology ;
+    vann:preferredNamespaceUri "https://w3id.org/livingreviews/np/" ;
+    vann:preferredNamespacePrefix "llr" ;
+    dct:title "Definitions for living literature nanopublications" ;
+    dct:description "This is the vocabulairy describing the general implementation choices of the living literature nanopublications." ;
+    dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:created "2020-01-31T11:58:51.605+02:00"^^xsd:dateTime ;
+    dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+
+#classes
+@prefix : <https://w3id.org/livingreviews/np/vocab/EmpiricalArticle/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/EmpiricalArticle/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:EmpiricalArticle rdfs:label "Empirical article"@en ;
+    a owl:Class ;
+    skos:definition "This study is (part of) an empirical article."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/SoftwarePaper/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/SoftwarePaper/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:EmpiricalArticle rdfs:label "Software paper"@en ;
+    a owl:Class ;
+    skos:definition "This study is (part of) an software paper."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/ConceptPaper/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/ConceptPaper/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:ConceptPaper rdfs:label "ConceptPaper"@en ;
+    a owl:Class ;
+    skos:definition "This study is (part of) a concept paper."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/LiteratureReview/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/LiteratureReview/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:LiteratureReview rdfs:label "Literature review"@en ;
+    a owl:Class ;
+    skos:definition "This study is (part of) a literature review."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/QuantatitiveAnalysis/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/QuantatitiveAnalysis/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:QuantatitiveAnalysis rdfs:label "Quantatitive analysis"@en ;
+    a owl:Class ;
+    skos:definition "The analysis type of this study is the quantatitive analysis."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/QualitativeAnalysis/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/QualitativeAnalysis/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:QualitativeAnalysis rdfs:label "Qualitative analysis"@en ;
+    a owl:Class ;
+    skos:definition "The analysis type of this study is the qualitative analysis."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/Mixed-Method-Design/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Mixed-Method-Design/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:Mixed-Method-Design rdfs:label "Mixed-method design"@en ;
+    a owl:Class ;
+    skos:definition "The analysis type of this study is the mixed-method design."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/Survey/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Survey/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:Survey rdfs:label "Survey"@en ;
+    a owl:Class ;
+    skos:definition "The method of study of this study is a survey."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/Experiment/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Experiment/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:Experiment rdfs:label "Experiment"@en ;
+    a owl:Class ;
+    skos:definition "The method of study  of this study is the experiment"@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/ContentAnalysis/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/ContentAnalysis/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:ContentAnalysis rdfs:label "Content analysis"@en ;
+    a owl:Class ;
+    skos:definition "The method of study of this study is a content analysis."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/Observation/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/Observation/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:Observation rdfs:label "Observation"@en ;
+    a owl:Class ;
+    skos:definition "The method of study of this study is a observation."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+#Properties
+@prefix : <https://w3id.org/livingreviews/np/vocab/providesEvidenceFor/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/providesEvidenceFor/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:providesEvidenceFor rdfs:label "provides evidence for"@en ;
+    a owl:DatatypeProperty ;
+    rdfs:domain hycl:Statement ;
+    skos:definition "Indicates that a study provides evidence for a specific statement."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/providesCounterEvidenceFor/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/providesCounterEvidenceFor/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:providesCounterEvidenceFor rdfs:label "provides counter evidence for"@en ;
+    a owl:DatatypeProperty ;
+    rdfs:domain hycl:Statement ;
+    skos:definition "Indicates that a study or statement provides counter evidence for a specific statement."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/landOfFocus/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/landOfFocus/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:landOfFocus rdfs:label "land of focus"@en ;
+    a owl:DatatypeProperty ;
+    rdfs:domain cdoc:Study ;
+    skos:definition "The land where the study is focussing on."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/socialMediaPlatform/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/socialMediaPlatform/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:socialMediaPlatform rdfs:label "social media platform"@en ;
+    a owl:DatatypeProperty ;
+    rdfs:domain cdoc:Study ;
+    skos:definition "The social media platform on which the study is focussing or collects it's data."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/theoreticalApproach/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/theoreticalApproach/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:theoreticalApproach rdfs:label "theoretical approach"@en ;
+    a owl:DatatypeProperty ;
+    rdfs:domain cdoc:Study ;
+    skos:definition "Tells which theoretical approach is used for the study."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/primaryObject/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/primaryObject/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:primaryObject rdfs:label "primaryObject"@en ;
+    a owl:DatatypeProperty ;
+    rdfs:domain cdoc:Study ;
+    skos:definition "The primary object that the study is focussing on."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}
+
+@prefix : <https://w3id.org/livingreviews/np/vocab/firstAuthorOrigin/> .
+@prefix latest: <https://w3id.org/livingreviews/np/vocab/latest/firstAuthorOrigin/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+@prefix cdoc: <https://data.cooperationdatabank.org/vocab/class/> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion ;
+    np:hasProvenance :provenance ;
+    np:hasPublicationInfo :pubinfo .
+}
+
+:assertion {
+  llr:firstAuthorOrigin rdfs:label "first author origin"@en ;
+    a owl:DatatypeProperty ;
+    rdfs:domain cdoc:Study ;
+    skos:definition "The land where the first author is coming from."@en ;
+    rdfs:isDefinedBy latest: .
+}
+
+:provenance {
+  :assertion pav:authoredBy orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+}
+
+:pubinfo {
+  : dct:creator orcid:0000-0002-3429-2879, orcid:0000-0002-2363-5880, orcid:0000-0002-1267-0234, orcid:0000-0003-1460-8757, orcid:0000-0003-2929-3815.
+  : dct:created "2021-01-31T17:39:23.612+01:00"^^xsd:dateTime.
+}

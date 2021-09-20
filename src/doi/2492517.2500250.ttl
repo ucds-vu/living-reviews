@@ -1,0 +1,42 @@
+<http://dx.doi.org/10.1145/2492517.2500250>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2492517.2500250" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/huan-kai-peng-ye11p4ldb398> , <http://id.crossref.org/contributor/radu-marculescu-ye11p4ldb398> ;
+      <http://purl.org/dc/terms/date>
+              "2013-08-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2492517.2500250" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450322409> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "Identifying dynamics and collective behaviors in microblogging traces" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2492517.2500250" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2492517.2500250> , <doi:10.1145/2492517.2500250> .
+
+<http://id.crossref.org/isbn/9781450322409>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining" .
+
+<http://id.crossref.org/contributor/radu-marculescu-ye11p4ldb398>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marculescu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Radu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Radu Marculescu" .
+
+<http://id.crossref.org/contributor/huan-kai-peng-ye11p4ldb398>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Peng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huan-Kai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huan-Kai Peng" .

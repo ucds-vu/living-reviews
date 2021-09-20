@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0747-5632>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0747-5632" ;
+      <http://purl.org/dc/terms/title>
+              "Computers in Human Behavior" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0747-5632" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0747-5632" .
+
+<http://id.crossref.org/contributor/chei-sian-lee-29hn9tih9vtur>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chei Sian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chei Sian Lee" .
+
+<http://dx.doi.org/10.1016/j.chb.2011.10.002>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.chb.2011.10.002" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "339" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "331" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chei-sian-lee-29hn9tih9vtur> , <http://id.crossref.org/contributor/long-ma-29hn9tih9vtur> ;
+      <http://purl.org/dc/terms/date>
+              "2012-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.chb.2011.10.002" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0747-5632> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "News sharing in social media: The effect of gratifications and prior experience" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.chb.2011.10.002" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "339" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "331" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.chb.2011.10.002> , <doi:10.1016/j.chb.2011.10.002> .
+
+<http://id.crossref.org/contributor/long-ma-29hn9tih9vtur>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Long" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Long Ma" .

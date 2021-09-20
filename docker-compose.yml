@@ -1,0 +1,15 @@
+
+version: "3.3"
+services:
+  web-server:
+    image: michelwijkstra/living-web-server
+    ports:
+      - "8085:80"
+  node-server:
+    image: michelwijkstra/living-node-server
+    ports:
+      - "3005:3000"
+  db:
+    image: michelwijkstra/living-virtuoso-server
+    ports:
+      - "8890:8890"

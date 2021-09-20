@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/derek-hansen-21owvd5mynl3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hansen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Derek" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Derek Hansen" .
+
+<http://id.crossref.org/contributor/anne-bowser-21owvd5mynl3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bowser" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anne" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anne Bowser" .
+
+<http://dx.doi.org/10.1080/1369118X.2012.706316>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/1369118x.2012.706316" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1396" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1373" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/derek-hansen-21owvd5mynl3c> , <http://id.crossref.org/contributor/anne-bowser-21owvd5mynl3c> , <http://id.crossref.org/contributor/itai-himelboim-21owvd5mynl3c> ;
+      <http://purl.org/dc/terms/date>
+              "2013-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/1369118x.2012.706316" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1369-118X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "PLAYING IN THE SAME TWITTER NETWORK" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/1369118x.2012.706316" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1396" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1373" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://dx.doi.org/10.1080/1369118x.2012.706316> , <info:doi/10.1080/1369118x.2012.706316> , <doi:10.1080/1369118x.2012.706316> .
+
+<http://id.crossref.org/contributor/itai-himelboim-21owvd5mynl3c>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Himelboim" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Itai" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Itai Himelboim" .
+
+<http://id.crossref.org/issn/1369-118X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-4462" , "1369-118X" ;
+      <http://purl.org/dc/terms/title>
+              "Information, Communication & Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-4462" , "1369-118X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1369-118X" , "urn:issn:1468-4462" .

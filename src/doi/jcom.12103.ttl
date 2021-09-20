@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1111/jcom.12103>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/jcom.12103" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "634" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "612" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "64" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/homero-gil-de-zuniga-1dq2p0mjb0ff8> , <http://id.crossref.org/contributor/pei-zheng-1dq2p0mjb0ff8> , <http://id.crossref.org/contributor/logan-molyneux-1dq2p0mjb0ff8> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/jcom.12103" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0021-9916> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "Social Media, Political Expression, and Political Participation: Panel Analysis of Lagged and Concurrent Relationships" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/jcom.12103" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "634" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "612" ;
+      <http://purl.org/ontology/bibo/volume>
+              "64" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1111/jcom.12103> , <info:doi/10.1111/jcom.12103> .
+
+<http://id.crossref.org/contributor/homero-gil-de-zuniga-1dq2p0mjb0ff8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gil de Zúñiga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Homero" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Homero Gil de Zúñiga" .
+
+<http://id.crossref.org/issn/0021-9916>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0021-9916" ;
+      <http://purl.org/dc/terms/title>
+              "Journal of Communication" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0021-9916" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0021-9916" .
+
+<http://id.crossref.org/contributor/pei-zheng-1dq2p0mjb0ff8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zheng" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pei Zheng" .
+
+<http://id.crossref.org/contributor/logan-molyneux-1dq2p0mjb0ff8>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Molyneux" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Logan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Logan Molyneux" .

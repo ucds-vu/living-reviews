@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/jisun-an-39zg4rncycfgf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "An" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jisun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jisun An" .
+
+<http://id.crossref.org/contributor/daniele-quercia-39zg4rncycfgf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Quercia" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniele" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniele Quercia" .
+
+<http://dx.doi.org/10.1145/2487788.2487807>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2487788.2487807" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jisun-an-39zg4rncycfgf> , <http://id.crossref.org/contributor/daniele-quercia-39zg4rncycfgf> , <http://id.crossref.org/contributor/jon-crowcroft-39zg4rncycfgf> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2487788.2487807" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450320382> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Fragmented social media" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2487788.2487807" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2487788.2487807> , <doi:10.1145/2487788.2487807> .
+
+<http://id.crossref.org/contributor/jon-crowcroft-39zg4rncycfgf>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Crowcroft" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jon Crowcroft" .
+
+<http://id.crossref.org/isbn/9781450320382>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 22nd International Conference on World Wide Web - WWW '13 Companion" .

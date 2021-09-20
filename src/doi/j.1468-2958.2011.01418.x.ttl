@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1111/j.1468-2958.2011.01418.x>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1111/j.1468-2958.2011.01418.x" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "22" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "38" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/pablo-j-boczkowski-3lw970vxbiof0> , <http://id.crossref.org/contributor/eugenia-mitchelstein-3lw970vxbiof0> ;
+      <http://purl.org/dc/terms/date>
+              "2011-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1111/j.1468-2958.2011.01418.x" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0360-3989> ;
+      <http://purl.org/dc/terms/publisher>
+              "Oxford University Press (OUP)" ;
+      <http://purl.org/dc/terms/title>
+              "How Users Take Advantage of Different Forms of Interactivity on Online News Sites: Clicking, E-Mailing, and Commenting" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1111/j.1468-2958.2011.01418.x" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "22" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "38" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1111/j.1468-2958.2011.01418.x> , <doi:10.1111/j.1468-2958.2011.01418.x> .
+
+<http://id.crossref.org/issn/0360-3989>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0360-3989" ;
+      <http://purl.org/dc/terms/title>
+              "Human Communication Research" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0360-3989" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0360-3989" .
+
+<http://id.crossref.org/contributor/pablo-j-boczkowski-3lw970vxbiof0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Boczkowski" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Pablo J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Pablo J. Boczkowski" .
+
+<http://id.crossref.org/contributor/eugenia-mitchelstein-3lw970vxbiof0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mitchelstein" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eugenia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eugenia Mitchelstein" .

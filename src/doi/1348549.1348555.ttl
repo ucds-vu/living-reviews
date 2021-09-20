@@ -1,0 +1,33 @@
+<http://dx.doi.org/10.1145/1348549.1348555>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1348549.1348555" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kristina-lerman-dg2870rssyba> ;
+      <http://purl.org/dc/terms/date>
+              "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1348549.1348555" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781595938480> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Dynamics of collaborative document rating systems" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1348549.1348555" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1348549.1348555> , <info:doi/10.1145/1348549.1348555> .
+
+<http://id.crossref.org/isbn/9781595938480>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 9th WebKDD and 1st SNA-KDD 2007 workshop on Web mining and social network analysis  - WebKDD/SNA-KDD '07" .
+
+<http://id.crossref.org/contributor/kristina-lerman-dg2870rssyba>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lerman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kristina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kristina Lerman" .

@@ -1,0 +1,159 @@
+@prefix : <https://w3id.org/livingreviews/np/reviewPaper/10.1177%2F2056305115610141/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix sio: <http://semanticscience.org/ontology/sio.owl#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix cito: <http://purl.org/spar/cito/> .
+
+
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://doi.org/10.1177%2F2056305115610141> a fabio:ReviewArticle;
+    cito:reviews <https://doi.org/10.1177/1931243114546448>;
+		cito:reviews <https://doi.org/10.1177/1077699013482906>;
+		cito:reviews <http://doi.org/10.1145/2684103.2684171>;
+		cito:reviews <http://doi.org/10.1177/0956797611413294>;
+		cito:reviews <https://doi.org/10.1145/2487788.2487807>;
+		cito:reviews <https://doi.org/10.1145/2441776.2441877>;
+		cito:reviews <http://doi.org/10.1016/j.chb.2011.10.002>;
+		cito:reviews <http://doi.org/10.1145/1998076.1998103>;
+		cito:reviews <http://doi.org/10.1109/HICSS.2010.412>;
+		cito:reviews <http://doi.org/10.1080/08824096.2013.843165>;
+		cito:reviews <http://doi.org/10.1080/1369118X.2011.554572>;
+		cito:reviews <http://doi.org/10.3998/3336451.0011.305>;
+		cito:reviews <http://doi.org/10.1145/1935826.1935845>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000001>;
+		cito:reviews <http://doi.org/10.1509/jmr.10.0353>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000002>;
+		cito:reviews <http://doi.org/10.1016/j.chb.2014.03.006>;
+		cito:reviews <http://doi.org/10.1111/j.1468-2958.2011.01418.x>;
+		cito:reviews <http://doi.org/10.1016/j.chb.2014.08.009>;
+		cito:reviews <https://doi.org/10.1089/cyber.2012.0265>;
+		cito:reviews <https://doi.org/10.1177%2F1354856513493699>;
+		cito:reviews <https://doi.org/10.1145/1566374.1566421>;
+		cito:reviews <https://doi.org/10.1145/2187836.2187907>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000003>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000004>;
+		cito:reviews <https://doi.org/10.1080/1461670X.2012.664428>;
+		cito:reviews <https://doi.org/10.1145/1814245.1814249>;
+		cito:reviews <https://doi.org/10.1145/2542182.2542189>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000005>;
+		cito:reviews <https://doi.org/10.1080/02560054.2013.767425>;
+		cito:reviews <https://doi.org/10.1145/2487788.2488069>;
+		cito:reviews <https://doi.org/10.1145/2487575.2487596>;
+		cito:reviews <https://doi.org/10.1145/2556288.2557285>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000006>;
+		cito:reviews <https://doi.org/10.1111/j.1083-6101.2012.01574.x>;
+		cito:reviews <https://doi.org/10.1016/j.chb.2011.08.017>;
+		cito:reviews <https://doi.org/10.1145/2433396.2433402>;
+		cito:reviews <https://doi.org/10.1145/1718487.1718518>;
+		cito:reviews <https://doi.org/10.1145/2503792.2503797>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000007>;
+		cito:reviews <https://doi.org/10.1080/17512781003640703>;
+		cito:reviews <https://doi.org/10.1080/1461670X.2012.664430>;
+		cito:reviews <https://doi.org/10.1002/meet.14504701277>;
+		cito:reviews <https://doi.org/10.1177%2F0267323113497435>;
+		cito:reviews <https://doi.org/10.1080/1369118X.2012.706316>;
+		cito:reviews <https://doi.org/10.1145/1963192.1963222>;
+		cito:reviews <https://doi.org/10.1080/1369118X.2011.649774>;
+		cito:reviews <https://doi.org/10.1145/2207676.2208672>;
+		cito:reviews <https://doi.org/10.1145/2063212.2063224>;
+		cito:reviews <https://doi.org/10.1080/08838151.2013.816706>;
+		cito:reviews <https://doi.org/10.1109/PASSAT/SocialCom.2011.182>;
+		cito:reviews <https://doi.org/10.1145/2501025.2501027>;
+		cito:reviews <https://doi.org/10.1145/2501025.2501030>;
+		cito:reviews <https://doi.org/10.3390/e15104215>;
+		cito:reviews <https://doi.org/10.1145/2505515.2505583>;
+		cito:reviews <https://doi.org/10.1016/j.chb.2013.06.005>;
+		cito:reviews <https://doi.org/10.1145/2567948.2579325>;
+		cito:reviews <https://doi.org/10.1207/s15506878jobem4903_3>;
+		cito:reviews <https://doi.org/10.1145/2396761.2398634>;
+		cito:reviews <https://doi.org/10.1145/1772690.1772751>;
+		cito:reviews <https://doi.org/10.1080/1461670X.2011.571825>;
+		cito:reviews <https://doi.org/10.1145/2487788.2488068>;
+		cito:reviews <https://doi.org/10.1145/1348549.1348555>;
+		cito:reviews <https://doi.org/10.1145/1397735.1397738>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000008>;
+		cito:reviews <https://doi.org/10.1145/2337542.2337547>;
+		cito:reviews <https://doi.org/10.1177%2F1461444810372164>;
+		cito:reviews <https://doi.org/10.1080/15228835.2012.744244>;
+		cito:reviews <https://doi.org/10.1109/GreenCom-iThings-CPSCom.2013.173>;
+		cito:reviews <https://doi.org/10.1145/2467696.2467749>;
+		cito:reviews <https://doi.org/10.1145/2484028.2484212>;
+		cito:reviews <https://doi.org/10.1145/1964858.1964869>;
+		cito:reviews <https://doi.org/10.1177%2F1940161212474472>;
+		cito:reviews <https://doi.org/10.1145/2339530.2339540>;
+		cito:reviews <https://doi.org/10.1145/2187980.2188177>;
+		cito:reviews <https://doi.org/10.1080/21670811.2013.872420>;
+		cito:reviews <https://doi.org/10.1111/j.1460-2466.2012.01630.x>;
+		cito:reviews <https://doi.org/10.1145/2492517.2500250>;
+		cito:reviews <https://doi.org/10.1177%2F1464884911431533>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000009>;
+		cito:reviews <https://doi.org/10.1080/07421222.2015.1138368>;
+		cito:reviews <https://doi.org/10.1177%2F152263791101300302>;
+		cito:reviews <https://doi.org/10.1145/2487788.2487921>;
+		cito:reviews <https://doi.org/10.1145/1963405.1963503>;
+		cito:reviews <https://doi.org/10.1145/2526188.2526219>;
+		cito:reviews <https://doi.org/10.1177%2F0093650205279209>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000010>;
+		cito:reviews <https://doi.org/10.1177%2F1461444809360699>;
+		cito:reviews <https://doi.org/10.5789/4-1-15>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000011>;
+		cito:reviews <https://doi.org/10.1287/isre.1100.0339>;
+		cito:reviews <https://doi.org/10.1109/WI-IAT.2011.311>;
+		cito:reviews <https://doi.org/10.1145/2492517.2500262>;
+		cito:reviews <https://doi.org/10.1016/j.pubrev.2012.12.001>;
+		cito:reviews <https://doi.org/10.1080/17512786.2012.667272>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000012>;
+		cito:reviews <https://doi.org/10.1145/1963405.1963504>;
+		cito:reviews <https://doi.org/10.1145/2348283.2348358>;
+		cito:reviews <https://doi.org/10.1177%2F0306422012466807>;
+		cito:reviews <https://doi.org/10.1145/1964858.1964875>;
+		cito:reviews <https://doi.org/10.1145/2063576.2063992>;
+		cito:reviews <https://doi.org/10.1145/2556195.2566588>;
+		cito:reviews <https://doi.org/10.1145/2631775.2631808>;
+		cito:reviews <https://doi.org/10.1111/jcom.12103>;
+		cito:reviews <https://doi.org/10.1145/2597892>;
+		cito:reviews <https://doi.org/10.1108/OIR-10-2013-0239>;
+		cito:reviews <https://doi.org/10.1145/2647868.2655037>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000013>;
+		cito:reviews <https://doi.org/10.1177/2056305115610141>;
+		cito:reviews <https://doi.org/10.1080/17512786.2013.794022>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000014>;
+		cito:reviews <https://w3id.org/livingreviews/np/paper-bib/00000000015>;
+		cito:reviews <https://doi.org/10.1177%2F2056305115578135>;
+		cito:reviews <http://dx.doi.org/10.4135/9781446270066>;
+		cito:reviews <https://doi.org/10.1177%2F1461444813520477>.
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177%2F2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+

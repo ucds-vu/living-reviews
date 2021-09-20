@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1177/152263791101300302>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/152263791101300302" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "210" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "137" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sue-robinson-ldprfeoex7zl> ;
+      <http://purl.org/dc/terms/date>
+              "2011-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/152263791101300302" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1522-6379> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "“Journalism as Process”: The Organizational Implications of Participatory Online News" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/152263791101300302" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "210" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "137" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/152263791101300302> , <doi:10.1177/152263791101300302> .
+
+<http://id.crossref.org/contributor/sue-robinson-ldprfeoex7zl>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Robinson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sue" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sue Robinson" .
+
+<http://id.crossref.org/issn/1522-6379>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2161-4342" , "1522-6379" ;
+      <http://purl.org/dc/terms/title>
+              "Journalism & Communication Monographs" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2161-4342" , "1522-6379" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1522-6379" , "urn:issn:2161-4342" .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1016/j.pubrev.2012.12.001>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.pubrev.2012.12.001" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "231" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "229" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "39" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/piet-verhoeven-3l83fkbh1srrq> , <http://id.crossref.org/contributor/toni-g-l-a-van-der-meer-3l83fkbh1srrq> ;
+      <http://purl.org/dc/terms/date>
+              "2013-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.pubrev.2012.12.001" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0363-8111> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Public framing organizational crisis situations: Social media versus news media" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.pubrev.2012.12.001" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "231" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "229" ;
+      <http://purl.org/ontology/bibo/volume>
+              "39" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.pubrev.2012.12.001> , <info:doi/10.1016/j.pubrev.2012.12.001> .
+
+<http://id.crossref.org/contributor/piet-verhoeven-3l83fkbh1srrq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Verhoeven" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Piet" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Piet Verhoeven" .
+
+<http://id.crossref.org/issn/0363-8111>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0363-8111" ;
+      <http://purl.org/dc/terms/title>
+              "Public Relations Review" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0363-8111" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0363-8111" .
+
+<http://id.crossref.org/contributor/toni-g-l-a-van-der-meer-3l83fkbh1srrq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "van der Meer" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Toni G.L.A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Toni G.L.A. van der Meer" .

@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1145/2063576.2063992>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2063576.2063992" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/raquel-martinez-21bp0ykhv4e6y> , <http://id.crossref.org/contributor/victor-fresno-21bp0ykhv4e6y> , <http://id.crossref.org/contributor/arkaitz-zubiaga-21bp0ykhv4e6y> , <http://id.crossref.org/contributor/damiano-spina-21bp0ykhv4e6y> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2063576.2063992" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450307178> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Classifying trending topics" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2063576.2063992" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2063576.2063992> , <doi:10.1145/2063576.2063992> .
+
+<http://id.crossref.org/isbn/9781450307178>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 20th ACM international conference on Information and knowledge management - CIKM '11" .
+
+<http://id.crossref.org/contributor/raquel-martinez-21bp0ykhv4e6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Martínez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raquel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raquel Martínez" .
+
+<http://id.crossref.org/contributor/victor-fresno-21bp0ykhv4e6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fresno" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Víctor" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Víctor Fresno" .
+
+<http://id.crossref.org/contributor/arkaitz-zubiaga-21bp0ykhv4e6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zubiaga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Arkaitz" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Arkaitz Zubiaga" .
+
+<http://id.crossref.org/contributor/damiano-spina-21bp0ykhv4e6y>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Spina" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Damiano" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Damiano Spina" .

@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/dominic-l-lasorsa-3n9ahar9awwbo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lasorsa" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dominic L." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dominic L. Lasorsa" .
+
+<http://id.crossref.org/issn/1461-670X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-9699" , "1461-670X" ;
+      <http://purl.org/dc/terms/title>
+              "Journalism Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-9699" , "1461-670X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-9699" , "urn:issn:1461-670X" .
+
+<http://dx.doi.org/10.1080/1461670X.2011.571825>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/1461670x.2011.571825" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "36" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "19" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/dominic-l-lasorsa-3n9ahar9awwbo> , <http://id.crossref.org/contributor/avery-e-holton-3n9ahar9awwbo> , <http://id.crossref.org/contributor/seth-c-lewis-3n9ahar9awwbo> ;
+      <http://purl.org/dc/terms/date>
+              "2012-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/1461670x.2011.571825" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1461-670X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "NORMALIZING TWITTER" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/1461670x.2011.571825" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "36" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "19" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/1461670x.2011.571825> , <http://dx.doi.org/10.1080/1461670x.2011.571825> , <info:doi/10.1080/1461670x.2011.571825> .
+
+<http://id.crossref.org/contributor/avery-e-holton-3n9ahar9awwbo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Holton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Avery E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Avery E. Holton" .
+
+<http://id.crossref.org/contributor/seth-c-lewis-3n9ahar9awwbo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lewis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seth C." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seth C. Lewis" .

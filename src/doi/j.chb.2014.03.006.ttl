@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/friedrich-w-hesse-2okc4vuj8z85k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hesse" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Friedrich W." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Friedrich W. Hesse" .
+
+<http://id.crossref.org/issn/0747-5632>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0747-5632" ;
+      <http://purl.org/dc/terms/title>
+              "Computers in Human Behavior" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0747-5632" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0747-5632" .
+
+<http://id.crossref.org/contributor/anja-rudat-2okc4vuj8z85k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rudat" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anja" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anja Rudat" .
+
+<http://dx.doi.org/10.1016/j.chb.2014.03.006>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.chb.2014.03.006" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "139" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "132" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "35" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/friedrich-w-hesse-2okc4vuj8z85k> , <http://id.crossref.org/contributor/anja-rudat-2okc4vuj8z85k> , <http://id.crossref.org/contributor/jurgen-buder-2okc4vuj8z85k> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.chb.2014.03.006" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0747-5632> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Audience design in Twitter: Retweeting behavior between informational value and followers’ interests" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.chb.2014.03.006" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "139" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "132" ;
+      <http://purl.org/ontology/bibo/volume>
+              "35" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.chb.2014.03.006> , <doi:10.1016/j.chb.2014.03.006> .
+
+<http://id.crossref.org/contributor/jurgen-buder-2okc4vuj8z85k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Buder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jürgen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jürgen Buder" .

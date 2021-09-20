@@ -1,0 +1,43 @@
+<http://id.crossref.org/contributor/wilma-stassen-3lp3qdn4f0jnt>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Stassen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wilma" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wilma Stassen" .
+
+<http://id.crossref.org/issn/2073-2740>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2073-2740" ;
+      <http://purl.org/dc/terms/title>
+              "Global Media Journal African Edition" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2073-2740" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2073-2740" .
+
+<http://dx.doi.org/10.5789/4-1-15>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.5789/4-1-15" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "4" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/wilma-stassen-3lp3qdn4f0jnt> ;
+      <http://purl.org/dc/terms/date>
+              "2011-08-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.5789/4-1-15" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2073-2740> ;
+      <http://purl.org/dc/terms/publisher>
+              "Stellenbosch University" ;
+      <http://purl.org/dc/terms/title>
+              "Your news in 140 characters: exploring the role of social media in journalism" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.5789/4-1-15" ;
+      <http://purl.org/ontology/bibo/volume>
+              "4" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.5789/4-1-15> , <info:doi/10.5789/4-1-15> .

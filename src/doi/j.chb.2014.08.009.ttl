@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/0747-5632>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0747-5632" ;
+      <http://purl.org/dc/terms/title>
+              "Computers in Human Behavior" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0747-5632" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0747-5632" .
+
+<http://id.crossref.org/contributor/yasuaki-sakamoto-1hfpq90jaum5l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sakamoto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yasuaki" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yasuaki Sakamoto" .
+
+<http://dx.doi.org/10.1016/j.chb.2014.08.009>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.chb.2014.08.009" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "287" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "278" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "41" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yasuaki-sakamoto-1hfpq90jaum5l> , <http://id.crossref.org/contributor/huaye-li-1hfpq90jaum5l> ;
+      <http://purl.org/dc/terms/date>
+              "2014-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.chb.2014.08.009" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0747-5632> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "Social impacts in social media: An examination of perceived truthfulness and sharing of information" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.chb.2014.08.009" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "287" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "278" ;
+      <http://purl.org/ontology/bibo/volume>
+              "41" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1016/j.chb.2014.08.009> , <doi:10.1016/j.chb.2014.08.009> .
+
+<http://id.crossref.org/contributor/huaye-li-1hfpq90jaum5l>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Huaye" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Huaye Li" .

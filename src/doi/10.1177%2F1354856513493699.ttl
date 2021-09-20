@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/homero-gil-de-zuniga-h43abpdm1qj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "de Zúñiga" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Homero Gil" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Homero Gil de Zúñiga" .
+
+<http://id.crossref.org/contributor/ingrid-bachmann-h43abpdm1qj0>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bachmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ingrid" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ingrid Bachmann" .
+
+<http://dx.doi.org/10.1177/1354856513493699>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1354856513493699" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "512" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "496" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "19" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/homero-gil-de-zuniga-h43abpdm1qj0> , <http://id.crossref.org/contributor/ingrid-bachmann-h43abpdm1qj0> ;
+      <http://purl.org/dc/terms/date>
+              "2013-07-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1354856513493699" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1354-8565> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "News Platform Preference as a predictor of political and civic participation" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1354856513493699" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "512" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "496" ;
+      <http://purl.org/ontology/bibo/volume>
+              "19" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/1354856513493699> , <doi:10.1177/1354856513493699> .
+
+<http://id.crossref.org/issn/1354-8565>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1748-7382" , "1354-8565" ;
+      <http://purl.org/dc/terms/title>
+              "Convergence: The International Journal of Research into New Media Technologies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1748-7382" , "1354-8565" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1748-7382" , "urn:issn:1354-8565" .

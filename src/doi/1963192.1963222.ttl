@@ -1,0 +1,51 @@
+<http://id.crossref.org/isbn/9781450306379>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 20th international conference companion on World wide web - WWW '11" .
+
+<http://id.crossref.org/contributor/brian-d-davison-69tgdghbjbff>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Davison" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brian D." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brian D. Davison" .
+
+<http://id.crossref.org/contributor/liangjie-hong-69tgdghbjbff>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hong" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Liangjie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Liangjie Hong" .
+
+<http://dx.doi.org/10.1145/1963192.1963222>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1963192.1963222" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/brian-d-davison-69tgdghbjbff> , <http://id.crossref.org/contributor/liangjie-hong-69tgdghbjbff> , <http://id.crossref.org/contributor/ovidiu-dan-69tgdghbjbff> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1963192.1963222" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450306379> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Predicting popular messages in Twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1963192.1963222" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1963192.1963222> , <info:doi/10.1145/1963192.1963222> .
+
+<http://id.crossref.org/contributor/ovidiu-dan-69tgdghbjbff>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ovidiu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ovidiu Dan" .

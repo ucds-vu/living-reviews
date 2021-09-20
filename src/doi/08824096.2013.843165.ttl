@@ -1,0 +1,78 @@
+<http://id.crossref.org/contributor/carolyn-yaschur-2rf6l098bmkcz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yaschur" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carolyn" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carolyn Yaschur" .
+
+<http://id.crossref.org/contributor/mark-coddington-2rf6l098bmkcz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Coddington" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mark" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mark Coddington" .
+
+<http://dx.doi.org/10.1080/08824096.2013.843165>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/08824096.2013.843165" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "40" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "31" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carolyn-yaschur-2rf6l098bmkcz> , <http://id.crossref.org/contributor/mark-coddington-2rf6l098bmkcz> , <http://id.crossref.org/contributor/kang-baek-2rf6l098bmkcz> , <http://id.crossref.org/contributor/avery-e-holton-2rf6l098bmkcz> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/08824096.2013.843165" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0882-4096> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "Seeking and Sharing: Motivations for Linking on Twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/08824096.2013.843165" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "40" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "33" ;
+      <http://purl.org/ontology/bibo/volume>
+              "31" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/08824096.2013.843165> , <doi:10.1080/08824096.2013.843165> .
+
+<http://id.crossref.org/contributor/kang-baek-2rf6l098bmkcz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Baek" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kang Baek" .
+
+<http://id.crossref.org/contributor/avery-e-holton-2rf6l098bmkcz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Holton" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Avery E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Avery E. Holton" .
+
+<http://id.crossref.org/issn/0882-4096>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1746-4099" , "0882-4096" ;
+      <http://purl.org/dc/terms/title>
+              "Communication Research Reports" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1746-4099" , "0882-4096" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1746-4099" , "urn:issn:0882-4096" .

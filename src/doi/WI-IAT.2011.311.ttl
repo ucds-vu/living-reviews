@@ -1,0 +1,51 @@
+<http://id.crossref.org/isbn/9781457713736>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology" .
+
+<http://id.crossref.org/contributor/martin-szomszor-huiyte0nssyy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Szomszor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Szomszor" .
+
+<http://dx.doi.org/10.1109/WI-IAT.2011.311>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/wi-iat.2011.311" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/martin-szomszor-huiyte0nssyy> , <http://id.crossref.org/contributor/patty-kostkova-huiyte0nssyy> , <http://id.crossref.org/contributor/connie-st-louis-huiyte0nssyy> ;
+      <http://purl.org/dc/terms/date>
+              "2011-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/wi-iat.2011.311" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781457713736> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Twitter Informatics: Tracking and Understanding Public Reaction during the 2009 Swine Flu Pandemic" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/wi-iat.2011.311" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://dx.doi.org/10.1109/wi-iat.2011.311> , <doi:10.1109/wi-iat.2011.311> , <info:doi/10.1109/wi-iat.2011.311> .
+
+<http://id.crossref.org/contributor/patty-kostkova-huiyte0nssyy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kostkova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patty" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patty Kostkova" .
+
+<http://id.crossref.org/contributor/connie-st-louis-huiyte0nssyy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Louis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Connie St" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Connie St Louis" .

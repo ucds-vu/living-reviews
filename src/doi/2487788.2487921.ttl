@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/raquel-melo-minardi-1ahy3vh0l1nq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Minardi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Raquel Melo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Raquel Melo Minardi" .
+
+<http://id.crossref.org/isbn/9781450320382>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 22nd International Conference on World Wide Web - WWW '13 Companion" .
+
+<http://dx.doi.org/10.1145/2487788.2487921>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2487788.2487921" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/raquel-melo-minardi-1ahy3vh0l1nq> , <http://id.crossref.org/contributor/ponnurangam-kumaraguru-1ahy3vh0l1nq> , <http://id.crossref.org/contributor/virgilio-almeida-1ahy3vh0l1nq> , <http://id.crossref.org/contributor/tiago-rodrigues-1ahy3vh0l1nq> , <http://id.crossref.org/contributor/prateek-dewan-1ahy3vh0l1nq> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2487788.2487921" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450320382> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "uTrack" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2487788.2487921" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2487788.2487921> , <info:doi/10.1145/2487788.2487921> .
+
+<http://id.crossref.org/contributor/ponnurangam-kumaraguru-1ahy3vh0l1nq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kumaraguru" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ponnurangam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ponnurangam Kumaraguru" .
+
+<http://id.crossref.org/contributor/virgilio-almeida-1ahy3vh0l1nq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Almeida" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Virgílio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Virgílio Almeida" .
+
+<http://id.crossref.org/contributor/prateek-dewan-1ahy3vh0l1nq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Dewan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Prateek" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Prateek Dewan" .
+
+<http://id.crossref.org/contributor/tiago-rodrigues-1ahy3vh0l1nq>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rodrigues" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tiago" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tiago Rodrigues" .

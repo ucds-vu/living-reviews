@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1145/2337542.2337547>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2337542.2337547" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "33" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "3" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kristina-lerman-dyes6gbmfv2o> , <http://id.crossref.org/contributor/tad-hogg-dyes6gbmfv2o> ;
+      <http://purl.org/dc/terms/date>
+              "2012-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2337542.2337547" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2157-6904> ;
+      <http://purl.org/dc/terms/publisher>
+              "Association for Computing Machinery (ACM)" ;
+      <http://purl.org/dc/terms/title>
+              "Using Stochastic Models to Describe and Predict Social Dynamics of Web Users" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2337542.2337547" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "33" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "3" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2337542.2337547> , <info:doi/10.1145/2337542.2337547> .
+
+<http://id.crossref.org/contributor/kristina-lerman-dyes6gbmfv2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lerman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kristina" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kristina Lerman" .
+
+<http://id.crossref.org/contributor/tad-hogg-dyes6gbmfv2o>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hogg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tad" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tad Hogg" .
+
+<http://id.crossref.org/issn/2157-6904>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2157-6912" , "2157-6904" ;
+      <http://purl.org/dc/terms/title>
+              "ACM Transactions on Intelligent Systems and Technology" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2157-6912" , "2157-6904" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2157-6912" , "urn:issn:2157-6904" .

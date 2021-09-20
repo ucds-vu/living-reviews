@@ -1,0 +1,96 @@
+<http://id.crossref.org/contributor/saleem-alhabash-3p2axxi2rdebe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Alhabash" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Saleem" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Saleem Alhabash" .
+
+<http://id.crossref.org/contributor/amy-hagerstrom-3p2axxi2rdebe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hagerstrom" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amy" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amy Hagerstrom" .
+
+<http://id.crossref.org/contributor/jef-i-richards-3p2axxi2rdebe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Richards" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jef I." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jef I. Richards" .
+
+<http://id.crossref.org/contributor/anna-r-mcalister-3p2axxi2rdebe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "McAlister" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anna R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anna R. McAlister" .
+
+<http://id.crossref.org/issn/2152-2715>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2152-2723" , "2152-2715" ;
+      <http://purl.org/dc/terms/title>
+              "Cyberpsychology, Behavior, and Social Networking" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2152-2723" , "2152-2715" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2152-2723" , "urn:issn:2152-2715" .
+
+<http://id.crossref.org/contributor/nora-j-rifon-3p2axxi2rdebe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rifon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nora J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nora J. Rifon" .
+
+<http://id.crossref.org/contributor/elizabeth-taylor-quilliam-3p2axxi2rdebe>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Quilliam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Elizabeth Taylor" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Elizabeth Taylor Quilliam" .
+
+<http://dx.doi.org/10.1089/cyber.2012.0265>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1089/cyber.2012.0265" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "182" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "175" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/saleem-alhabash-3p2axxi2rdebe> , <http://id.crossref.org/contributor/amy-hagerstrom-3p2axxi2rdebe> , <http://id.crossref.org/contributor/jef-i-richards-3p2axxi2rdebe> , <http://id.crossref.org/contributor/anna-r-mcalister-3p2axxi2rdebe> , <http://id.crossref.org/contributor/elizabeth-taylor-quilliam-3p2axxi2rdebe> , <http://id.crossref.org/contributor/nora-j-rifon-3p2axxi2rdebe> ;
+      <http://purl.org/dc/terms/date>
+              "2013-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1089/cyber.2012.0265" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2152-2715> ;
+      <http://purl.org/dc/terms/publisher>
+              "Mary Ann Liebert Inc" ;
+      <http://purl.org/dc/terms/title>
+              "Between Likes and Shares: Effects of Emotional Appeal and Virality on the Persuasiveness of Anticyberbullying Messages on Facebook" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1089/cyber.2012.0265" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "182" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "175" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1089/cyber.2012.0265> , <doi:10.1089/cyber.2012.0265> .

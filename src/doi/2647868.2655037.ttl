@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/scott-sanner-12rea5qzwur39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sanner" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Scott" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Scott Sanner" .
+
+<http://id.crossref.org/contributor/lexing-xie-12rea5qzwur39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xie" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lexing" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lexing Xie" .
+
+<http://id.crossref.org/isbn/9781450330633>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 22nd ACM international conference on Multimedia" .
+
+<http://id.crossref.org/contributor/honglin-yu-12rea5qzwur39>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Honglin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Honglin Yu" .
+
+<http://dx.doi.org/10.1145/2647868.2655037>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2647868.2655037" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/scott-sanner-12rea5qzwur39> , <http://id.crossref.org/contributor/lexing-xie-12rea5qzwur39> , <http://id.crossref.org/contributor/honglin-yu-12rea5qzwur39> ;
+      <http://purl.org/dc/terms/date>
+              "2014-11-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2647868.2655037" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450330633> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "Twitter-driven YouTube Views" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2647868.2655037" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2647868.2655037> , <info:doi/10.1145/2647868.2655037> .

@@ -1,0 +1,51 @@
+<http://id.crossref.org/isbn/9781450314626>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD '12" .
+
+<http://id.crossref.org/contributor/jure-leskovec-1o7xgzc9rb3qo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leskovec" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jure" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jure Leskovec" .
+
+<http://dx.doi.org/10.1145/2339530.2339540>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2339530.2339540" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jure-leskovec-1o7xgzc9rb3qo> , <http://id.crossref.org/contributor/chenguang-zhu-1o7xgzc9rb3qo> , <http://id.crossref.org/contributor/seth-a-myers-1o7xgzc9rb3qo> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2339530.2339540" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450314626> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Information diffusion and external influence in networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2339530.2339540" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2339530.2339540> , <info:doi/10.1145/2339530.2339540> .
+
+<http://id.crossref.org/contributor/seth-a-myers-1o7xgzc9rb3qo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Myers" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seth A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seth A. Myers" .
+
+<http://id.crossref.org/contributor/chenguang-zhu-1o7xgzc9rb3qo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chenguang" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chenguang Zhu" .

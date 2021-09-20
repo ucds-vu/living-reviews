@@ -1,0 +1,60 @@
+<http://dx.doi.org/10.1177/1940161212474472>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1940161212474472" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "166" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "138" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "18" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/sharon-meraz-cz2w7iwyisph> , <http://id.crossref.org/contributor/zizi-papacharissi-cz2w7iwyisph> ;
+      <http://purl.org/dc/terms/date>
+              "2013-01-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1940161212474472" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1940-1612> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Networked Gatekeeping and Networked Framing on #Egypt" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1940161212474472" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "166" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "138" ;
+      <http://purl.org/ontology/bibo/volume>
+              "18" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/1940161212474472> , <info:doi/10.1177/1940161212474472> .
+
+<http://id.crossref.org/contributor/sharon-meraz-cz2w7iwyisph>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meraz" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sharon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sharon Meraz" .
+
+<http://id.crossref.org/issn/1940-1612>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1940-1612" , "1940-1620" ;
+      <http://purl.org/dc/terms/title>
+              "The International Journal of Press/Politics" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1940-1612" , "1940-1620" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1940-1612" , "urn:issn:1940-1620" .
+
+<http://id.crossref.org/contributor/zizi-papacharissi-cz2w7iwyisph>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Papacharissi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Zizi" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Zizi Papacharissi" .

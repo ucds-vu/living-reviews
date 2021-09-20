@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1145/2187980.2188177>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2187980.2188177" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/aaditeshwar-seth-sp0mu965a51p> , <http://id.crossref.org/contributor/seema-nagar-sp0mu965a51p> , <http://id.crossref.org/contributor/anupam-joshi-sp0mu965a51p> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2187980.2188177" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450312301> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Characterization of social media response to natural disasters" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2187980.2188177" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2187980.2188177> , <info:doi/10.1145/2187980.2188177> .
+
+<http://id.crossref.org/isbn/9781450312301>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 21st international conference companion on World Wide Web - WWW '12 Companion" .
+
+<http://id.crossref.org/contributor/aaditeshwar-seth-sp0mu965a51p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Seth" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Aaditeshwar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Aaditeshwar Seth" .
+
+<http://id.crossref.org/contributor/seema-nagar-sp0mu965a51p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nagar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Seema" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Seema Nagar" .
+
+<http://id.crossref.org/contributor/anupam-joshi-sp0mu965a51p>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Joshi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Anupam" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Anupam Joshi" .

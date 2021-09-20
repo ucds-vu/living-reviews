@@ -1,0 +1,1209 @@
+@prefix : <https://w3id.org/livingreviews/np/relation/1/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/2/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/3/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/4/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.+> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/5/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.+> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+have+more+friends+or+followers.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/6/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+read+news+via+social+media+and/or+follow+news+organizations+are+more+likely+to+have+a+positive+attitude+towards+engaging+in+news+sharing.+> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+news+in+social+media+usually+have+a+rich+media+diet+and+use+multiple+sources+for+information+purposes.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/7/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+often+share+news+seem+to+actively+include+news+from+media+organizations+with+ideologies+that+differ+from+their+own.> hycl:hasConflicingMeaning <https://purl.org/aida/People+predominantly+share+like-minded+news+articles+while+avoiding+the+sharing+of+conflicting+ones>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/8/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.> hycl:hasRelatedMeaning <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/9/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.> hycl:hasRelatedMeaning <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/10/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.> hycl:hasRelatedMeaning <https://purl.org/aida/Altruistic+motive+is+one+of+the+main+drivers+of+information+sharing>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/11/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/12/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/13/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+need+to+interact+with+others+through+sharing+news+is+related+to+motives+like+socializing+and+getting+social+approval.> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+share+information+also+seek+information+which+makes+the+news+sharing+process+at+heart+a+reciprocal+one.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/14/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/More+arousing+content+regardless+if+positive+or+negative+is+shared+more+often> hycl:hasRelatedMeaning <https://purl.org/aida/Emotional+arousal+increases+the+likelihood+of+sharing+news.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/15/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/More+arousing+content+regardless+if+positive+or+negative+is+shared+more+often> hycl:hasRelatedMeaning <https://purl.org/aida/Emotional+arousal+increases+the+likelihood+of+sharing+news.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/16/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/Articles+that+are+placed+more+prominently+on+a+given+website+have+a+higher+chance+to+be+shared.> hycl:hasRelatedMeaning <https://purl.org/aida/The+ranking+or+placing+of+an+article+on+a+given+website+affects+its+sharing+probability.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/17/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/social+media+simplify+and+facilitate+news+sharing+for+media+organizations.> hycl:hasRelatedMeaning <https://purl.org/aida/Social+media+simplify+and+facilitate+news+sharing+for+individuals.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/18/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/social+media+simplify+and+facilitate+news+sharing+for+media+organizations.> hycl:hasMoreSpecificMeaningThan <https://purl.org/aida/All+US+newspapers+with+a+weekday+circulation+of+more+than+100,000+are+using+social+media+as+an+additional+means+to+distribute+their+content+online.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/19/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/Online+news+sites+increasingly+rely+on+referrals+from+social+media+to+improve+their+website+traffic,+article+views.> hycl:hasRelatedMeaning <https://purl.org/aida/Online+news+sites+increasingly+rely+on+referrals+from+social+media+to+improve++their+economic+success.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/20/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/Social+media+like+Facebook+and+Twitter+expose+segments+of+the+population+to+news+who+would+not+have+gotten+it+otherwise.> hycl:hasRelatedMeaning <https://purl.org/aida/Social+media+fundamentally+changes++the+way+we+have+to+conceptualize+and+measure+news+use+and+exposure+in+an+online+environment.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/21/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+word+sharing+is+not+particularly+helpful+for+scientific+analyses+of+social+media+activities+since+it+means+many+different+things+to+many+different+people.> hycl:hasRelatedMeaning <https://purl.org/aida/The+term+news+sharing,+representing+the+act+of+distributing+a+specific+kind+of+content,+is+more+precise+than+the+shorter+term+sharing+in+the+context+of+communication+science+research.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/22/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+word+sharing+is+not+particularly+helpful+for+scientific+analyses+of+social+media+activities+since+it+means+many+different+things+to+many+different+people.> hycl:hasRelatedMeaning <https://purl.org/aida/News+sharing+is+the+practice+of+giving+a+defined+set+of+people+access+to+news+content+via+social+media+platforms+by+posting+or+recommending+it.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/23/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+word+sharing+is+not+particularly+helpful+for+scientific+analyses+of+social+media+activities+since+it+means+many+different+things+to+many+different+people.> hycl:hasRelatedMeaning <https://purl.org/aida/Compared+to+the+term+news+sharing+,+the+term+social+media+is+a+more+diffuse+and+often+used+as+a+generic+buzzword.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/24/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+word+sharing+is+not+particularly+helpful+for+scientific+analyses+of+social+media+activities+since+it+means+many+different+things+to+many+different+people.> hycl:hasRelatedMeaning <https://purl.org/aida/In+the+context+of+communcation+science+research,+the+terms+social+networking+services+and+social+media+are+often+not+clearly+distinguished.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/25/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/The+word+sharing+is+not+particularly+helpful+for+scientific+analyses+of+social+media+activities+since+it+means+many+different+things+to+many+different+people.> hycl:hasRelatedMeaning <https://purl.org/aida/Some+communication+science+researchers+use+the+terms+sharing+and+news+sharing+synonymously,+while+others+emphasize+that+social+media+are+more+centered+on+content+and+that+SNSs+are+more+centered+on+people+and+their+networked+relations.s>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/26/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/For+methodological+and+theoretical+approaches+and+research+questions+and+sampling+strategies+it+is+hard+to+find+categories+that+fit+all+articles+under+investigation+due+to+their+diversity.> hycl:hasRelatedMeaning <https://purl.org/aida/Besides+its+relevance+for+media+organizations,+news+sharing+also+alters+the+way+the+audience+is+engaging+with+news.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/27/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/Individuals+own+news+sharing+behavior+increases+their+involvement+and+interest+in+news+topics.> hycl:hasRelatedMeaning <https://purl.org/aida/The+observation+of+other+people’s+news+sharing+activities+leads+to+more+news+exposure+and+to+confrontation+with+other+opinions+and+ideas.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/28/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/News+sharing+is+the+practice+of+giving+a+defined+set+of+people+access+to+news+content+via+social+media+platforms+by+posting+or+recommending+it.> hycl:hasMoreSpecificMeaningThan <https://purl.org/aida/Social+media+recently+are+a+constitutive+part+of+online+news+distribution+and+consumption.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/29/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/Individuals+own+news+sharing+behavior+increases+their+involvement+and+interest+in+news+topics.> hycl:hasRelatedMeaning <https://purl.org/aida/People+who+often+share+news+seem+to+actively+include+news+from+media+organizations+with+ideologies+that+differ+from+their+own.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/30/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/Individuals+own+news+sharing+behavior+increases+their+involvement+and+interest+in+news+topics.> hycl:hasMoreSpecificMeaningThans <https://purl.org/aida/People+who+share+news+in+social+media+tend+to+perceive+themselves+as+opinion+leaders.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+
+@prefix : <https://w3id.org/livingreviews/np/relation/31/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix hycl: <http://purl.org/petapico/o/hycl#> .
+@prefix ex: <http://example.org/> .
+@prefix llr: <https://w3id.org/livingreviews/vocab/> .
+
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://purl.org/aida/People+predominantly+share+like-minded+news+articles+while+avoiding+the+sharing+of+conflicting+ones.> hycl:hasConflicingMeaning <https://purl.org/aida/The+observation+of+other+people’s+news+sharing+activities+leads+to+more+news+exposure+and+to+confrontation+with+other+opinions+and+ideas.>.
+
+}
+
+:provenance {
+  :assertion prov:wasDerivedFrom <https://doi.org/10.1177/2056305115610141>.
+
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-2363-5880>, #Michel
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0003-1460-8757>, #Mickey
+                  <https://orcid.org/0000-0003-2929-3815>. #Kasper
+  : dct:created "2021-09-20T12:48:17.385+02:00"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}
+
+
+

@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/andrea-tagarelli-tx5xq6j71l5f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tagarelli" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Andrea" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Andrea Tagarelli" .
+
+<http://dx.doi.org/10.1145/2631775.2631808>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2631775.2631808" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/andrea-tagarelli-tx5xq6j71l5f> , <http://id.crossref.org/contributor/emilio-ferrara-tx5xq6j71l5f> , <http://id.crossref.org/contributor/roberto-interdonato-tx5xq6j71l5f> ;
+      <http://purl.org/dc/terms/date>
+              "2014-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2631775.2631808" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450329545> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "Online popularity and topical interests through the lens of instagram" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2631775.2631808" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2631775.2631808> , <info:doi/10.1145/2631775.2631808> .
+
+<http://id.crossref.org/isbn/9781450329545>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 25th ACM conference on Hypertext and social media" .
+
+<http://id.crossref.org/contributor/emilio-ferrara-tx5xq6j71l5f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ferrara" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emilio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emilio Ferrara" .
+
+<http://id.crossref.org/contributor/roberto-interdonato-tx5xq6j71l5f>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Interdonato" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Roberto" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Roberto Interdonato" .

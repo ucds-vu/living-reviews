@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/duncan-j-watts-31og317g2gasz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Watts" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Duncan J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Duncan J. Watts" .
+
+<http://id.crossref.org/isbn/9781450306324>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 20th international conference on World wide web - WWW '11" .
+
+<http://id.crossref.org/contributor/winter-a-mason-31og317g2gasz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mason" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Winter A." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Winter A. Mason" .
+
+<http://id.crossref.org/contributor/shaomei-wu-31og317g2gasz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Wu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shaomei" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shaomei Wu" .
+
+<http://dx.doi.org/10.1145/1963405.1963504>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1963405.1963504" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/duncan-j-watts-31og317g2gasz> , <http://id.crossref.org/contributor/winter-a-mason-31og317g2gasz> , <http://id.crossref.org/contributor/shaomei-wu-31og317g2gasz> , <http://id.crossref.org/contributor/jake-m-hofman-31og317g2gasz> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1963405.1963504" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450306324> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Who says what to whom on twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1963405.1963504" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/1963405.1963504> , <doi:10.1145/1963405.1963504> .
+
+<http://id.crossref.org/contributor/jake-m-hofman-31og317g2gasz>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hofman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jake M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jake M. Hofman" .

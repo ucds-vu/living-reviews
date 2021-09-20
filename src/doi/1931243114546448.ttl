@@ -1,0 +1,69 @@
+<http://id.crossref.org/issn/1931-2431>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1931-2431" , "1931-244X" ;
+      <http://purl.org/dc/terms/title>
+              "Electronic News" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1931-2431" , "1931-244X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1931-244X" , "urn:issn:1931-2431" .
+
+<http://id.crossref.org/contributor/mary-tucker-mclaughlin-4wfpa2oadq1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tucker-McLaughlin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mary" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mary Tucker-McLaughlin" .
+
+<http://id.crossref.org/contributor/dana-rosengard-4wfpa2oadq1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosengard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dana" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dana Rosengard" .
+
+<http://dx.doi.org/10.1177/1931243114546448>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1931243114546448" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "137" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "120" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "8" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/mary-tucker-mclaughlin-4wfpa2oadq1d> , <http://id.crossref.org/contributor/dana-rosengard-4wfpa2oadq1d> , <http://id.crossref.org/contributor/tim-brown-4wfpa2oadq1d> ;
+      <http://purl.org/dc/terms/date>
+              "2014-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1931243114546448" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1931-2431> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Students and Social News" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1931243114546448" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "137" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "120" ;
+      <http://purl.org/ontology/bibo/volume>
+              "8" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/1931243114546448> , <doi:10.1177/1931243114546448> .
+
+<http://id.crossref.org/contributor/tim-brown-4wfpa2oadq1d>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Brown" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tim" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tim Brown" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/hosung-park-28apzlpo5bde7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Park" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Hosung" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Hosung Park" .
+
+<http://id.crossref.org/contributor/sue-moon-28apzlpo5bde7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Moon" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Sue" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Sue Moon" .
+
+<http://id.crossref.org/isbn/9781605587998>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 19th international conference on World wide web - WWW '10" .
+
+<http://id.crossref.org/contributor/haewoon-kwak-28apzlpo5bde7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kwak" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Haewoon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Haewoon Kwak" .
+
+<http://id.crossref.org/contributor/changhyun-lee-28apzlpo5bde7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Changhyun" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Changhyun Lee" .
+
+<http://dx.doi.org/10.1145/1772690.1772751>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1772690.1772751" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/hosung-park-28apzlpo5bde7> , <http://id.crossref.org/contributor/sue-moon-28apzlpo5bde7> , <http://id.crossref.org/contributor/haewoon-kwak-28apzlpo5bde7> , <http://id.crossref.org/contributor/changhyun-lee-28apzlpo5bde7> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1772690.1772751" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781605587998> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "What is Twitter, a social network or a news media?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1772690.1772751" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1772690.1772751> , <info:doi/10.1145/1772690.1772751> .

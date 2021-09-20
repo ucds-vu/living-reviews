@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1109/GreenCom-iThings-CPSCom.2013.173>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1109/greencom-ithings-cpscom.2013.173" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chei-sian-lee-2r66nejq0xwyo> , <http://id.crossref.org/contributor/long-ma-2r66nejq0xwyo> , <http://id.crossref.org/contributor/dion-h-goh-2r66nejq0xwyo> ;
+      <http://purl.org/dc/terms/date>
+              "2013-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1109/greencom-ithings-cpscom.2013.173" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9780769550466> ;
+      <http://purl.org/dc/terms/publisher>
+              "IEEE" ;
+      <http://purl.org/dc/terms/title>
+              "Understanding News Sharing in Social Media from the Diffusion of Innovations Perspective" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1109/greencom-ithings-cpscom.2013.173" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://dx.doi.org/10.1109/greencom-ithings-cpscom.2013.173> , <doi:10.1109/greencom-ithings-cpscom.2013.173> , <info:doi/10.1109/greencom-ithings-cpscom.2013.173> .
+
+<http://id.crossref.org/contributor/chei-sian-lee-2r66nejq0xwyo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chei Sian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chei Sian Lee" .
+
+<http://id.crossref.org/contributor/long-ma-2r66nejq0xwyo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Long" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Long Ma" .
+
+<http://id.crossref.org/isbn/9780769550466>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "2013 IEEE International Conference on Green Computing and Communications and IEEE Internet of Things and IEEE Cyber, Physical and Social Computing" .
+
+<http://id.crossref.org/contributor/dion-h-goh-2r66nejq0xwyo>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dion H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dion H. Goh" .

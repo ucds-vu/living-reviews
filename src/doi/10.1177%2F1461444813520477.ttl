@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/yin-zhang-geu6l6c5kb9k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zhang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yin Zhang" .
+
+<http://id.crossref.org/issn/1461-4448>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1461-4448" , "1461-7315" ;
+      <http://purl.org/dc/terms/title>
+              "New Media & Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1461-4448" , "1461-7315" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1461-7315" , "urn:issn:1461-4448" .
+
+<http://dx.doi.org/10.1177/1461444813520477>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1461444813520477" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1024" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1007" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "17" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/yin-zhang-geu6l6c5kb9k> , <http://id.crossref.org/contributor/louis-leung-geu6l6c5kb9k> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1461444813520477" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1461-4448> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "A review of social networking service (SNS) research in communication journals from 2006 to 2011" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1461444813520477" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1024" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1007" ;
+      <http://purl.org/ontology/bibo/volume>
+              "17" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/1461444813520477> , <info:doi/10.1177/1461444813520477> .
+
+<http://id.crossref.org/contributor/louis-leung-geu6l6c5kb9k>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leung" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Louis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Louis Leung" .

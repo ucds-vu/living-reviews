@@ -1,0 +1,78 @@
+<http://id.crossref.org/issn/1461-670X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-9699" , "1461-670X" ;
+      <http://purl.org/dc/terms/title>
+              "Journalism Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-9699" , "1461-670X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-9699" , "urn:issn:1461-670X" .
+
+<http://id.crossref.org/contributor/fred-fletcher-3rjrcgtl89fqg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fletcher" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fred" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fred Fletcher" .
+
+<http://id.crossref.org/contributor/alfred-hermida-3rjrcgtl89fqg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hermida" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Alfred" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Alfred Hermida" .
+
+<http://dx.doi.org/10.1080/1461670X.2012.664430>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/1461670x.2012.664430" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "824" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "815" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fred-fletcher-3rjrcgtl89fqg> , <http://id.crossref.org/contributor/alfred-hermida-3rjrcgtl89fqg> , <http://id.crossref.org/contributor/darryl-korell-3rjrcgtl89fqg> , <http://id.crossref.org/contributor/donna-logan-3rjrcgtl89fqg> ;
+      <http://purl.org/dc/terms/date>
+              "2012-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/1461670x.2012.664430" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1461-670X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "SHARE, LIKE, RECOMMEND" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/1461670x.2012.664430" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "824" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "815" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1080/1461670x.2012.664430> , <doi:10.1080/1461670x.2012.664430> , <http://dx.doi.org/10.1080/1461670x.2012.664430> .
+
+<http://id.crossref.org/contributor/donna-logan-3rjrcgtl89fqg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Logan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Donna" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Donna Logan" .
+
+<http://id.crossref.org/contributor/darryl-korell-3rjrcgtl89fqg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Korell" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Darryl" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Darryl Korell" .

@@ -1,0 +1,60 @@
+<http://id.crossref.org/issn/1461-670X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1469-9699" , "1461-670X" ;
+      <http://purl.org/dc/terms/title>
+              "Journalism Studies" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1469-9699" , "1461-670X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1469-9699" , "urn:issn:1461-670X" .
+
+<http://id.crossref.org/contributor/axel-bruns-3luvlen41u1lk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bruns" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Axel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Axel Bruns" .
+
+<http://id.crossref.org/contributor/jean-burgess-3luvlen41u1lk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Burgess" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jean" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jean Burgess" .
+
+<http://dx.doi.org/10.1080/1461670X.2012.664428>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/1461670x.2012.664428" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "814" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "801" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "13" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/axel-bruns-3luvlen41u1lk> , <http://id.crossref.org/contributor/jean-burgess-3luvlen41u1lk> ;
+      <http://purl.org/dc/terms/date>
+              "2012-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/1461670x.2012.664428" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1461-670X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "RESEARCHING NEWS DISCUSSION ON TWITTER" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/1461670x.2012.664428" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "814" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "801" ;
+      <http://purl.org/ontology/bibo/volume>
+              "13" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <http://dx.doi.org/10.1080/1461670x.2012.664428> , <doi:10.1080/1461670x.2012.664428> , <info:doi/10.1080/1461670x.2012.664428> .

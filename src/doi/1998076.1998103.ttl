@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/chei-sian-lee-3to7ien47gtk7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lee" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Chei Sian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Chei Sian Lee" .
+
+<http://id.crossref.org/contributor/long-ma-3to7ien47gtk7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ma" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Long" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Long Ma" .
+
+<http://id.crossref.org/isbn/9781450307444>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceeding of the 11th annual international ACM/IEEE joint conference on Digital libraries - JCDL '11" .
+
+<http://dx.doi.org/10.1145/1998076.1998103>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1998076.1998103" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/chei-sian-lee-3to7ien47gtk7> , <http://id.crossref.org/contributor/long-ma-3to7ien47gtk7> , <http://id.crossref.org/contributor/dion-hoe-lian-goh-3to7ien47gtk7> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1998076.1998103" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450307444> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "That's news to me" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1998076.1998103" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1998076.1998103> , <info:doi/10.1145/1998076.1998103> .
+
+<http://id.crossref.org/contributor/dion-hoe-lian-goh-3to7ien47gtk7>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goh" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Dion Hoe-Lian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Dion Hoe-Lian Goh" .

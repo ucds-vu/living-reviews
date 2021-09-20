@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/franck-rebillard-7l5qqof3jxmd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rebillard" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Franck" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Franck Rebillard" .
+
+<http://id.crossref.org/issn/1461-4448>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1461-4448" , "1461-7315" ;
+      <http://purl.org/dc/terms/title>
+              "New Media & Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1461-4448" , "1461-7315" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1461-7315" , "urn:issn:1461-4448" .
+
+<http://dx.doi.org/10.1177/1461444809360699>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/1461444809360699" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "1261" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1244" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "12" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/franck-rebillard-7l5qqof3jxmd> , <http://id.crossref.org/contributor/nikos-smyrnaios-7l5qqof3jxmd> , <http://id.crossref.org/contributor/emmanuel-marty-7l5qqof3jxmd> ;
+      <http://purl.org/dc/terms/date>
+              "2010-05-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/1461444809360699" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1461-4448> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Does the Long Tail apply to online news? A quantitative study of French-speaking news websites" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/1461444809360699" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "1261" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1244" ;
+      <http://purl.org/ontology/bibo/volume>
+              "12" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1177/1461444809360699> , <info:doi/10.1177/1461444809360699> .
+
+<http://id.crossref.org/contributor/nikos-smyrnaios-7l5qqof3jxmd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Smyrnaios" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Nikos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Nikos Smyrnaios" .
+
+<http://id.crossref.org/contributor/emmanuel-marty-7l5qqof3jxmd>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marty" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emmanuel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emmanuel Marty" .

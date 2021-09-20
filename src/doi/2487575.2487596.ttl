@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/carlos-guestrin-1881r05nusw7u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Guestrin" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos Guestrin" .
+
+<http://dx.doi.org/10.1145/2487575.2487596>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2487575.2487596" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carlos-guestrin-1881r05nusw7u> , <http://id.crossref.org/contributor/min-xu-1881r05nusw7u> , <http://id.crossref.org/contributor/emily-b-fox-1881r05nusw7u> , <http://id.crossref.org/contributor/khalid-el-arini-1881r05nusw7u> ;
+      <http://purl.org/dc/terms/date>
+              "2013-08-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2487575.2487596" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450321747> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "Representing documents through their readers" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2487575.2487596" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2487575.2487596> , <info:doi/10.1145/2487575.2487596> .
+
+<http://id.crossref.org/contributor/min-xu-1881r05nusw7u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Xu" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Min" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Min Xu" .
+
+<http://id.crossref.org/isbn/9781450321747>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining" .
+
+<http://id.crossref.org/contributor/emily-b-fox-1881r05nusw7u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Fox" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Emily B." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Emily B. Fox" .
+
+<http://id.crossref.org/contributor/khalid-el-arini-1881r05nusw7u>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "El-Arini" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Khalid" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Khalid El-Arini" .

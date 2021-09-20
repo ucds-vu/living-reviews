@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/erik-johnson-27k718th6y9z6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Johnson" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Erik" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Erik Johnson" .
+
+<http://dx.doi.org/10.1145/2492517.2500262>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2492517.2500262" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/erik-johnson-27k718th6y9z6> , <http://id.crossref.org/contributor/bob-edwards-27k718th6y9z6> , <http://id.crossref.org/contributor/suma-ponnam-27k718th6y9z6> , <http://id.crossref.org/contributor/patrick-gillham-27k718th6y9z6> , <http://id.crossref.org/contributor/li-tan-27k718th6y9z6> ;
+      <http://purl.org/dc/terms/date>
+              "2013-08-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2492517.2500262" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450322409> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "Analyzing the impact of social media on social movements" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2492517.2500262" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2492517.2500262> , <info:doi/10.1145/2492517.2500262> .
+
+<http://id.crossref.org/contributor/bob-edwards-27k718th6y9z6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Edwards" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bob" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bob Edwards" .
+
+<http://id.crossref.org/contributor/suma-ponnam-27k718th6y9z6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ponnam" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Suma" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Suma Ponnam" .
+
+<http://id.crossref.org/isbn/9781450322409>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining" .
+
+<http://id.crossref.org/contributor/patrick-gillham-27k718th6y9z6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gillham" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patrick" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patrick Gillham" .
+
+<http://id.crossref.org/contributor/li-tan-27k718th6y9z6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Tan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Li" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Li Tan" .

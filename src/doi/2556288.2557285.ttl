@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/fabricio-benevenuto-34aw4x01wghfs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Benevenuto" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Fabrício" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Fabrício Benevenuto" .
+
+<http://id.crossref.org/contributor/krishna-p-gummadi-34aw4x01wghfs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gummadi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Krishna P." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Krishna P. Gummadi" .
+
+<http://id.crossref.org/contributor/jussara-m-almeida-34aw4x01wghfs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Almeida" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jussara M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jussara M. Almeida" .
+
+<http://id.crossref.org/contributor/flavio-figueiredo-34aw4x01wghfs>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Figueiredo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Flavio" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Flavio Figueiredo" .
+
+<http://id.crossref.org/isbn/9781450324731>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems" .
+
+<http://dx.doi.org/10.1145/2556288.2557285>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2556288.2557285" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/fabricio-benevenuto-34aw4x01wghfs> , <http://id.crossref.org/contributor/krishna-p-gummadi-34aw4x01wghfs> , <http://id.crossref.org/contributor/jussara-m-almeida-34aw4x01wghfs> , <http://id.crossref.org/contributor/flavio-figueiredo-34aw4x01wghfs> ;
+      <http://purl.org/dc/terms/date>
+              "2014-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2556288.2557285" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450324731> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "Does content determine information popularity in social media?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2556288.2557285" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2556288.2557285> , <doi:10.1145/2556288.2557285> .

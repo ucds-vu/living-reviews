@@ -1,0 +1,69 @@
+<http://dx.doi.org/10.1145/2597892>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2597892" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "25" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "1" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "5" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/connie-st-louis-l5urooqcks2> , <http://id.crossref.org/contributor/martin-szomszor-l5urooqcks2> , <http://id.crossref.org/contributor/patty-kostkova-l5urooqcks2> ;
+      <http://purl.org/dc/terms/date>
+              "2014-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2597892" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2158-656X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Association for Computing Machinery (ACM)" ;
+      <http://purl.org/dc/terms/title>
+              "#swineflu" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2597892" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "25" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "1" ;
+      <http://purl.org/ontology/bibo/volume>
+              "5" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2597892> , <info:doi/10.1145/2597892> .
+
+<http://id.crossref.org/contributor/connie-st-louis-l5urooqcks2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "St. Louis" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Connie" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Connie St. Louis" .
+
+<http://id.crossref.org/issn/2158-656X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2158-656X" , "2158-6578" ;
+      <http://purl.org/dc/terms/title>
+              "ACM Transactions on Management Information Systems" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2158-656X" , "2158-6578" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2158-6578" , "urn:issn:2158-656X" .
+
+<http://id.crossref.org/contributor/martin-szomszor-l5urooqcks2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Szomszor" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Martin" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Martin Szomszor" .
+
+<http://id.crossref.org/contributor/patty-kostkova-l5urooqcks2>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kostkova" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Patty" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Patty Kostkova" .

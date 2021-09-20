@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/marcelo-mendoza-335y62er0xra5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Mendoza" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Marcelo" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Marcelo Mendoza" .
+
+<http://id.crossref.org/contributor/barbara-poblete-335y62er0xra5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Poblete" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Barbara" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Barbara Poblete" .
+
+<http://dx.doi.org/10.1145/1964858.1964869>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1964858.1964869" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/marcelo-mendoza-335y62er0xra5> , <http://id.crossref.org/contributor/barbara-poblete-335y62er0xra5> , <http://id.crossref.org/contributor/carlos-castillo-335y62er0xra5> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1964858.1964869" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450302173> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Twitter under crisis" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1964858.1964869" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/1964858.1964869> , <info:doi/10.1145/1964858.1964869> .
+
+<http://id.crossref.org/contributor/carlos-castillo-335y62er0xra5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Castillo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos Castillo" .
+
+<http://id.crossref.org/isbn/9781450302173>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the First Workshop on Social Media Analytics - SOMA '10" .

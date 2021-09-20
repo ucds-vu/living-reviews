@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/lada-adamic-nxgkq4ndwj30>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Adamic" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lada" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lada Adamic" .
+
+<http://id.crossref.org/contributor/cameron-marlow-nxgkq4ndwj30>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Marlow" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cameron" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cameron Marlow" .
+
+<http://id.crossref.org/isbn/9781450312295>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 21st international conference on World Wide Web  - WWW '12" .
+
+<http://id.crossref.org/contributor/eytan-bakshy-nxgkq4ndwj30>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bakshy" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Eytan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Eytan Bakshy" .
+
+<http://dx.doi.org/10.1145/2187836.2187907>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2187836.2187907" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/lada-adamic-nxgkq4ndwj30> , <http://id.crossref.org/contributor/cameron-marlow-nxgkq4ndwj30> , <http://id.crossref.org/contributor/eytan-bakshy-nxgkq4ndwj30> , <http://id.crossref.org/contributor/itamar-rosenn-nxgkq4ndwj30> ;
+      <http://purl.org/dc/terms/date>
+              "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2187836.2187907" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450312295> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "The role of social networks in information diffusion" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2187836.2187907" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2187836.2187907> , <doi:10.1145/2187836.2187907> .
+
+<http://id.crossref.org/contributor/itamar-rosenn-nxgkq4ndwj30>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Rosenn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Itamar" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Itamar Rosenn" .

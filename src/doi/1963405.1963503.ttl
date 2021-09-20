@@ -1,0 +1,51 @@
+<http://id.crossref.org/isbn/9781450306324>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 20th international conference on World wide web - WWW '11" .
+
+<http://dx.doi.org/10.1145/1963405.1963503>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1963405.1963503" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/daniel-m-romero-20kfajwlwaenk> , <http://id.crossref.org/contributor/brendan-meeder-20kfajwlwaenk> , <http://id.crossref.org/contributor/jon-kleinberg-20kfajwlwaenk> ;
+      <http://purl.org/dc/terms/date>
+              "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1963405.1963503" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450306324> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Differences in the mechanics of information diffusion across topics" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1963405.1963503" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/1963405.1963503> , <doi:10.1145/1963405.1963503> .
+
+<http://id.crossref.org/contributor/daniel-m-romero-20kfajwlwaenk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Romero" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Daniel M." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Daniel M. Romero" .
+
+<http://id.crossref.org/contributor/brendan-meeder-20kfajwlwaenk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Meeder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Brendan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Brendan Meeder" .
+
+<http://id.crossref.org/contributor/jon-kleinberg-20kfajwlwaenk>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Kleinberg" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jon" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jon Kleinberg" .

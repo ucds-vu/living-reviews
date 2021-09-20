@@ -1,0 +1,51 @@
+<http://dx.doi.org/10.1145/2441776.2441877>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2441776.2441877" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/cliff-lampe-32fqzja020l3e> , <http://id.crossref.org/contributor/jonathan-scott-morgan-32fqzja020l3e> , <http://id.crossref.org/contributor/muhammad-zubair-shafiq-32fqzja020l3e> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2441776.2441877" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450313315> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Is news sharing on Twitter ideologically biased?" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2441776.2441877" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2441776.2441877> , <doi:10.1145/2441776.2441877> .
+
+<http://id.crossref.org/contributor/cliff-lampe-32fqzja020l3e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lampe" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Cliff" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Cliff Lampe" .
+
+<http://id.crossref.org/isbn/9781450313315>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 2013 conference on Computer supported cooperative work - CSCW '13" .
+
+<http://id.crossref.org/contributor/jonathan-scott-morgan-32fqzja020l3e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Morgan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonathan Scott" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonathan Scott Morgan" .
+
+<http://id.crossref.org/contributor/muhammad-zubair-shafiq-32fqzja020l3e>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Shafiq" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Muhammad Zubair" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Muhammad Zubair Shafiq" .

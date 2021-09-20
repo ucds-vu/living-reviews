@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/tyler-j-horan-3589z20td6eb9>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Horan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Tyler J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Tyler J. Horan" .
+
+<http://dx.doi.org/10.1080/1369118X.2011.649774>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/1369118x.2011.649774" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "60" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "43" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "16" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/tyler-j-horan-3589z20td6eb9> ;
+      <http://purl.org/dc/terms/date>
+              "2013-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/1369118x.2011.649774" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/1369-118X> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "‘SOFT’ VERSUS ‘HARD’ NEWS ON MICROBLOGGING NETWORKS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/1369118x.2011.649774" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "60" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "43" ;
+      <http://purl.org/ontology/bibo/volume>
+              "16" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/1369118x.2011.649774> , <info:doi/10.1080/1369118x.2011.649774> , <http://dx.doi.org/10.1080/1369118x.2011.649774> .
+
+<http://id.crossref.org/issn/1369-118X>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "1468-4462" , "1369-118X" ;
+      <http://purl.org/dc/terms/title>
+              "Information, Communication & Society" ;
+      <http://purl.org/ontology/bibo/issn>
+              "1468-4462" , "1369-118X" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1369-118X" , "urn:issn:1468-4462" .

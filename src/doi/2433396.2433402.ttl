@@ -1,0 +1,51 @@
+<http://id.crossref.org/isbn/9781450318693>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the sixth ACM international conference on Web search and data mining - WSDM '13" .
+
+<http://id.crossref.org/contributor/bernhard-scholkopf-18j9fl1c127d6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schölkopf" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bernhard" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bernhard Schölkopf" .
+
+<http://id.crossref.org/contributor/jure-leskovec-18j9fl1c127d6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Leskovec" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jure" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jure Leskovec" .
+
+<http://dx.doi.org/10.1145/2433396.2433402>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2433396.2433402" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/bernhard-scholkopf-18j9fl1c127d6> , <http://id.crossref.org/contributor/jure-leskovec-18j9fl1c127d6> , <http://id.crossref.org/contributor/manuel-gomez-rodriguez-18j9fl1c127d6> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2433396.2433402" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450318693> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Structure and dynamics of information pathways in online media" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2433396.2433402" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2433396.2433402> , <doi:10.1145/2433396.2433402> .
+
+<http://id.crossref.org/contributor/manuel-gomez-rodriguez-18j9fl1c127d6>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Gomez Rodriguez" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Manuel" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Manuel Gomez Rodriguez" .

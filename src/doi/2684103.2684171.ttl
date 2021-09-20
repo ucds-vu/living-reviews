@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/wei-ting-chang-3lcgm6swmypc4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Wei Ting" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Wei Ting Chang" .
+
+<http://id.crossref.org/contributor/shu-chen-yang-3lcgm6swmypc4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Yang" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Shu Chen" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Shu Chen Yang" .
+
+<http://dx.doi.org/10.1145/2684103.2684171>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2684103.2684171" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/shu-chen-yang-3lcgm6swmypc4> , <http://id.crossref.org/contributor/wei-ting-chang-3lcgm6swmypc4> , <http://id.crossref.org/contributor/yi-ting-hsiao-3lcgm6swmypc4> , <http://id.crossref.org/contributor/bo-yu-chen-3lcgm6swmypc4> ;
+      <http://purl.org/dc/terms/date>
+              "2014-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2684103.2684171" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450330084> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM" ;
+      <http://purl.org/dc/terms/title>
+              "The Effects of Perceived Value on Facebook Post Sharing Intention" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2684103.2684171" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1145/2684103.2684171> , <info:doi/10.1145/2684103.2684171> .
+
+<http://id.crossref.org/contributor/bo-yu-chen-3lcgm6swmypc4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Chen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Bo Yu" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Bo Yu Chen" .
+
+<http://id.crossref.org/contributor/yi-ting-hsiao-3lcgm6swmypc4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hsiao" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Yi Ting" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Yi Ting Hsiao" .
+
+<http://id.crossref.org/isbn/9781450330084>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 12th International Conference on Advances in Mobile Computing and Multimedia" .

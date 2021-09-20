@@ -1,0 +1,51 @@
+<http://id.crossref.org/contributor/amit-goyal-28iyviwa5rzu5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Goyal" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Amit" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Amit Goyal" .
+
+<http://dx.doi.org/10.1145/1718487.1718518>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/1718487.1718518" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/amit-goyal-28iyviwa5rzu5> , <http://id.crossref.org/contributor/laks-v-s-lakshmanan-28iyviwa5rzu5> , <http://id.crossref.org/contributor/francesco-bonchi-28iyviwa5rzu5> ;
+      <http://purl.org/dc/terms/date>
+              "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/1718487.1718518" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781605588896> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Learning influence probabilities in social networks" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/1718487.1718518" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/1718487.1718518> , <doi:10.1145/1718487.1718518> .
+
+<http://id.crossref.org/contributor/laks-v-s-lakshmanan-28iyviwa5rzu5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lakshmanan" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Laks V.S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Laks V.S. Lakshmanan" .
+
+<http://id.crossref.org/isbn/9781605588896>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the third ACM international conference on Web search and data mining - WSDM '10" .
+
+<http://id.crossref.org/contributor/francesco-bonchi-28iyviwa5rzu5>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Bonchi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Francesco" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Francesco Bonchi" .

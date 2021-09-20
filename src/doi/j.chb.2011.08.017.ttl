@@ -1,0 +1,69 @@
+<http://id.crossref.org/contributor/carroll-j-glynn-3kcdmqom420lj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Glynn" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carroll J." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carroll J. Glynn" .
+
+<http://id.crossref.org/issn/0747-5632>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0747-5632" ;
+      <http://purl.org/dc/terms/title>
+              "Computers in Human Behavior" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0747-5632" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:0747-5632" .
+
+<http://id.crossref.org/contributor/michael-e-huge-3kcdmqom420lj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Huge" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Michael E." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Michael E. Huge" .
+
+<http://id.crossref.org/contributor/lindsay-h-hoffman-3kcdmqom420lj>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Hoffman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Lindsay H." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Lindsay H. Hoffman" .
+
+<http://dx.doi.org/10.1016/j.chb.2011.08.017>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1016/j.chb.2011.08.017" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "119" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "113" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "28" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carroll-j-glynn-3kcdmqom420lj> , <http://id.crossref.org/contributor/lindsay-h-hoffman-3kcdmqom420lj> , <http://id.crossref.org/contributor/michael-e-huge-3kcdmqom420lj> ;
+      <http://purl.org/dc/terms/date>
+              "2012-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1016/j.chb.2011.08.017" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0747-5632> ;
+      <http://purl.org/dc/terms/publisher>
+              "Elsevier BV" ;
+      <http://purl.org/dc/terms/title>
+              "All the news that’s fit to post: A profile of news use on social networking sites" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1016/j.chb.2011.08.017" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "119" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "113" ;
+      <http://purl.org/ontology/bibo/volume>
+              "28" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1016/j.chb.2011.08.017> , <info:doi/10.1016/j.chb.2011.08.017> .

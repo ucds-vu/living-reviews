@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/carlos-castillo-2yyepxditofdy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Castillo" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Carlos" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Carlos Castillo" .
+
+<http://id.crossref.org/contributor/ethan-zuckerman-2yyepxditofdy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Zuckerman" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Ethan" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Ethan Zuckerman" .
+
+<http://id.crossref.org/contributor/janette-lehmann-2yyepxditofdy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lehmann" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Janette" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Janette Lehmann" .
+
+<http://id.crossref.org/isbn/9781450320382>
+      a       <http://purl.org/ontology/bibo/Book> ;
+      <http://purl.org/dc/terms/title>
+              "Proceedings of the 22nd International Conference on World Wide Web - WWW '13 Companion" .
+
+<http://dx.doi.org/10.1145/2487788.2488068>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1145/2487788.2488068" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/carlos-castillo-2yyepxditofdy> , <http://id.crossref.org/contributor/ethan-zuckerman-2yyepxditofdy> , <http://id.crossref.org/contributor/janette-lehmann-2yyepxditofdy> , <http://id.crossref.org/contributor/mounia-lalmas-2yyepxditofdy> ;
+      <http://purl.org/dc/terms/date>
+              "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1145/2487788.2488068" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/isbn/9781450320382> ;
+      <http://purl.org/dc/terms/publisher>
+              "ACM Press" ;
+      <http://purl.org/dc/terms/title>
+              "Finding news curators in twitter" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1145/2487788.2488068" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1145/2487788.2488068> , <doi:10.1145/2487788.2488068> .
+
+<http://id.crossref.org/contributor/mounia-lalmas-2yyepxditofdy>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Lalmas" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Mounia" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Mounia Lalmas" .

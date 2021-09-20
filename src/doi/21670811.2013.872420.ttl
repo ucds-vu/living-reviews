@@ -1,0 +1,60 @@
+<http://id.crossref.org/contributor/kim-christian-schrder-2u24m981z42zv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Schrøder" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Kim Christian" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Kim Christian Schrøder" .
+
+<http://dx.doi.org/10.1080/21670811.2013.872420>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1080/21670811.2013.872420" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "489" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "472" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "2" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/kim-christian-schrder-2u24m981z42zv> , <http://id.crossref.org/contributor/rasmus-kleis-nielsen-2u24m981z42zv> ;
+      <http://purl.org/dc/terms/date>
+              "2014-01-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1080/21670811.2013.872420" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2167-0811> ;
+      <http://purl.org/dc/terms/publisher>
+              "Informa UK Limited" ;
+      <http://purl.org/dc/terms/title>
+              "The Relative Importance of Social Media for Accessing, Finding, and Engaging with News" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1080/21670811.2013.872420" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "489" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "472" ;
+      <http://purl.org/ontology/bibo/volume>
+              "2" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <doi:10.1080/21670811.2013.872420> , <info:doi/10.1080/21670811.2013.872420> .
+
+<http://id.crossref.org/contributor/rasmus-kleis-nielsen-2u24m981z42zv>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Nielsen" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Rasmus Kleis" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Rasmus Kleis Nielsen" .
+
+<http://id.crossref.org/issn/2167-0811>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2167-082X" , "2167-0811" ;
+      <http://purl.org/dc/terms/title>
+              "Digital Journalism" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2167-082X" , "2167-0811" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2167-082X" , "urn:issn:2167-0811" .

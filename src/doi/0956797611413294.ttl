@@ -1,0 +1,51 @@
+<http://id.crossref.org/issn/0956-7976>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "0956-7976" , "1467-9280" ;
+      <http://purl.org/dc/terms/title>
+              "Psychological Science" ;
+      <http://purl.org/ontology/bibo/issn>
+              "0956-7976" , "1467-9280" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:1467-9280" , "urn:issn:0956-7976" .
+
+<http://id.crossref.org/contributor/jonah-berger-6rbzvl9m98wg>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Berger" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "Jonah" ;
+      <http://xmlns.com/foaf/0.1/name>
+              "Jonah Berger" .
+
+<http://dx.doi.org/10.1177/0956797611413294>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1177/0956797611413294" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "893" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "891" ;
+      <http://prismstandard.org/namespaces/basic/2.1/volume>
+              "22" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/jonah-berger-6rbzvl9m98wg> ;
+      <http://purl.org/dc/terms/date>
+              "2011-06-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1177/0956797611413294" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/0956-7976> ;
+      <http://purl.org/dc/terms/publisher>
+              "SAGE Publications" ;
+      <http://purl.org/dc/terms/title>
+              "Arousal Increases Social Transmission of Information" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1177/0956797611413294" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "893" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "891" ;
+      <http://purl.org/ontology/bibo/volume>
+              "22" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1177/0956797611413294> , <doi:10.1177/0956797611413294> .
