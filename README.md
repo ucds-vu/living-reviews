@@ -1,6 +1,6 @@
 Living Literature Reviews
 =========              
-A way to represent literature reviews in a machine-interpretable and easy updateable manner using Nanopublications.
+A way to represent literature reviews in a machine-interpretable and easy updateable manner using nanopublications.
 
 ## Introduction
 This repository is part of the Living Literature Reviews paper written by Michel Wijkstra, Timo Lek, Tobias Kuhn, Kasper Welbers, and Mickey Steijaert (VU University Amsterdam).
